@@ -1,0 +1,244 @@
+{
+    "AEAM_KR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa KARINA** Armageddon",
+            "label": "aespa KARINA",
+            "preview": "<:grade_R:1171195690521743360> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/karina/1.png?format=original",
+            "song": "Armageddon",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AEAM_KR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa KARINA** Armageddon",
+            "label": "aespa KARINA",
+            "preview": "<:grade_S:1171197327185285201> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/karina/2.png?format=original",
+            "song": "Armageddon",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AEAM_KR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa KARINA** Armageddon",
+            "label": "aespa KARINA",
+            "preview": "<:grade_A:1171197331538980874> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/karina/3.png?format=original",
+            "song": "Armageddon",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AEAM_KR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa KARINA** Armageddon",
+            "label": "aespa KARINA",
+            "preview": "<:grade_B:1171195683894722601> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/karina/4.png?format=original",
+            "song": "Armageddon",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AEAM_KR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa KARINA** Armageddon",
+            "label": "aespa KARINA",
+            "preview": "<:grade_C:1171195686209978398> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/karina/5.png?format=original",
+            "song": "Armageddon",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "AEAM_GS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa GISELLE** Armageddon",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_R:1171195690521743360> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/giselle/1.png?format=original",
+            "song": "Armageddon",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AEAM_GS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa GISELLE** Armageddon",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_S:1171197327185285201> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/giselle/2.png?format=original",
+            "song": "Armageddon",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AEAM_GS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa GISELLE** Armageddon",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_A:1171197331538980874> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/giselle/3.png?format=original",
+            "song": "Armageddon",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AEAM_GS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa GISELLE** Armageddon",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_B:1171195683894722601> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/giselle/4.png?format=original",
+            "song": "Armageddon",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AEAM_GS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa GISELLE** Armageddon",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_C:1171195686209978398> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/giselle/5.png?format=original",
+            "song": "Armageddon",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "AEAM_WT_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa WINTER** Armageddon",
+            "label": "aespa WINTER",
+            "preview": "<:grade_R:1171195690521743360> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/winter/1.png?format=original",
+            "song": "Armageddon",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AEAM_WT_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa WINTER** Armageddon",
+            "label": "aespa WINTER",
+            "preview": "<:grade_S:1171197327185285201> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/winter/2.png?format=original",
+            "song": "Armageddon",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AEAM_WT_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa WINTER** Armageddon",
+            "label": "aespa WINTER",
+            "preview": "<:grade_A:1171197331538980874> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/winter/3.png?format=original",
+            "song": "Armageddon",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AEAM_WT_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa WINTER** Armageddon",
+            "label": "aespa WINTER",
+            "preview": "<:grade_B:1171195683894722601> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/winter/4.png?format=original",
+            "song": "Armageddon",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AEAM_WT_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa WINTER** Armageddon",
+            "label": "aespa WINTER",
+            "preview": "<:grade_C:1171195686209978398> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/winter/5.png?format=original",
+            "song": "Armageddon",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "AEAM_NN_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa NINGNING** Armageddon",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_R:1171195690521743360> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/ningning/1.png?format=original",
+            "song": "Armageddon",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AEAM_NN_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa NINGNING** Armageddon",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_S:1171197327185285201> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/ningning/2.png?format=original",
+            "song": "Armageddon",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AEAM_NN_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa NINGNING** Armageddon",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_A:1171197331538980874> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/ningning/3.png?format=original",
+            "song": "Armageddon",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AEAM_NN_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa NINGNING** Armageddon",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_B:1171195683894722601> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/ningning/4.png?format=original",
+            "song": "Armageddon",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AEAM_NN_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa NINGNING** Armageddon",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_C:1171195686209978398> Armageddon",
+            "guess": "A _ _ _ g _ _ _ o _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/armageddon/ningning/5.png?format=original",
+            "song": "Armageddon",
+            "min": "100",
+            "max": "200"
+        }
+    ]
+}
