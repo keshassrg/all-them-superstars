@@ -240,5 +240,248 @@
             "min": "100",
             "max": "200"
         }
+    ],
+
+    "ITBT_YJ_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **ITZY YEJI** BORN TO BE",
+            "label": "ITZY YEJI",
+            "preview": "<:grade_R:1171195690521743360> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yeji/1.png?format=original",
+            "song": "BORN TO BE",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "ITBT_YJ_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **ITZY YEJI** BORN TO BE",
+            "label": "ITZY YEJI",
+            "preview": "<:grade_S:1171197327185285201> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yeji/2.png?format=original",
+            "song": "BORN TO BE",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "ITBT_YJ_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **ITZY YEJI** BORN TO BE",
+            "label": "ITZY YEJI",
+            "preview": "<:grade_A:1171197331538980874> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yeji/3.png?format=original",
+            "song": "BORN TO BE",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "ITBT_YJ_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **ITZY YEJI** BORN TO BE",
+            "label": "ITZY YEJI",
+            "preview": "<:grade_B:1171195683894722601> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yeji/4.png?format=original",
+            "song": "BORN TO BE",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "ITBT_YJ_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **ITZY YEJI** BORN TO BE",
+            "label": "ITZY YEJI",
+            "preview": "<:grade_C:1171195686209978398> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yeji/5.png?format=original",
+            "song": "BORN TO BE",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "ITBT_RJ_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **ITZY RYUJIN** BORN TO BE",
+            "label": "ITZY RYUJIN",
+            "preview": "<:grade_R:1171195690521743360> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/ryujin/1.png?format=original",
+            "song": "BORN TO BE",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "ITBT_RJ_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **ITZY RYUJIN** BORN TO BE",
+            "label": "ITZY RYUJIN",
+            "preview": "<:grade_S:1171197327185285201> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/ryujin/2.png?format=original",
+            "song": "BORN TO BE",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "ITBT_RJ_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **ITZY RYUJIN** BORN TO BE",
+            "label": "ITZY RYUJIN",
+            "preview": "<:grade_A:1171197331538980874> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/ryujin/3.png?format=original",
+            "song": "BORN TO BE",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "ITBT_RJ_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **ITZY RYUJIN** BORN TO BE",
+            "label": "ITZY RYUJIN",
+            "preview": "<:grade_B:1171195683894722601> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/ryujin/4.png?format=original",
+            "song": "BORN TO BE",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "ITBT_RJ_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **ITZY RYUJIN** BORN TO BE",
+            "label": "ITZY RYUJIN",
+            "preview": "<:grade_C:1171195686209978398> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/ryujin/5.png?format=original",
+            "song": "BORN TO BE",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "ITBT_CY_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **ITZY CHAERYEONG** BORN TO BE",
+            "label": "ITZY CHAERYEONG",
+            "preview": "<:grade_R:1171195690521743360> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/chaeryeong/1.png?format=original",
+            "song": "BORN TO BE",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "ITBT_CY_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **ITZY CHAERYEONG** BORN TO BE",
+            "label": "ITZY CHAERYEONG",
+            "preview": "<:grade_S:1171197327185285201> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/chaeryeong/2.png?format=original",
+            "song": "BORN TO BE",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "ITBT_CY_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **ITZY CHAERYEONG** BORN TO BE",
+            "label": "ITZY CHAERYEONG",
+            "preview": "<:grade_A:1171197331538980874> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/chaeryeong/3.png?format=original",
+            "song": "BORN TO BE",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "ITBT_CY_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **ITZY CHAERYEONG** BORN TO BE",
+            "label": "ITZY CHAERYEONG",
+            "preview": "<:grade_B:1171195683894722601> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/chaeryeong/4.png?format=original",
+            "song": "BORN TO BE",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "ITBT_CY_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **ITZY CHAERYEONG** BORN TO BE",
+            "label": "ITZY CHAERYEONG",
+            "preview": "<:grade_C:1171195686209978398> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/chaeryeong/5.png?format=original",
+            "song": "BORN TO BE",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "ITBT_YN_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **ITZY YUNA** BORN TO BE",
+            "label": "ITZY YUNA",
+            "preview": "<:grade_R:1171195690521743360> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yuna/1.png?format=original",
+            "song": "BORN TO BE",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "ITBT_YN_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **ITZY YUNA** BORN TO BE",
+            "label": "ITZY YUNA",
+            "preview": "<:grade_S:1171197327185285201> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yuna/2.png?format=original",
+            "song": "BORN TO BE",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "ITBT_YN_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **ITZY YUNA** BORN TO BE",
+            "label": "ITZY YUNA",
+            "preview": "<:grade_A:1171197331538980874> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yuna/3.png?format=original",
+            "song": "BORN TO BE",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "ITBT_YN_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **ITZY YUNA** BORN TO BE",
+            "label": "ITZY YUNA",
+            "preview": "<:grade_B:1171195683894722601> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yuna/4.png?format=original",
+            "song": "BORN TO BE",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "ITBT_YN_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **ITZY YUNA** BORN TO BE",
+            "label": "ITZY YUNA",
+            "preview": "<:grade_C:1171195686209978398> BORN TO BE",
+            "guess": "B _ _ _  _ O  _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/itzy/born_to_be/yuna/5.png?format=original",
+            "song": "BORN TO BE",
+            "min": "100",
+            "max": "200"
+        }
     ]
 }
