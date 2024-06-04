@@ -242,6 +242,8 @@
         }
     ],
 
+    
+
     "ITBT_YJ_R": [
         {
             "name": "<:grade_R:1171195690521743360> **ITZY YEJI** BORN TO BE",
@@ -483,5 +485,496 @@
             "min": "100",
             "max": "200"
         }
+    ],
+
+    
+    "BNSS_AI_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Aiah** Salamin, Salamin",
+            "label": "BINI Aiah",
+            "preview": "<:grade_R:1171195690521743360> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/aiah/1.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNSS_AI_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Aiah** Salamin, Salamin",
+            "label": "BINI Aiah",
+            "preview": "<:grade_S:1171197327185285201> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/aiah/2.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNSS_AI_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Aiah** Salamin, Salamin",
+            "label": "BINI Aiah",
+            "preview": "<:grade_A:1171197331538980874> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/aiah/3.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNSS_AI_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Aiah** Salamin, Salamin",
+            "label": "BINI Aiah",
+            "preview": "<:grade_B:1171195683894722601> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/aiah/4.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNSS_AI_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Aiah** Salamin, Salamin",
+            "label": "BINI Aiah",
+            "preview": "<:grade_C:1171195686209978398> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/aiah/5.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "BNSS_CL_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Colet** Salamin, Salamin",
+            "label": "BINI Colet",
+            "preview": "<:grade_R:1171195690521743360> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/colet/1.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNSS_CL_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Colet** Salamin, Salamin",
+            "label": "BINI Colet",
+            "preview": "<:grade_S:1171197327185285201> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/colet/2.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNSS_CL_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Colet** Salamin, Salamin",
+            "label": "BINI Colet",
+            "preview": "<:grade_A:1171197331538980874> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/colet/3.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNSS_CL_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Colet** Salamin, Salamin",
+            "label": "BINI Colet",
+            "preview": "<:grade_B:1171195683894722601> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/colet/4.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNSS_CL_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Colet** Salamin, Salamin",
+            "label": "BINI Colet",
+            "preview": "<:grade_C:1171195686209978398> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/colet/5.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNSS_ML_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Maloi** Salamin, Salamin",
+            "label": "BINI Maloi",
+            "preview": "<:grade_R:1171195690521743360> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/maloi/1.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNSS_ML_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Maloi** Salamin, Salamin",
+            "label": "BINI Maloi",
+            "preview": "<:grade_S:1171197327185285201> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/maloi/2.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNSS_ML_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Maloi** Salamin, Salamin",
+            "label": "BINI Maloi",
+            "preview": "<:grade_A:1171197331538980874> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/maloi/3.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNSS_ML_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Maloi** Salamin, Salamin",
+            "label": "BINI Maloi",
+            "preview": "<:grade_B:1171195683894722601> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/maloi/4.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNSS_ML_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Maloi** Salamin, Salamin",
+            "label": "BINI Maloi",
+            "preview": "<:grade_C:1171195686209978398> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/maloi/5.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNSS_JH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Jhoanna** Salamin, Salamin",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_R:1171195690521743360> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/jhoanna/1.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNSS_JH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Jhoanna** Salamin, Salamin",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_S:1171197327185285201> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/jhoanna/2.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNSS_JH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Jhoanna** Salamin, Salamin",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_A:1171197331538980874> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/jhoanna/3.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNSS_JH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Jhoanna** Salamin, Salamin",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_B:1171195683894722601> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/jhoanna/4.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNSS_JH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Jhoanna** Salamin, Salamin",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_C:1171195686209978398> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/jhoanna/5.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    
+
+    "BNSS_YJ_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Gwen** Salamin, Salamin",
+            "label": "BINI Gwen",
+            "preview": "<:grade_R:1171195690521743360> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/gwen/1.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNSS_YJ_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Gwen** Salamin, Salamin",
+            "label": "BINI Gwen",
+            "preview": "<:grade_S:1171197327185285201> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/gwen/2.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNSS_YJ_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Gwen** Salamin, Salamin",
+            "label": "BINI Gwen",
+            "preview": "<:grade_A:1171197331538980874> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/gwen/3.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNSS_YJ_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Gwen** Salamin, Salamin",
+            "label": "BINI Gwen",
+            "preview": "<:grade_B:1171195683894722601> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/gwen/4.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNSS_YJ_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Gwen** Salamin, Salamin",
+            "label": "BINI Gwen",
+            "preview": "<:grade_C:1171195686209978398> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/gwen/5.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "BNSS_MK_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Mikha** Salamin, Salamin",
+            "label": "BINI Mikha",
+            "preview": "<:grade_R:1171195690521743360> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/mikha/1.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNSS_MK_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Mikha** Salamin, Salamin",
+            "label": "BINI Mikha",
+            "preview": "<:grade_S:1171197327185285201> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/mikha/2.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNSS_MK_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Mikha** Salamin, Salamin",
+            "label": "BINI Mikha",
+            "preview": "<:grade_A:1171197331538980874> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/mikha/3.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNSS_MK_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Mikha** Salamin, Salamin",
+            "label": "BINI Mikha",
+            "preview": "<:grade_B:1171195683894722601> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/mikha/4.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNSS_MK_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Mikha** Salamin, Salamin",
+            "label": "BINI Mikha",
+            "preview": "<:grade_C:1171195686209978398> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/mikha/5.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNSS_SC_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Stacey** Salamin, Salamin",
+            "label": "BINI Stacey",
+            "preview": "<:grade_R:1171195690521743360> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/stacey/1.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNSS_SC_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Stacey** Salamin, Salamin",
+            "label": "BINI Stacey",
+            "preview": "<:grade_S:1171197327185285201> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/stacey/2.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNSS_SC_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Stacey** Salamin, Salamin",
+            "label": "BINI Stacey",
+            "preview": "<:grade_A:1171197331538980874> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/stacey/3.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNSS_SC_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Stacey** Salamin, Salamin",
+            "label": "BINI Stacey",
+            "preview": "<:grade_B:1171195683894722601> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/stacey/4.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNSS_SC_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Stacey** Salamin, Salamin",
+            "label": "BINI Stacey",
+            "preview": "<:grade_C:1171195686209978398> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/stacey/5.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNSS_SH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Sheena** Salamin, Salamin",
+            "label": "BINI Sheena",
+            "preview": "<:grade_R:1171195690521743360> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/sheena/1.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNSS_SH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Sheena** Salamin, Salamin",
+            "label": "BINI Sheena",
+            "preview": "<:grade_S:1171197327185285201> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/sheena/2.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNSS_SH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Sheena** Salamin, Salamin",
+            "label": "BINI Sheena",
+            "preview": "<:grade_A:1171197331538980874> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/sheena/3.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNSS_SH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Sheena** Salamin, Salamin",
+            "label": "BINI Sheena",
+            "preview": "<:grade_B:1171195683894722601> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/sheena/4.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNSS_SH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Sheena** Salamin, Salamin",
+            "label": "BINI Sheena",
+            "preview": "<:grade_C:1171195686209978398> Salamin, Salamin",
+            "guess": "S _ _ _ _ i _ ,  S _ _ _ m _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/salamin_salamin/sheena/5.png?format=original",
+            "song": "Salamin, Salamin",
+            "min": "100",
+            "max": "200"
+        }
     ]
+
+
 }
