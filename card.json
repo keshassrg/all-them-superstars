@@ -974,6 +974,371 @@
             "min": "100",
             "max": "200"
         }
+    ],
+
+        "IVHY_AY_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **IVE ANYUJIN** HEYA",
+            "label": "IVE ANYUJIN",
+            "preview": "<:grade_R:1171195690521743360> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/1.png?format=original",
+            "song": "HEYA",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "IVHY_AY_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **IVE ANYUJIN** HEYA",
+            "label": "IVE ANYUJIN",
+            "preview": "<:grade_S:1171197327185285201> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/2.png?format=original",
+            "song": "HEYA",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "IVHY_AY_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **IVE ANYUJIN** HEYA",
+            "label": "IVE ANYUJIN",
+            "preview": "<:grade_A:1171197331538980874> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/3.png?format=original",
+            "song": "HEYA",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "IVHY_AY_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **IVE ANYUJIN** HEYA",
+            "label": "IVE ANYUJIN",
+            "preview": "<:grade_B:1171195683894722601> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/4.png?format=original",
+            "song": "HEYA",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "IVHY_AY_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **IVE ANYUJIN** HEYA",
+            "label": "IVE ANYUJIN",
+            "preview": "<:grade_C:1171195686209978398> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/5.png?format=original",
+            "song": "HEYA",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "IVHY_GA_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **IVE GAEUL** HEYA",
+            "label": "IVE GAEUL",
+            "preview": "<:grade_R:1171195690521743360> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/1.png?format=original",
+            "song": "HEYA",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "IVHY_GA_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **IVE GAEUL** HEYA",
+            "label": "IVE GAEUL",
+            "preview": "<:grade_S:1171197327185285201> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/2.png?format=original",
+            "song": "HEYA",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "IVHY_GA_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **IVE GAEUL** HEYA",
+            "label": "IVE GAEUL",
+            "preview": "<:grade_A:1171197331538980874> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/3.png?format=original",
+            "song": "HEYA",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "IVHY_GA_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **IVE GAEUL** HEYA",
+            "label": "IVE GAEUL",
+            "preview": "<:grade_B:1171195683894722601> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/4.png?format=original",
+            "song": "HEYA",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "IVHY_GA_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **IVE GAEUL** HEYA",
+            "label": "IVE GAEUL",
+            "preview": "<:grade_C:1171195686209978398> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/5.png?format=original",
+            "song": "HEYA",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "IVHY_RE_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **IVE REI** HEYA",
+            "label": "IVE REI",
+            "preview": "<:grade_R:1171195690521743360> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/1.png?format=original",
+            "song": "HEYA",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "IVHY_RE_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **IVE REI** HEYA",
+            "label": "IVE REI",
+            "preview": "<:grade_S:1171197327185285201> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/2.png?format=original",
+            "song": "HEYA",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "IVHY_RE_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **IVE REI** HEYA",
+            "label": "IVE REI",
+            "preview": "<:grade_A:1171197331538980874> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/3.png?format=original",
+            "song": "HEYA",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "IVHY_RE_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **IVE REI** HEYA",
+            "label": "IVE REI",
+            "preview": "<:grade_B:1171195683894722601> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/4.png?format=original",
+            "song": "HEYA",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "IVHY_RE_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **IVE REI** HEYA",
+            "label": "IVE REI",
+            "preview": "<:grade_C:1171195686209978398> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/5.png?format=original",
+            "song": "HEYA",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "IVHY_JW_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **IVE JANGWONYOUNG** HEYA",
+            "label": "IVE JANGWONYOUNG",
+            "preview": "<:grade_R:1171195690521743360> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/jangwonyoung/1.png?format=original",
+            "song": "HEYA",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "IVHY_JW_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **IVE JANGWONYOUNG** HEYA",
+            "label": "IVE JANGWONYOUNG",
+            "preview": "<:grade_S:1171197327185285201> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/jangwonyoung/2.png?format=original",
+            "song": "HEYA",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "IVHY_JW_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **IVE JANGWONYOUNG** HEYA",
+            "label": "IVE JANGWONYOUNG",
+            "preview": "<:grade_A:1171197331538980874> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/jangwonyoung/3.png?format=original",
+            "song": "HEYA",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "IVHY_JW_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **IVE JANGWONYOUNG** HEYA",
+            "label": "IVE JANGWONYOUNG",
+            "preview": "<:grade_B:1171195683894722601> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/jangwonyoung/4.png?format=original",
+            "song": "HEYA",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "IVHY_JW_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **IVE JANGWONYOUNG** HEYA",
+            "label": "IVE JANGWONYOUNG",
+            "preview": "<:grade_C:1171195686209978398> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/jangwonyoung/5.png?format=original",
+            "song": "HEYA",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "IVHY_LI_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **IVE LIZ** HEYA",
+            "label": "IVE LIZ",
+            "preview": "<:grade_R:1171195690521743360> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/liz/1.png?format=original",
+            "song": "HEYA",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "IVHY_LI_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **IVE LIZ** HEYA",
+            "label": "IVE LIZ",
+            "preview": "<:grade_S:1171197327185285201> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/liz/2.png?format=original",
+            "song": "HEYA",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "IVHY_LI_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **IVE LIZ** HEYA",
+            "label": "IVE LIZ",
+            "preview": "<:grade_A:1171197331538980874> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/liz/3.png?format=original",
+            "song": "HEYA",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "IVHY_LI_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **IVE LIZ** HEYA",
+            "label": "IVE LIZ",
+            "preview": "<:grade_B:1171195683894722601> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/liz/4.png?format=original",
+            "song": "HEYA",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "IVHY_LI_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **IVE LIZ** HEYA",
+            "label": "IVE LIZ",
+            "preview": "<:grade_C:1171195686209978398> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/liz/5.png?format=original",
+            "song": "HEYA",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+          "IVHY_LS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **IVE LEESEO** HEYA",
+            "label": "IVE LEESEO",
+            "preview": "<:grade_R:1171195690521743360> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/leeseo/1.png?format=original",
+            "song": "HEYA",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "IVHY_LS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **IVE LEESEO** HEYA",
+            "label": "IVE LEESEO",
+            "preview": "<:grade_S:1171197327185285201> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/leeseo/2.png?format=original",
+            "song": "HEYA",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "IVHY_LS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **IVE LEESEO** HEYA",
+            "label": "IVE LEESEO",
+            "preview": "<:grade_A:1171197331538980874> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/leeseo/3.png?format=original",
+            "song": "HEYA",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "IVHY_LS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **IVE LEESEO** HEYA",
+            "label": "IVE LEESEO",
+            "preview": "<:grade_B:1171195683894722601> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/leeseo/4.png?format=original",
+            "song": "HEYA",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "IVHY_LS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **IVE LEESEO** HEYA",
+            "label": "IVE LEESEO",
+            "preview": "<:grade_C:1171195686209978398> HEYA",
+            "guess": "H _ _ A",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/leeseo/5.png?format=original",
+            "song": "HEYA",
+            "min": "100",
+            "max": "200"
+        }
     ]
 
 
