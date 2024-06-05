@@ -982,7 +982,7 @@
             "label": "IVE ANYUJIN",
             "preview": "<:grade_R:1171195690521743360> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/1.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/anyujin/1.png?format=original",
             "song": "HEYA",
             "min": "2500",
             "max": "5000"
@@ -994,7 +994,7 @@
             "label": "IVE ANYUJIN",
             "preview": "<:grade_S:1171197327185285201> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/2.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/anyujin/2.png?format=original",
             "song": "HEYA",
             "min": "1200",
             "max": "2000"
@@ -1006,7 +1006,7 @@
             "label": "IVE ANYUJIN",
             "preview": "<:grade_A:1171197331538980874> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/3.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/anyujin/3.png?format=original",
             "song": "HEYA",
             "min": "400",
             "max": "800"
@@ -1018,7 +1018,7 @@
             "label": "IVE ANYUJIN",
             "preview": "<:grade_B:1171195683894722601> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/4.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/anyujin/4.png?format=original",
             "song": "HEYA",
             "min": "200",
             "max": "400"
@@ -1030,7 +1030,7 @@
             "label": "IVE ANYUJIN",
             "preview": "<:grade_C:1171195686209978398> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/rei/5.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/anyujin/5.png?format=original",
             "song": "HEYA",
             "min": "100",
             "max": "200"
@@ -1042,7 +1042,7 @@
             "label": "IVE GAEUL",
             "preview": "<:grade_R:1171195690521743360> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/1.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/gaeul/1.png?format=original",
             "song": "HEYA",
             "min": "2500",
             "max": "5000"
@@ -1054,7 +1054,7 @@
             "label": "IVE GAEUL",
             "preview": "<:grade_S:1171197327185285201> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/2.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/gaeul/2.png?format=original",
             "song": "HEYA",
             "min": "1200",
             "max": "2000"
@@ -1066,7 +1066,7 @@
             "label": "IVE GAEUL",
             "preview": "<:grade_A:1171197331538980874> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/3.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/gaeul/3.png?format=original",
             "song": "HEYA",
             "min": "400",
             "max": "800"
@@ -1078,7 +1078,7 @@
             "label": "IVE GAEUL",
             "preview": "<:grade_B:1171195683894722601> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/4.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/gaeul/4.png?format=original",
             "song": "HEYA",
             "min": "200",
             "max": "400"
@@ -1090,7 +1090,7 @@
             "label": "IVE GAEUL",
             "preview": "<:grade_C:1171195686209978398> HEYA",
             "guess": "H _ _ A",
-            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/giselle/5.png?format=original",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/ive/heya/gaeul/5.png?format=original",
             "song": "HEYA",
             "min": "100",
             "max": "200"
