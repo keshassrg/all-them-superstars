@@ -976,6 +976,981 @@
         }
     ],
 
+    "BNPN_AI_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_AI_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_AI_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_AI_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_AI_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "BNPN_CL_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_CL_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_CL_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_CL_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_CL_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNPN_ML_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_ML_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_ML_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_ML_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_ML_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNPN_JH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_JH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_JH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_JH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_JH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    
+
+    "BNPN_YJ_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_YJ_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_YJ_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_YJ_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_YJ_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "BNPN_MK_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_MK_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_MK_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_MK_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_MK_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNPN_SC_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_SC_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_SC_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_SC_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_SC_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNPN_SH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_SH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_SH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_SH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_SH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "BNPN_AI_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_AI_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_AI_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_AI_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_AI_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Aiah** Pantropiko",
+            "label": "BINI Aiah",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/aiah/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "BNPN_CL_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_CL_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_CL_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_CL_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_CL_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Colet** Pantropiko",
+            "label": "BINI Colet",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/colet/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNPN_ML_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_ML_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_ML_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_ML_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_ML_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Maloi** Pantropiko",
+            "label": "BINI Maloi",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/maloi/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNPN_JH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_JH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_JH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_JH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_JH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Jhoanna** Pantropiko",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/jhoanna/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    
+
+    "BNPN_YJ_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_YJ_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_YJ_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_YJ_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_YJ_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Gwen** Pantropiko",
+            "label": "BINI Gwen",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/gwen/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "BNPN_MK_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_MK_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_MK_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_MK_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_MK_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Mikha** Pantropiko",
+            "label": "BINI Mikha",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/mikha/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNPN_SC_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_SC_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_SC_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_SC_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_SC_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Stacey** Pantropiko",
+            "label": "BINI Stacey",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/stacey/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNPN_SH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_R:1171195690521743360> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/1.png?format=original",
+            "song": "Pantropiko",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNPN_SH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_S:1171197327185285201> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/2.png?format=original",
+            "song": "Pantropiko",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNPN_SH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_A:1171197331538980874> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/3.png?format=original",
+            "song": "Pantropiko",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNPN_SH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_B:1171195683894722601> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/4.png?format=original",
+            "song": "Pantropiko",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNPN_SH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Sheena** Pantropiko",
+            "label": "BINI Sheena",
+            "preview": "<:grade_C:1171195686209978398> Pantropiko",
+            "guess": "P _ _ t _ _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/pantropiko/bini/sheena/5.png?format=original",
+            "song": "Pantropiko",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
         "IVHY_AY_R": [
         {
             "name": "<:grade_R:1171195690521743360> **IVE ANYUJIN** HEYA",
