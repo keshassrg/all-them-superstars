@@ -242,6 +242,492 @@
         }
     ],
 
+    "AESY_KR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa KARINA** Spicy",
+            "label": "aespa KARINA",
+            "preview": "<:grade_R:1171195690521743360> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/01_karina/1.png?format=original",
+            "song": "Spicy",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AESY_KR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa KARINA** Spicy",
+            "label": "aespa KARINA",
+            "preview": "<:grade_S:1171197327185285201> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/01_karina/2.png?format=original",
+            "song": "Spicy",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AESY_KR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa KARINA** Spicy",
+            "label": "aespa KARINA",
+            "preview": "<:grade_A:1171197331538980874> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/01_karina/3.png?format=original",
+            "song": "Spicy",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AESY_KR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa KARINA** Spicy",
+            "label": "aespa KARINA",
+            "preview": "<:grade_B:1171195683894722601> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/01_karina/4.png?format=original",
+            "song": "Spicy",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AESY_KR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa KARINA** Spicy",
+            "label": "aespa KARINA",
+            "preview": "<:grade_C:1171195686209978398> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/01_karina/5.png?format=original",
+            "song": "Spicy",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "AESY_GS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa GISELLE** Spicy",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_R:1171195690521743360> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/02_giselle/1.png?format=original",
+            "song": "Spicy",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AESY_GS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa GISELLE** Spicy",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_S:1171197327185285201> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/02_giselle/2.png?format=original",
+            "song": "Spicy",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AESY_GS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa GISELLE** Spicy",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_A:1171197331538980874> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/02_giselle/3.png?format=original",
+            "song": "Spicy",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AESY_GS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa GISELLE** Spicy",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_B:1171195683894722601> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/02_giselle/4.png?format=original",
+            "song": "Spicy",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AESY_GS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa GISELLE** Spicy",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_C:1171195686209978398> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/02_giselle/5.png?format=original",
+            "song": "Spicy",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "AESY_WT_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa WINTER** Spicy",
+            "label": "aespa WINTER",
+            "preview": "<:grade_R:1171195690521743360> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/03_winter/1.png?format=original",
+            "song": "Spicy",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AESY_WT_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa WINTER** Spicy",
+            "label": "aespa WINTER",
+            "preview": "<:grade_S:1171197327185285201> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/03_winter/2.png?format=original",
+            "song": "Spicy",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AESY_WT_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa WINTER** Spicy",
+            "label": "aespa WINTER",
+            "preview": "<:grade_A:1171197331538980874> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/03_winter/3.png?format=original",
+            "song": "Spicy",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AESY_WT_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa WINTER** Spicy",
+            "label": "aespa WINTER",
+            "preview": "<:grade_B:1171195683894722601> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/03_winter/4.png?format=original",
+            "song": "Spicy",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AESY_WT_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa WINTER** Spicy",
+            "label": "aespa WINTER",
+            "preview": "<:grade_C:1171195686209978398> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/03_winter/5.png?format=original",
+            "song": "Spicy",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "AESY_NN_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa NINGNING** Spicy",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_R:1171195690521743360> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/04_ningning/1.png?format=original",
+            "song": "Spicy",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AESY_NN_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa NINGNING** Spicy",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_S:1171197327185285201> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/04_ningning/2.png?format=original",
+            "song": "Spicy",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AESY_NN_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa NINGNING** Spicy",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_A:1171197331538980874> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/04_ningning/3.png?format=original",
+            "song": "Spicy",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AESY_NN_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa NINGNING** Spicy",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_B:1171195683894722601> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/04_ningning/4.png?format=original",
+            "song": "Spicy",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AESY_NN_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa NINGNING** Spicy",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_C:1171195686209978398> Spicy",
+            "guess": "S _ _ c y",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/spicy/04_ningning/5.png?format=original",
+            "song": "Spicy",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "AEGI_KR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa KARINA** Girls",
+            "label": "aespa KARINA",
+            "preview": "<:grade_R:1171195690521743360> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/01_karina/1.png?format=original",
+            "song": "Girls",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AEGI_KR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa KARINA** Girls",
+            "label": "aespa KARINA",
+            "preview": "<:grade_S:1171197327185285201> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/01_karina/2.png?format=original",
+            "song": "Girls",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AEGI_KR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa KARINA** Girls",
+            "label": "aespa KARINA",
+            "preview": "<:grade_A:1171197331538980874> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/01_karina/3.png?format=original",
+            "song": "Girls",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AEGI_KR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa KARINA** Girls",
+            "label": "aespa KARINA",
+            "preview": "<:grade_B:1171195683894722601> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/01_karina/4.png?format=original",
+            "song": "Girls",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AEGI_KR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa KARINA** Girls",
+            "label": "aespa KARINA",
+            "preview": "<:grade_C:1171195686209978398> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/01_karina/5.png?format=original",
+            "song": "Girls",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "AEGI_GS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa GISELLE** Girls",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_R:1171195690521743360> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/02_giselle/1.png?format=original",
+            "song": "Girls",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AEGI_GS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa GISELLE** Girls",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_S:1171197327185285201> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/02_giselle/2.png?format=original",
+            "song": "Girls",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AEGI_GS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa GISELLE** Girls",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_A:1171197331538980874> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/02_giselle/3.png?format=original",
+            "song": "Girls",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AEGI_GS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa GISELLE** Girls",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_B:1171195683894722601> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/02_giselle/4.png?format=original",
+            "song": "Girls",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AEGI_GS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa GISELLE** Girls",
+            "label": "aespa GISELLE",
+            "preview": "<:grade_C:1171195686209978398> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/02_giselle/5.png?format=original",
+            "song": "Girls",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "AEGI_WT_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa WINTER** Girls",
+            "label": "aespa WINTER",
+            "preview": "<:grade_R:1171195690521743360> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/03_winter/1.png?format=original",
+            "song": "Girls",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AEGI_WT_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa WINTER** Girls",
+            "label": "aespa WINTER",
+            "preview": "<:grade_S:1171197327185285201> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/03_winter/2.png?format=original",
+            "song": "Girls",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AEGI_WT_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa WINTER** Girls",
+            "label": "aespa WINTER",
+            "preview": "<:grade_A:1171197331538980874> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/03_winter/3.png?format=original",
+            "song": "Girls",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AEGI_WT_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa WINTER** Girls",
+            "label": "aespa WINTER",
+            "preview": "<:grade_B:1171195683894722601> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/03_winter/4.png?format=original",
+            "song": "Girls",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AEGI_WT_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa WINTER** Girls",
+            "label": "aespa WINTER",
+            "preview": "<:grade_C:1171195686209978398> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/03_winter/5.png?format=original",
+            "song": "Girls",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "AEGI_NN_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **aespa NINGNING** Girls",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_R:1171195690521743360> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/04_ningning/1.png?format=original",
+            "song": "Girls",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AEGI_NN_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **aespa NINGNING** Girls",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_S:1171197327185285201> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/04_ningning/2.png?format=original",
+            "song": "Girls",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AEGI_NN_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **aespa NINGNING** Girls",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_A:1171197331538980874> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/04_ningning/3.png?format=original",
+            "song": "Girls",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AEGI_NN_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **aespa NINGNING** Girls",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_B:1171195683894722601> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/04_ningning/4.png?format=original",
+            "song": "Girls",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AEGI_NN_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **aespa NINGNING** Girls",
+            "label": "aespa NINGNING",
+            "preview": "<:grade_C:1171195686209978398> Girls",
+            "guess": "G _ _ l s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/aespa/girls/04_ningning/5.png?format=original",
+            "song": "Girls",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
     
 
     "ITBT_YJ_R": [
@@ -2316,6 +2802,433 @@
         }
     ],
 
+    "BMSH_AY_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BABYMONSTER AHYEON** SHEESH",
+            "label": "BABYMONSTER AHYEON",
+            "preview": "<:grade_R:1171195690521743360> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ahyeon/1.png?format=original",
+            "song": "SHEESH",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BMSH_AY_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BABYMONSTER AHYEON** SHEESH",
+            "label": "BABYMONSTER AHYEON",
+            "preview": "<:grade_S:1171197327185285201> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ahyeon/2.png?format=original",
+            "song": "SHEESH",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BMSH_AY_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BABYMONSTER AHYEON** SHEESH",
+            "label": "BABYMONSTER AHYEON",
+            "preview": "<:grade_A:1171197331538980874> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ahyeon/3.png?format=original",
+            "song": "SHEESH",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BMSH_AY_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BABYMONSTER AHYEON** SHEESH",
+            "label": "BABYMONSTER AHYEON",
+            "preview": "<:grade_B:1171195683894722601> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ahyeon/4.png?format=original",
+            "song": "SHEESH",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BMSH_AY_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BABYMONSTER AHYEON** SHEESH",
+            "label": "BABYMONSTER AHYEON",
+            "preview": "<:grade_C:1171195686209978398> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ahyeon/5.png?format=original",
+            "song": "SHEESH",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"BMSH_RM_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BABYMONSTER RAMI** SHEESH",
+            "label": "BABYMONSTER RAMI",
+            "preview": "<:grade_R:1171195690521743360> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rami/1.png?format=original",
+            "song": "SHEESH",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BMSH_RM_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BABYMONSTER RAMI** SHEESH",
+            "label": "BABYMONSTER RAMI",
+            "preview": "<:grade_S:1171197327185285201> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rami/2.png?format=original",
+            "song": "SHEESH",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BMSH_RM_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BABYMONSTER RAMI** SHEESH",
+            "label": "BABYMONSTER RAMI",
+            "preview": "<:grade_A:1171197331538980874> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rami/3.png?format=original",
+            "song": "SHEESH",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BMSH_RM_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BABYMONSTER RAMI** SHEESH",
+            "label": "BABYMONSTER RAMI",
+            "preview": "<:grade_B:1171195683894722601> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rami/4.png?format=original",
+            "song": "SHEESH",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BMSH_RM_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BABYMONSTER RAMI** SHEESH",
+            "label": "BABYMONSTER RAMI",
+            "preview": "<:grade_C:1171195686209978398> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rami/5.png?format=original",
+            "song": "SHEESH",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"BMSH_RR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BABYMONSTER RORA** SHEESH",
+            "label": "BABYMONSTER RORA",
+            "preview": "<:grade_R:1171195690521743360> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rora/1.png?format=original",
+            "song": "SHEESH",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BMSH_RR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BABYMONSTER RORA** SHEESH",
+            "label": "BABYMONSTER RORA",
+            "preview": "<:grade_S:1171197327185285201> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rora/2.png?format=original",
+            "song": "SHEESH",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BMSH_RR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BABYMONSTER RORA** SHEESH",
+            "label": "BABYMONSTER RORA",
+            "preview": "<:grade_A:1171197331538980874> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rora/3.png?format=original",
+            "song": "SHEESH",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BMSH_RR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BABYMONSTER RORA** SHEESH",
+            "label": "BABYMONSTER RORA",
+            "preview": "<:grade_B:1171195683894722601> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rora/4.png?format=original",
+            "song": "SHEESH",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BMSH_RR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BABYMONSTER RORA** SHEESH",
+            "label": "BABYMONSTER RORA",
+            "preview": "<:grade_C:1171195686209978398> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/rora/5.png?format=original",
+            "song": "SHEESH",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"BMSH_PH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BABYMONSTER PHARITA** SHEESH",
+            "label": "BABYMONSTER PHARITA",
+            "preview": "<:grade_R:1171195690521743360> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/pharita/1.png?format=original",
+            "song": "SHEESH",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BMSH_PH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BABYMONSTER PHARITA** SHEESH",
+            "label": "BABYMONSTER PHARITA",
+            "preview": "<:grade_S:1171197327185285201> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/pharita/2.png?format=original",
+            "song": "SHEESH",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BMSH_PH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BABYMONSTER PHARITA** SHEESH",
+            "label": "BABYMONSTER PHARITA",
+            "preview": "<:grade_A:1171197331538980874> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/pharita/3.png?format=original",
+            "song": "SHEESH",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BMSH_PH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BABYMONSTER PHARITA** SHEESH",
+            "label": "BABYMONSTER PHARITA",
+            "preview": "<:grade_B:1171195683894722601> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/pharita/4.png?format=original",
+            "song": "SHEESH",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BMSH_PH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BABYMONSTER PHARITA** SHEESH",
+            "label": "BABYMONSTER PHARITA",
+            "preview": "<:grade_C:1171195686209978398> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/pharita/5.png?format=original",
+            "song": "SHEESH",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"BMSH_CH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BABYMONSTER CHIQUITA** SHEESH",
+            "label": "BABYMONSTER CHIQUITA",
+            "preview": "<:grade_R:1171195690521743360> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/chiquita/1.png?format=original",
+            "song": "SHEESH",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BMSH_CH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BABYMONSTER CHIQUITA** SHEESH",
+            "label": "BABYMONSTER CHIQUITA",
+            "preview": "<:grade_S:1171197327185285201> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/chiquita/2.png?format=original",
+            "song": "SHEESH",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BMSH_CH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BABYMONSTER CHIQUITA** SHEESH",
+            "label": "BABYMONSTER CHIQUITA",
+            "preview": "<:grade_A:1171197331538980874> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/chiquita/3.png?format=original",
+            "song": "SHEESH",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BMSH_CH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BABYMONSTER CHIQUITA** SHEESH",
+            "label": "BABYMONSTER CHIQUITA",
+            "preview": "<:grade_B:1171195683894722601> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/chiquita/4.png?format=original",
+            "song": "SHEESH",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BMSH_CH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BABYMONSTER CHIQUITA** SHEESH",
+            "label": "BABYMONSTER CHIQUITA",
+            "preview": "<:grade_C:1171195686209978398> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/chiquita/5.png?format=original",
+            "song": "SHEESH",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"BMSH_RK_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BABYMONSTER RUKA** SHEESH",
+            "label": "BABYMONSTER RUKA",
+            "preview": "<:grade_R:1171195690521743360> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ruka/1.png?format=original",
+            "song": "SHEESH",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BMSH_RK_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BABYMONSTER RUKA** SHEESH",
+            "label": "BABYMONSTER RUKA",
+            "preview": "<:grade_S:1171197327185285201> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ruka/2.png?format=original",
+            "song": "SHEESH",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BMSH_RK_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BABYMONSTER RUKA** SHEESH",
+            "label": "BABYMONSTER RUKA",
+            "preview": "<:grade_A:1171197331538980874> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ruka/3.png?format=original",
+            "song": "SHEESH",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BMSH_RK_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BABYMONSTER RUKA** SHEESH",
+            "label": "BABYMONSTER RUKA",
+            "preview": "<:grade_B:1171195683894722601> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ruka/4.png?format=original",
+            "song": "SHEESH",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BMSH_RK_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BABYMONSTER RUKA** SHEESH",
+            "label": "BABYMONSTER RUKA",
+            "preview": "<:grade_C:1171195686209978398> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/ruka/5.png?format=original",
+            "song": "SHEESH",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"BMSH_AS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BABYMONSTER ASA** SHEESH",
+            "label": "BABYMONSTER ASA",
+            "preview": "<:grade_R:1171195690521743360> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/asa/1.png?format=original",
+            "song": "SHEESH",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BMSH_AS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BABYMONSTER ASA** SHEESH",
+            "label": "BABYMONSTER ASA",
+            "preview": "<:grade_S:1171197327185285201> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/asa/2.png?format=original",
+            "song": "SHEESH",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BMSH_AS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BABYMONSTER ASA** SHEESH",
+            "label": "BABYMONSTER ASA",
+            "preview": "<:grade_A:1171197331538980874> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/asa/3.png?format=original",
+            "song": "SHEESH",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BMSH_AS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BABYMONSTER ASA** SHEESH",
+            "label": "BABYMONSTER ASA",
+            "preview": "<:grade_B:1171195683894722601> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/asa/4.png?format=original",
+            "song": "SHEESH",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BMSH_AS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BABYMONSTER ASA** SHEESH",
+            "label": "BABYMONSTER ASA",
+            "preview": "<:grade_C:1171195686209978398> SHEESH",
+            "guess": "S _ _ _ S H",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/babymonster/sheesh/asa/5.png?format=original",
+            "song": "SHEESH",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
     
 "LNFV_HJ_R": [
         {
@@ -2500,7 +3413,2266 @@
             "min": "100",
             "max": "200"
         }
+    ],
+
+    "LNFV_YJ_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **LOONA YeoJin** favOriTe",
+            "label": "LOONA YeoJin",
+            "preview": "<:grade_R:1171195690521743360> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yeojin/1.png?format=original",
+            "song": "favOriTe",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "LNFV_YJ_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **LOONA YeoJin** favOriTe",
+            "label": "LOONA YeoJin",
+            "preview": "<:grade_S:1171197327185285201> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yeojin/2.png?format=original",
+            "song": "favOriTe",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "LNFV_YJ_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **LOONA YeoJin** favOriTe",
+            "label": "LOONA YeoJin",
+            "preview": "<:grade_A:1171197331538980874> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yeojin/3.png?format=original",
+            "song": "favOriTe",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "LNFV_YJ_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **LOONA YeoJin** favOriTe",
+            "label": "LOONA YeoJin",
+            "preview": "<:grade_B:1171195683894722601> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yeojin/4.png?format=original",
+            "song": "favOriTe",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "LNFV_YJ_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **LOONA YeoJin** favOriTe",
+            "label": "LOONA YeoJin",
+            "preview": "<:grade_C:1171195686209978398> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yeojin/5.png?format=original",
+            "song": "favOriTe",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "LNFV_VV_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **LOONA ViVi** favOriTe",
+            "label": "LOONA ViVi",
+            "preview": "<:grade_R:1171195690521743360> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/vivi/1.png?format=original",
+            "song": "favOriTe",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "LNFV_VV_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **LOONA ViVi** favOriTe",
+            "label": "LOONA ViVi",
+            "preview": "<:grade_S:1171197327185285201> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/vivi/2.png?format=original",
+            "song": "favOriTe",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "LNFV_VV_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **LOONA ViVi** favOriTe",
+            "label": "LOONA ViVi",
+            "preview": "<:grade_A:1171197331538980874> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/vivi/3.png?format=original",
+            "song": "favOriTe",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "LNFV_VV_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **LOONA ViVi** favOriTe",
+            "label": "LOONA ViVi",
+            "preview": "<:grade_B:1171195683894722601> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/vivi/4.png?format=original",
+            "song": "favOriTe",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "LNFV_VV_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **LOONA ViVi** favOriTe",
+            "label": "LOONA ViVi",
+            "preview": "<:grade_C:1171195686209978398> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/vivi/5.png?format=original",
+            "song": "favOriTe",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "LNFV_KL_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **LOONA Kim Lip** favOriTe",
+            "label": "LOONA Kim Lip",
+            "preview": "<:grade_R:1171195690521743360> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/kim_lip/1.png?format=original",
+            "song": "favOriTe",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "LNFV_KL_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **LOONA Kim Lip** favOriTe",
+            "label": "LOONA Kim Lip",
+            "preview": "<:grade_S:1171197327185285201> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/kim_lip/2.png?format=original",
+            "song": "favOriTe",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "LNFV_KL_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **LOONA Kim Lip** favOriTe",
+            "label": "LOONA Kim Lip",
+            "preview": "<:grade_A:1171197331538980874> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/kim_lip/3.png?format=original",
+            "song": "favOriTe",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "LNFV_KL_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **LOONA Kim Lip** favOriTe",
+            "label": "LOONA Kim Lip",
+            "preview": "<:grade_B:1171195683894722601> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/kim_lip/4.png?format=original",
+            "song": "favOriTe",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "LNFV_KL_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **LOONA Kim Lip** favOriTe",
+            "label": "LOONA Kim Lip",
+            "preview": "<:grade_C:1171195686209978398> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/kim_lip/5.png?format=original",
+            "song": "favOriTe",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "LNFV_JS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **LOONA JinSoul** favOriTe",
+            "label": "LOONA JinSoul",
+            "preview": "<:grade_R:1171195690521743360> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/jinsoul/1.png?format=original",
+            "song": "favOriTe",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "LNFV_JS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **LOONA JinSoul** favOriTe",
+            "label": "LOONA JinSoul",
+            "preview": "<:grade_S:1171197327185285201> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/jinsoul/2.png?format=original",
+            "song": "favOriTe",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "LNFV_JS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **LOONA JinSoul** favOriTe",
+            "label": "LOONA JinSoul",
+            "preview": "<:grade_A:1171197331538980874> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/jinsoul/3.png?format=original",
+            "song": "favOriTe",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "LNFV_JS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **LOONA JinSoul** favOriTe",
+            "label": "LOONA JinSoul",
+            "preview": "<:grade_B:1171195683894722601> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/jinsoul/4.png?format=original",
+            "song": "favOriTe",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "LNFV_JS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **LOONA JinSoul** favOriTe",
+            "label": "LOONA JinSoul",
+            "preview": "<:grade_C:1171195686209978398> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/jinsoul/5.png?format=original",
+            "song": "favOriTe",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "LNFV_CR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **LOONA Choerry** favOriTe",
+            "label": "LOONA Choerry",
+            "preview": "<:grade_R:1171195690521743360> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/choerry/1.png?format=original",
+            "song": "favOriTe",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "LNFV_CR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **LOONA Choerry** favOriTe",
+            "label": "LOONA Choerry",
+            "preview": "<:grade_S:1171197327185285201> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/choerry/2.png?format=original",
+            "song": "favOriTe",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "LNFV_CR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **LOONA Choerry** favOriTe",
+            "label": "LOONA Choerry",
+            "preview": "<:grade_A:1171197331538980874> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/choerry/3.png?format=original",
+            "song": "favOriTe",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "LNFV_CR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **LOONA Choerry** favOriTe",
+            "label": "LOONA Choerry",
+            "preview": "<:grade_B:1171195683894722601> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/choerry/4.png?format=original",
+            "song": "favOriTe",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "LNFV_CR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **LOONA Choerry** favOriTe",
+            "label": "LOONA Choerry",
+            "preview": "<:grade_C:1171195686209978398> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/choerry/5.png?format=original",
+            "song": "favOriTe",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "LNFV_YV_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **LOONA Yves** favOriTe",
+            "label": "LOONA Yves",
+            "preview": "<:grade_R:1171195690521743360> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yves/1.png?format=original",
+            "song": "favOriTe",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "LNFV_YV_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **LOONA Yves** favOriTe",
+            "label": "LOONA Yves",
+            "preview": "<:grade_S:1171197327185285201> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yves/2.png?format=original",
+            "song": "favOriTe",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "LNFV_YV_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **LOONA Yves** favOriTe",
+            "label": "LOONA Yves",
+            "preview": "<:grade_A:1171197331538980874> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yves/3.png?format=original",
+            "song": "favOriTe",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "LNFV_YV_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **LOONA Yves** favOriTe",
+            "label": "LOONA Yves",
+            "preview": "<:grade_B:1171195683894722601> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yves/4.png?format=original",
+            "song": "favOriTe",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "LNFV_YV_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **LOONA Yves** favOriTe",
+            "label": "LOONA Yves",
+            "preview": "<:grade_C:1171195686209978398> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/yves/5.png?format=original",
+            "song": "favOriTe",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "LNFV_CH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **LOONA Chuu** favOriTe",
+            "label": "LOONA Chuu",
+            "preview": "<:grade_R:1171195690521743360> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/chuu/1.png?format=original",
+            "song": "favOriTe",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "LNFV_CH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **LOONA Chuu** favOriTe",
+            "label": "LOONA Chuu",
+            "preview": "<:grade_S:1171197327185285201> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/chuu/2.png?format=original",
+            "song": "favOriTe",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "LNFV_CH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **LOONA Chuu** favOriTe",
+            "label": "LOONA Chuu",
+            "preview": "<:grade_A:1171197331538980874> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/chuu/3.png?format=original",
+            "song": "favOriTe",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "LNFV_CH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **LOONA Chuu** favOriTe",
+            "label": "LOONA Chuu",
+            "preview": "<:grade_B:1171195683894722601> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/chuu/4.png?format=original",
+            "song": "favOriTe",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "LNFV_CH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **LOONA Chuu** favOriTe",
+            "label": "LOONA Chuu",
+            "preview": "<:grade_C:1171195686209978398> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/chuu/5.png?format=original",
+            "song": "favOriTe",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "LNFV_GW_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **LOONA Go Won** favOriTe",
+            "label": "LOONA Go Won",
+            "preview": "<:grade_R:1171195690521743360> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/go_won/1.png?format=original",
+            "song": "favOriTe",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "LNFV_GW_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **LOONA Go Won** favOriTe",
+            "label": "LOONA Go Won",
+            "preview": "<:grade_S:1171197327185285201> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/go_won/2.png?format=original",
+            "song": "favOriTe",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "LNFV_GW_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **LOONA Go Won** favOriTe",
+            "label": "LOONA Go Won",
+            "preview": "<:grade_A:1171197331538980874> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/go_won/3.png?format=original",
+            "song": "favOriTe",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "LNFV_GW_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **LOONA Go Won** favOriTe",
+            "label": "LOONA Go Won",
+            "preview": "<:grade_B:1171195683894722601> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/go_won/4.png?format=original",
+            "song": "favOriTe",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "LNFV_GW_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **LOONA Go Won** favOriTe",
+            "label": "LOONA Go Won",
+            "preview": "<:grade_C:1171195686209978398> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/go_won/5.png?format=original",
+            "song": "favOriTe",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "LNFV_OH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **LOONA Olivia Hye** favOriTe",
+            "label": "LOONA Olivia Hye",
+            "preview": "<:grade_R:1171195690521743360> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/olivia_hye/1.png?format=original",
+            "song": "favOriTe",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "LNFV_OH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **LOONA Olivia Hye** favOriTe",
+            "label": "LOONA Olivia Hye",
+            "preview": "<:grade_S:1171197327185285201> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/olivia_hye/2.png?format=original",
+            "song": "favOriTe",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "LNFV_OH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **LOONA Olivia Hye** favOriTe",
+            "label": "LOONA Olivia Hye",
+            "preview": "<:grade_A:1171197331538980874> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/olivia_hye/3.png?format=original",
+            "song": "favOriTe",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "LNFV_OH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **LOONA Olivia Hye** favOriTe",
+            "label": "LOONA Olivia Hye",
+            "preview": "<:grade_B:1171195683894722601> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/olivia_hye/4.png?format=original",
+            "song": "favOriTe",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "LNFV_OH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **LOONA Olivia Hye** favOriTe",
+            "label": "LOONA Olivia Hye",
+            "preview": "<:grade_C:1171195686209978398> favOriTe",
+            "guess": "_ _ _ O _ _ T _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/loona/favorite/olivia_hye/5.png?format=original",
+            "song": "favOriTe",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "NCKI_JH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **NCT 127 JAEHYUN** Kick It",
+            "label": "NCT 127 JAEHYUN",
+            "preview": "<:grade_R:1171195690521743360> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jaehyun/1.png?format=original",
+            "song": "Kick It",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "NCKI_JH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **NCT 127 JAEHYUN** Kick It",
+            "label": "NCT 127 JAEHYUN",
+            "preview": "<:grade_S:1171197327185285201> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jaehyun/2.png?format=original",
+            "song": "Kick It",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "NCKI_JH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **NCT 127 JAEHYUN** Kick It",
+            "label": "NCT 127 JAEHYUN",
+            "preview": "<:grade_A:1171197331538980874> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jaehyun/3.png?format=original",
+            "song": "Kick It",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "NCKI_JH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **NCT 127 JAEHYUN** Kick It",
+            "label": "NCT 127 JAEHYUN",
+            "preview": "<:grade_B:1171195683894722601> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jaehyun/4.png?format=original",
+            "song": "Kick It",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "NCKI_JH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **NCT 127 JAEHYUN** Kick It",
+            "label": "NCT 127 JAEHYUN",
+            "preview": "<:grade_C:1171195686209978398> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jaehyun/5.png?format=original",
+            "song": "Kick It",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"NCKI_TY_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **NCT 127 TAEYONG** Kick It",
+            "label": "NCT 127 TAEYONG",
+            "preview": "<:grade_R:1171195690521743360> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/taeyong/1.png?format=original",
+            "song": "Kick It",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "NCKI_TY_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **NCT 127 TAEYONG** Kick It",
+            "label": "NCT 127 TAEYONG",
+            "preview": "<:grade_S:1171197327185285201> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/taeyong/2.png?format=original",
+            "song": "Kick It",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "NCKI_TY_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **NCT 127 TAEYONG** Kick It",
+            "label": "NCT 127 TAEYONG",
+            "preview": "<:grade_A:1171197331538980874> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/taeyong/3.png?format=original",
+            "song": "Kick It",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "NCKI_TY_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **NCT 127 TAEYONG** Kick It",
+            "label": "NCT 127 TAEYONG",
+            "preview": "<:grade_B:1171195683894722601> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/taeyong/4.png?format=original",
+            "song": "Kick It",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "NCKI_TY_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **NCT 127 TAEYONG** Kick It",
+            "label": "NCT 127 TAEYONG",
+            "preview": "<:grade_C:1171195686209978398> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/taeyong/5.png?format=original",
+            "song": "Kick It",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"NCKI_TA_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **NCT 127 TAEIL** Kick It",
+            "label": "NCT 127 TAEIL",
+            "preview": "<:grade_R:1171195690521743360> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/02/1.png?format=original",
+            "song": "Kick It",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "NCKI_TA_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **NCT 127 TAEIL** Kick It",
+            "label": "NCT 127 TAEIL",
+            "preview": "<:grade_S:1171197327185285201> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/02/2.png?format=original",
+            "song": "Kick It",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "NCKI_TA_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **NCT 127 TAEIL** Kick It",
+            "label": "NCT 127 TAEIL",
+            "preview": "<:grade_A:1171197331538980874> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/02/3.png?format=original",
+            "song": "Kick It",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "NCKI_TA_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **NCT 127 TAEIL** Kick It",
+            "label": "NCT 127 TAEIL",
+            "preview": "<:grade_B:1171195683894722601> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/02/4.png?format=original",
+            "song": "Kick It",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "NCKI_TA_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **NCT 127 TAEIL** Kick It",
+            "label": "NCT 127 TAEIL",
+            "preview": "<:grade_C:1171195686209978398> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/02/5.png?format=original",
+            "song": "Kick It",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"NCKI_JN_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **NCT 127 JOHNNY** Kick It",
+            "label": "NCT 127 JOHNNY",
+            "preview": "<:grade_R:1171195690521743360> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/03/1.png?format=original",
+            "song": "Kick It",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "NCKI_JN_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **NCT 127 JOHNNY** Kick It",
+            "label": "NCT 127 JOHNNY",
+            "preview": "<:grade_S:1171197327185285201> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/03/2.png?format=original",
+            "song": "Kick It",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "NCKI_JN_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **NCT 127 JOHNNY** Kick It",
+            "label": "NCT 127 JOHNNY",
+            "preview": "<:grade_A:1171197331538980874> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/03/3.png?format=original",
+            "song": "Kick It",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "NCKI_JN_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **NCT 127 JOHNNY** Kick It",
+            "label": "NCT 127 JOHNNY",
+            "preview": "<:grade_B:1171195683894722601> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/03/4.png?format=original",
+            "song": "Kick It",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "NCKI_JN_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **NCT 127 JOHNNY** Kick It",
+            "label": "NCT 127 JOHNNY",
+            "preview": "<:grade_C:1171195686209978398> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/03/5.png?format=original",
+            "song": "Kick It",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"NCKI_YT_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **NCT 127 YUTA** Kick It",
+            "label": "NCT 127 YUTA",
+            "preview": "<:grade_R:1171195690521743360> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/04_yuta/1.png?format=original",
+            "song": "Kick It",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "NCKI_YT_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **NCT 127 YUTA** Kick It",
+            "label": "NCT 127 YUTA",
+            "preview": "<:grade_S:1171197327185285201> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/04_yuta/2.png?format=original",
+            "song": "Kick It",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "NCKI_YT_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **NCT 127 YUTA** Kick It",
+            "label": "NCT 127 YUTA",
+            "preview": "<:grade_A:1171197331538980874> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/04_yuta/3.png?format=original",
+            "song": "Kick It",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "NCKI_YT_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **NCT 127 YUTA** Kick It",
+            "label": "NCT 127 YUTA",
+            "preview": "<:grade_B:1171195683894722601> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/04_yuta/4.png?format=original",
+            "song": "Kick It",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "NCKI_YT_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **NCT 127 YUTA** Kick It",
+            "label": "NCT 127 YUTA",
+            "preview": "<:grade_C:1171195686209978398> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/04_yuta/5.png?format=original",
+            "song": "Kick It",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"NCKI_DY_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **NCT 127 DOYOUNG** Kick It",
+            "label": "NCT 127 DOYOUNG",
+            "preview": "<:grade_R:1171195690521743360> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/05_doyoung/1.png?format=original",
+            "song": "Kick It",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "NCKI_DY_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **NCT 127 DOYOUNG** Kick It",
+            "label": "NCT 127 DOYOUNG",
+            "preview": "<:grade_S:1171197327185285201> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/05_doyoung/2.png?format=original",
+            "song": "Kick It",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "NCKI_DY_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **NCT 127 DOYOUNG** Kick It",
+            "label": "NCT 127 DOYOUNG",
+            "preview": "<:grade_A:1171197331538980874> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/05_doyoung/3.png?format=original",
+            "song": "Kick It",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "NCKI_DY_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **NCT 127 DOYOUNG** Kick It",
+            "label": "NCT 127 DOYOUNG",
+            "preview": "<:grade_B:1171195683894722601> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/05_doyoung/4.png?format=original",
+            "song": "Kick It",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "NCKI_DY_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **NCT 127 DOYOUNG** Kick It",
+            "label": "NCT 127 DOYOUNG",
+            "preview": "<:grade_C:1171195686209978398> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/05_doyoung/5.png?format=original",
+            "song": "Kick It",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"NCKI_JW_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **NCT 127 JUNGWOO** Kick It",
+            "label": "NCT 127 JUNGWOO",
+            "preview": "<:grade_R:1171195690521743360> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jungwoo/1.png?format=original",
+            "song": "Kick It",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "NCKI_JW_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **NCT 127 JUNGWOO** Kick It",
+            "label": "NCT 127 JUNGWOO",
+            "preview": "<:grade_S:1171197327185285201> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jungwoo/2.png?format=original",
+            "song": "Kick It",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "NCKI_JW_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **NCT 127 JUNGWOO** Kick It",
+            "label": "NCT 127 JUNGWOO",
+            "preview": "<:grade_A:1171197331538980874> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jungwoo/3.png?format=original",
+            "song": "Kick It",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "NCKI_JW_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **NCT 127 JUNGWOO** Kick It",
+            "label": "NCT 127 JUNGWOO",
+            "preview": "<:grade_B:1171195683894722601> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jungwoo/4.png?format=original",
+            "song": "Kick It",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "NCKI_JW_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **NCT 127 JUNGWOO** Kick It",
+            "label": "NCT 127 JUNGWOO",
+            "preview": "<:grade_C:1171195686209978398> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/06_jungwoo/5.png?format=original",
+            "song": "Kick It",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"NCKI_MA_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **NCT 127 MARK** Kick It",
+            "label": "NCT 127 MARK",
+            "preview": "<:grade_R:1171195690521743360> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/08_mark/1.png?format=original",
+            "song": "Kick It",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "NCKI_MA_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **NCT 127 MARK** Kick It",
+            "label": "NCT 127 MARK",
+            "preview": "<:grade_S:1171197327185285201> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/08_mark/2.png?format=original",
+            "song": "Kick It",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "NCKI_MA_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **NCT 127 MARK** Kick It",
+            "label": "NCT 127 MARK",
+            "preview": "<:grade_A:1171197331538980874> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/08_mark/3.png?format=original",
+            "song": "Kick It",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "NCKI_MA_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **NCT 127 MARK** Kick It",
+            "label": "NCT 127 MARK",
+            "preview": "<:grade_B:1171195683894722601> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/08_mark/4.png?format=original",
+            "song": "Kick It",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "NCKI_MA_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **NCT 127 MARK** Kick It",
+            "label": "NCT 127 MARK",
+            "preview": "<:grade_C:1171195686209978398> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/08_mark/5.png?format=original",
+            "song": "Kick It",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"NCKI_HC_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **NCT 127 HAECHAN** Kick It",
+            "label": "NCT 127 HAECHAN",
+            "preview": "<:grade_R:1171195690521743360> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/09_haechan/1.png?format=original",
+            "song": "Kick It",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "NCKI_HC_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **NCT 127 HAECHAN** Kick It",
+            "label": "NCT 127 HAECHAN",
+            "preview": "<:grade_S:1171197327185285201> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/09_haechan/2.png?format=original",
+            "song": "Kick It",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "NCKI_HC_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **NCT 127 HAECHAN** Kick It",
+            "label": "NCT 127 HAECHAN",
+            "preview": "<:grade_A:1171197331538980874> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/09_haechan/3.png?format=original",
+            "song": "Kick It",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "NCKI_HC_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **NCT 127 HAECHAN** Kick It",
+            "label": "NCT 127 HAECHAN",
+            "preview": "<:grade_B:1171195683894722601> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/09_haechan/4.png?format=original",
+            "song": "Kick It",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "NCKI_HC_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **NCT 127 HAECHAN** Kick It",
+            "label": "NCT 127 HAECHAN",
+            "preview": "<:grade_C:1171195686209978398> Kick It",
+            "guess": "K _ _ _  _ t",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/nct_127/kick_it/09_haechan/5.png?format=original",
+            "song": "Kick It",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "RVWS_IR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet IRENE** Wildside",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_R:1171195690521743360> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/irene/1.png?format=original",
+            "song": "Wildside",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVWS_IR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet IRENE** Wildside",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_S:1171197327185285201> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/irene/2.png?format=original",
+            "song": "Wildside",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVWS_IR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet IRENE** Wildside",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_A:1171197331538980874> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/irene/3.png?format=original",
+            "song": "Wildside",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVWS_IR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet IRENE** Wildside",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_B:1171195683894722601> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/irene/4.png?format=original",
+            "song": "Wildside",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVWS_IR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet IRENE** Wildside",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_C:1171195686209978398> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/irene/5.png?format=original",
+            "song": "Wildside",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVWS_SG_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet SEULGI** Wildside",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_R:1171195690521743360> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/seulgi/1.png?format=original",
+            "song": "Wildside",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVWS_SG_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet SEULGI** Wildside",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_S:1171197327185285201> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/seulgi/2.png?format=original",
+            "song": "Wildside",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVWS_SG_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet SEULGI** Wildside",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_A:1171197331538980874> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/seulgi/3.png?format=original",
+            "song": "Wildside",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVWS_SG_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet SEULGI** Wildside",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_B:1171195683894722601> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/seulgi/4.png?format=original",
+            "song": "Wildside",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVWS_SG_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet SEULGI** Wildside",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_C:1171195686209978398> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/seulgi/5.png?format=original",
+            "song": "Wildside",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVWS_WD_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet WENDY** Wildside",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_R:1171195690521743360> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/wendy/1.png?format=original",
+            "song": "Wildside",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVWS_WD_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet WENDY** Wildside",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_S:1171197327185285201> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/wendy/2.png?format=original",
+            "song": "Wildside",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVWS_WD_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet WENDY** Wildside",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_A:1171197331538980874> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/wendy/3.png?format=original",
+            "song": "Wildside",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVWS_WD_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet WENDY** Wildside",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_B:1171195683894722601> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/wendy/4.png?format=original",
+            "song": "Wildside",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVWS_WD_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet WENDY** Wildside",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_C:1171195686209978398> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/wendy/5.png?format=original",
+            "song": "Wildside",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVWS_JO_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet JOY** Wildside",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_R:1171195690521743360> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/joy/1.png?format=original",
+            "song": "Wildside",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVWS_JO_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet JOY** Wildside",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_S:1171197327185285201> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/joy/2.png?format=original",
+            "song": "Wildside",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVWS_JO_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet JOY** Wildside",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_A:1171197331538980874> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/joy/3.png?format=original",
+            "song": "Wildside",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVWS_JO_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet JOY** Wildside",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_B:1171195683894722601> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/joy/4.png?format=original",
+            "song": "Wildside",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVWS_JO_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet JOY** Wildside",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_C:1171195686209978398> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/joy/5.png?format=original",
+            "song": "Wildside",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVWS_YR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet YERI** Wildside",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_R:1171195690521743360> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/yeri/1.png?format=original",
+            "song": "Wildside",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVWS_YR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet YERI** Wildside",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_S:1171197327185285201> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/yeri/2.png?format=original",
+            "song": "Wildside",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVWS_YR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet YERI** Wildside",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_A:1171197331538980874> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/yeri/3.png?format=original",
+            "song": "Wildside",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVWS_YR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet YERI** Wildside",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_B:1171195683894722601> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/yeri/4.png?format=original",
+            "song": "Wildside",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVWS_YR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet YERI** Wildside",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_C:1171195686209978398> Wildside",
+            "guess": "W _ _ d _ i _ _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/wildside/yeri/5.png?format=original",
+            "song": "Wildside",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "RVCK_IR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet IRENE** Chill Kill",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_R:1171195690521743360> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/irene/1.png?format=original",
+            "song": "Chill Kill",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVCK_IR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet IRENE** Chill Kill",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_S:1171197327185285201> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/irene/2.png?format=original",
+            "song": "Chill Kill",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVCK_IR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet IRENE** Chill Kill",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_A:1171197331538980874> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/irene/3.png?format=original",
+            "song": "Chill Kill",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVCK_IR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet IRENE** Chill Kill",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_B:1171195683894722601> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/irene/4.png?format=original",
+            "song": "Chill Kill",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVCK_IR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet IRENE** Chill Kill",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_C:1171195686209978398> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/irene/5.png?format=original",
+            "song": "Chill Kill",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVCK_SG_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet SEULGI** Chill Kill",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_R:1171195690521743360> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/seulgi/1.png?format=original",
+            "song": "Chill Kill",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVCK_SG_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet SEULGI** Chill Kill",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_S:1171197327185285201> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/seulgi/2.png?format=original",
+            "song": "Chill Kill",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVCK_SG_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet SEULGI** Chill Kill",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_A:1171197331538980874> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/seulgi/3.png?format=original",
+            "song": "Chill Kill",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVCK_SG_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet SEULGI** Chill Kill",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_B:1171195683894722601> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/seulgi/4.png?format=original",
+            "song": "Chill Kill",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVCK_SG_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet SEULGI** Chill Kill",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_C:1171195686209978398> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/seulgi/5.png?format=original",
+            "song": "Chill Kill",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVCK_WD_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet WENDY** Chill Kill",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_R:1171195690521743360> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/wendy/1.png?format=original",
+            "song": "Chill Kill",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVCK_WD_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet WENDY** Chill Kill",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_S:1171197327185285201> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/wendy/2.png?format=original",
+            "song": "Chill Kill",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVCK_WD_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet WENDY** Chill Kill",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_A:1171197331538980874> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/wendy/3.png?format=original",
+            "song": "Chill Kill",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVCK_WD_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet WENDY** Chill Kill",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_B:1171195683894722601> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/wendy/4.png?format=original",
+            "song": "Chill Kill",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVCK_WD_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet WENDY** Chill Kill",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_C:1171195686209978398> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/wendy/5.png?format=original",
+            "song": "Chill Kill",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVCK_JO_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet JOY** Chill Kill",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_R:1171195690521743360> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/joy/1.png?format=original",
+            "song": "Chill Kill",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVCK_JO_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet JOY** Chill Kill",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_S:1171197327185285201> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/joy/2.png?format=original",
+            "song": "Chill Kill",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVCK_JO_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet JOY** Chill Kill",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_A:1171197331538980874> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/joy/3.png?format=original",
+            "song": "Chill Kill",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVCK_JO_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet JOY** Chill Kill",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_B:1171195683894722601> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/joy/4.png?format=original",
+            "song": "Chill Kill",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVCK_JO_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet JOY** Chill Kill",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_C:1171195686209978398> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/joy/5.png?format=original",
+            "song": "Chill Kill",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVCK_YR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet YERI** Chill Kill",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_R:1171195690521743360> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/yeri/1.png?format=original",
+            "song": "Chill Kill",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVCK_YR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet YERI** Chill Kill",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_S:1171197327185285201> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/yeri/2.png?format=original",
+            "song": "Chill Kill",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVCK_YR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet YERI** Chill Kill",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_A:1171197331538980874> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/yeri/3.png?format=original",
+            "song": "Chill Kill",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVCK_YR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet YERI** Chill Kill",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_B:1171195683894722601> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/yeri/4.png?format=original",
+            "song": "Chill Kill",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVCK_YR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet YERI** Chill Kill",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_C:1171195686209978398> Chill Kill",
+            "guess": "C _ _ l _  _ _ l l",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/chill_kill/yeri/5.png?format=original",
+            "song": "Chill Kill",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "TSTP_V_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Taylor Swift Vocal** Tortured Poets",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_R:1171195690521743360> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/v/1.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "TSTP_V_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Taylor Swift Vocal** Tortured Poets",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_S:1171197327185285201> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/v/2.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "TSTP_V_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Taylor Swift Vocal** Tortured Poets",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_A:1171197331538980874> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/v/3.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "TSTP_V_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Taylor Swift Vocal** Tortured Poets",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_B:1171195683894722601> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/v/4.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "TSTP_V_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Taylor Swift Vocal** Tortured Poets",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_C:1171195686209978398> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/v/5.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"TSTP_D_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Taylor Swift Dance** Tortured Poets",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_R:1171195690521743360> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/d/1.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "TSTP_D_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Taylor Swift Dance** Tortured Poets",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_S:1171197327185285201> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/d/2.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "TSTP_D_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Taylor Swift Dance** Tortured Poets",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_A:1171197331538980874> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/d/3.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "TSTP_D_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Taylor Swift Dance** Tortured Poets",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_B:1171195683894722601> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/d/4.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "TSTP_D_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Taylor Swift Dance** Tortured Poets",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_C:1171195686209978398> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/d/5.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"TSTP_R_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Taylor Swift Rhythm** Tortured Poets",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_R:1171195690521743360> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/r/1.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "TSTP_R_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Taylor Swift Rhythm** Tortured Poets",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_S:1171197327185285201> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/r/2.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "TSTP_R_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Taylor Swift Rhythm** Tortured Poets",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_A:1171197331538980874> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/r/3.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "TSTP_R_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Taylor Swift Rhythm** Tortured Poets",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_B:1171195683894722601> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/r/4.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "TSTP_R_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Taylor Swift Rhythm** Tortured Poets",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_C:1171195686209978398> Tortured Poets",
+            "guess": "T _ _ _ u _ _ _  _ o _ t s",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/tortured_poets/r/5.png?format=original",
+            "song": "The Tortured Poets Department",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "TSAH_V_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Taylor Swift Vocal** Anti-Hero",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_R:1171195690521743360> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/v/1.png?format=original",
+            "song": "Anti-Hero",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "TSAH_V_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Taylor Swift Vocal** Anti-Hero",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_S:1171197327185285201> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/v/2.png?format=original",
+            "song": "Anti-Hero",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "TSAH_V_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Taylor Swift Vocal** Anti-Hero",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_A:1171197331538980874> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/v/3.png?format=original",
+            "song": "Anti-Hero",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "TSAH_V_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Taylor Swift Vocal** Anti-Hero",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_B:1171195683894722601> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/v/4.png?format=original",
+            "song": "Anti-Hero",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "TSAH_V_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Taylor Swift Vocal** Anti-Hero",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_C:1171195686209978398> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/v/5.png?format=original",
+            "song": "Anti-Hero",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"TSAH_D_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Taylor Swift Dance** Anti-Hero",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_R:1171195690521743360> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/d/1.png?format=original",
+            "song": "Anti-Hero",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "TSAH_D_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Taylor Swift Dance** Anti-Hero",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_S:1171197327185285201> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/d/2.png?format=original",
+            "song": "Anti-Hero",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "TSAH_D_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Taylor Swift Dance** Anti-Hero",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_A:1171197331538980874> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/d/3.png?format=original",
+            "song": "Anti-Hero",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "TSAH_D_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Taylor Swift Dance** Anti-Hero",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_B:1171195683894722601> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/d/4.png?format=original",
+            "song": "Anti-Hero",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "TSAH_D_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Taylor Swift Dance** Anti-Hero",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_C:1171195686209978398> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/d/5.png?format=original",
+            "song": "Anti-Hero",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"TSAH_R_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Taylor Swift Rhythm** Anti-Hero",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_R:1171195690521743360> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/r/1.png?format=original",
+            "song": "Anti-Hero",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "TSAH_R_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Taylor Swift Rhythm** Anti-Hero",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_S:1171197327185285201> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/r/2.png?format=original",
+            "song": "Anti-Hero",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "TSAH_R_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Taylor Swift Rhythm** Anti-Hero",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_A:1171197331538980874> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/r/3.png?format=original",
+            "song": "Anti-Hero",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "TSAH_R_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Taylor Swift Rhythm** Anti-Hero",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_B:1171195683894722601> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/r/4.png?format=original",
+            "song": "Anti-Hero",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "TSAH_R_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Taylor Swift Rhythm** Anti-Hero",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_C:1171195686209978398> Anti-Hero",
+            "guess": "A _ _ i - _ e _ o",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/antihero/r/5.png?format=original",
+            "song": "Anti-Hero",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "TSBS_V_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Taylor Swift Vocal** Blank Space",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_R:1171195690521743360> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/v/1.png?format=original",
+            "song": "Blank Space",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "TSBS_V_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Taylor Swift Vocal** Blank Space",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_S:1171197327185285201> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/v/2.png?format=original",
+            "song": "Blank Space",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "TSBS_V_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Taylor Swift Vocal** Blank Space",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_A:1171197331538980874> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/v/3.png?format=original",
+            "song": "Blank Space",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "TSBS_V_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Taylor Swift Vocal** Blank Space",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_B:1171195683894722601> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/v/4.png?format=original",
+            "song": "Blank Space",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "TSBS_V_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Taylor Swift Vocal** Blank Space",
+            "label": "Taylor Swift Vocal",
+            "preview": "<:grade_C:1171195686209978398> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/v/5.png?format=original",
+            "song": "Blank Space",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"TSBS_D_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Taylor Swift Dance** Blank Space",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_R:1171195690521743360> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/d/1.png?format=original",
+            "song": "Blank Space",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "TSBS_D_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Taylor Swift Dance** Blank Space",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_S:1171197327185285201> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/d/2.png?format=original",
+            "song": "Blank Space",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "TSBS_D_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Taylor Swift Dance** Blank Space",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_A:1171197331538980874> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/d/3.png?format=original",
+            "song": "Blank Space",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "TSBS_D_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Taylor Swift Dance** Blank Space",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_B:1171195683894722601> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/d/4.png?format=original",
+            "song": "Blank Space",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "TSBS_D_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Taylor Swift Dance** Blank Space",
+            "label": "Taylor Swift Dance",
+            "preview": "<:grade_C:1171195686209978398> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/d/5.png?format=original",
+            "song": "Blank Space",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"TSBS_R_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Taylor Swift Rhythm** Blank Space",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_R:1171195690521743360> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/r/1.png?format=original",
+            "song": "Blank Space",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "TSBS_R_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Taylor Swift Rhythm** Blank Space",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_S:1171197327185285201> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/r/2.png?format=original",
+            "song": "Blank Space",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "TSBS_R_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Taylor Swift Rhythm** Blank Space",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_A:1171197331538980874> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/r/3.png?format=original",
+            "song": "Blank Space",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "TSBS_R_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Taylor Swift Rhythm** Blank Space",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_B:1171195683894722601> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/r/4.png?format=original",
+            "song": "Blank Space",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "TSBS_R_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Taylor Swift Rhythm** Blank Space",
+            "label": "Taylor Swift Rhythm",
+            "preview": "<:grade_C:1171195686209978398> Blank Space",
+            "guess": "B _ _ n k  _ _ a _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/r/5.png?format=original",
+            "song": "Blank Space",
+            "min": "100",
+            "max": "200"
+        }
     ]
+
+    
 
 
 }
