@@ -2008,6 +2008,494 @@
         }
     ],
 
+    "BNKR_AI_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Aiah** Karera",
+            "label": "BINI Aiah",
+            "preview": "<:grade_R:1171195690521743360> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/aiah/1.png?format=original",
+            "song": "Karera",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNKR_AI_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Aiah** Karera",
+            "label": "BINI Aiah",
+            "preview": "<:grade_S:1171197327185285201> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/aiah/2.png?format=original",
+            "song": "Karera",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNKR_AI_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Aiah** Karera",
+            "label": "BINI Aiah",
+            "preview": "<:grade_A:1171197331538980874> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/aiah/3.png?format=original",
+            "song": "Karera",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNKR_AI_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Aiah** Karera",
+            "label": "BINI Aiah",
+            "preview": "<:grade_B:1171195683894722601> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/aiah/4.png?format=original",
+            "song": "Karera",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNKR_AI_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Aiah** Karera",
+            "label": "BINI Aiah",
+            "preview": "<:grade_C:1171195686209978398> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/aiah/5.png?format=original",
+            "song": "Karera",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "BNKR_CL_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Colet** Karera",
+            "label": "BINI Colet",
+            "preview": "<:grade_R:1171195690521743360> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/colet/1.png?format=original",
+            "song": "Karera",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNKR_CL_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Colet** Karera",
+            "label": "BINI Colet",
+            "preview": "<:grade_S:1171197327185285201> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/colet/2.png?format=original",
+            "song": "Karera",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNKR_CL_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Colet** Karera",
+            "label": "BINI Colet",
+            "preview": "<:grade_A:1171197331538980874> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/colet/3.png?format=original",
+            "song": "Karera",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNKR_CL_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Colet** Karera",
+            "label": "BINI Colet",
+            "preview": "<:grade_B:1171195683894722601> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/colet/4.png?format=original",
+            "song": "Karera",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNKR_CL_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Colet** Karera",
+            "label": "BINI Colet",
+            "preview": "<:grade_C:1171195686209978398> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/colet/5.png?format=original",
+            "song": "Karera",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNKR_ML_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Maloi** Karera",
+            "label": "BINI Maloi",
+            "preview": "<:grade_R:1171195690521743360> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/maloi/1.png?format=original",
+            "song": "Karera",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNKR_ML_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Maloi** Karera",
+            "label": "BINI Maloi",
+            "preview": "<:grade_S:1171197327185285201> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/maloi/2.png?format=original",
+            "song": "Karera",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNKR_ML_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Maloi** Karera",
+            "label": "BINI Maloi",
+            "preview": "<:grade_A:1171197331538980874> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/maloi/3.png?format=original",
+            "song": "Karera",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNKR_ML_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Maloi** Karera",
+            "label": "BINI Maloi",
+            "preview": "<:grade_B:1171195683894722601> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/maloi/4.png?format=original",
+            "song": "Karera",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNKR_ML_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Maloi** Karera",
+            "label": "BINI Maloi",
+            "preview": "<:grade_C:1171195686209978398> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/maloi/5.png?format=original",
+            "song": "Karera",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNKR_JH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Jhoanna** Karera",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_R:1171195690521743360> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/jhoanna/1.png?format=original",
+            "song": "Karera",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNKR_JH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Jhoanna** Karera",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_S:1171197327185285201> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/jhoanna/2.png?format=original",
+            "song": "Karera",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNKR_JH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Jhoanna** Karera",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_A:1171197331538980874> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/jhoanna/3.png?format=original",
+            "song": "Karera",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNKR_JH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Jhoanna** Karera",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_B:1171195683894722601> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/jhoanna/4.png?format=original",
+            "song": "Karera",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNKR_JH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Jhoanna** Karera",
+            "label": "BINI Jhoanna",
+            "preview": "<:grade_C:1171195686209978398> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/jhoanna/5.png?format=original",
+            "song": "Karera",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    
+
+    "BNKR_YJ_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Gwen** Karera",
+            "label": "BINI Gwen",
+            "preview": "<:grade_R:1171195690521743360> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/gwen/1.png?format=original",
+            "song": "Karera",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNKR_YJ_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Gwen** Karera",
+            "label": "BINI Gwen",
+            "preview": "<:grade_S:1171197327185285201> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/gwen/2.png?format=original",
+            "song": "Karera",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNKR_YJ_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Gwen** Karera",
+            "label": "BINI Gwen",
+            "preview": "<:grade_A:1171197331538980874> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/gwen/3.png?format=original",
+            "song": "Karera",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNKR_YJ_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Gwen** Karera",
+            "label": "BINI Gwen",
+            "preview": "<:grade_B:1171195683894722601> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/gwen/4.png?format=original",
+            "song": "Karera",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNKR_YJ_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Gwen** Karera",
+            "label": "BINI Gwen",
+            "preview": "<:grade_C:1171195686209978398> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/gwen/5.png?format=original",
+            "song": "Karera",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+  "BNKR_MK_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Mikha** Karera",
+            "label": "BINI Mikha",
+            "preview": "<:grade_R:1171195690521743360> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/mikha/1.png?format=original",
+            "song": "Karera",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNKR_MK_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Mikha** Karera",
+            "label": "BINI Mikha",
+            "preview": "<:grade_S:1171197327185285201> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/mikha/2.png?format=original",
+            "song": "Karera",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNKR_MK_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Mikha** Karera",
+            "label": "BINI Mikha",
+            "preview": "<:grade_A:1171197331538980874> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/mikha/3.png?format=original",
+            "song": "Karera",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNKR_MK_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Mikha** Karera",
+            "label": "BINI Mikha",
+            "preview": "<:grade_B:1171195683894722601> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/mikha/4.png?format=original",
+            "song": "Karera",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNKR_MK_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Mikha** Karera",
+            "label": "BINI Mikha",
+            "preview": "<:grade_C:1171195686209978398> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/mikha/5.png?format=original",
+            "song": "Karera",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNKR_SC_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Stacey** Karera",
+            "label": "BINI Stacey",
+            "preview": "<:grade_R:1171195690521743360> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/stacey/1.png?format=original",
+            "song": "Karera",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNKR_SC_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Stacey** Karera",
+            "label": "BINI Stacey",
+            "preview": "<:grade_S:1171197327185285201> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/stacey/2.png?format=original",
+            "song": "Karera",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNKR_SC_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Stacey** Karera",
+            "label": "BINI Stacey",
+            "preview": "<:grade_A:1171197331538980874> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/stacey/3.png?format=original",
+            "song": "Karera",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNKR_SC_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Stacey** Karera",
+            "label": "BINI Stacey",
+            "preview": "<:grade_B:1171195683894722601> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/stacey/4.png?format=original",
+            "song": "Karera",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNKR_SC_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Stacey** Karera",
+            "label": "BINI Stacey",
+            "preview": "<:grade_C:1171195686209978398> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/stacey/5.png?format=original",
+            "song": "Karera",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+  "BNKR_SH_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BINI Sheena** Karera",
+            "label": "BINI Sheena",
+            "preview": "<:grade_R:1171195690521743360> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/sheena/1.png?format=original",
+            "song": "Karera",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BNKR_SH_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BINI Sheena** Karera",
+            "label": "BINI Sheena",
+            "preview": "<:grade_S:1171197327185285201> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/sheena/2.png?format=original",
+            "song": "Karera",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BNKR_SH_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BINI Sheena** Karera",
+            "label": "BINI Sheena",
+            "preview": "<:grade_A:1171197331538980874> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/sheena/3.png?format=original",
+            "song": "Karera",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BNKR_SH_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BINI Sheena** Karera",
+            "label": "BINI Sheena",
+            "preview": "<:grade_B:1171195683894722601> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/sheena/4.png?format=original",
+            "song": "Karera",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BNKR_SH_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BINI Sheena** Karera",
+            "label": "BINI Sheena",
+            "preview": "<:grade_C:1171195686209978398> Karera",
+            "guess": "K _ _ e r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/bini/karera/sheena/5.png?format=original",
+            "song": "Karera",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
     "BNPN_AI_R": [
         {
             "name": "<:grade_R:1171195690521743360> **BINI Aiah** Pantropiko",
@@ -6213,6 +6701,616 @@
             "guess": "B _ _ n k  _ _ a _ e",
             "image": "https://ik.imagekit.io/atss/resources/images/card/taylor_swift/blank_space/r/5.png?format=original",
             "song": "Blank Space",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "SCBB_SI_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **STAYC SIEUN** Bubble",
+            "label": "STAYC SIEUN",
+            "preview": "<:grade_R:1171195690521743360> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sieun/1.png?format=original",
+            "song": "Bubble",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "SCBB_SI_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **STAYC SIEUN** Bubble",
+            "label": "STAYC SIEUN",
+            "preview": "<:grade_S:1171197327185285201> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sieun/2.png?format=original",
+            "song": "Bubble",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "SCBB_SI_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **STAYC SIEUN** Bubble",
+            "label": "STAYC SIEUN",
+            "preview": "<:grade_A:1171197331538980874> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sieun/3.png?format=original",
+            "song": "Bubble",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "SCBB_SI_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **STAYC SIEUN** Bubble",
+            "label": "STAYC SIEUN",
+            "preview": "<:grade_B:1171195683894722601> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sieun/4.png?format=original",
+            "song": "Bubble",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "SCBB_SI_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **STAYC SIEUN** Bubble",
+            "label": "STAYC SIEUN",
+            "preview": "<:grade_C:1171195686209978398> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sieun/5.png?format=original",
+            "song": "Bubble",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "SCBB_SM_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **STAYC SUMIN** Bubble",
+            "label": "STAYC SUMIN",
+            "preview": "<:grade_R:1171195690521743360> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sumin/1.png?format=original",
+            "song": "Bubble",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "SCBB_SM_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **STAYC SUMIN** Bubble",
+            "label": "STAYC SUMIN",
+            "preview": "<:grade_S:1171197327185285201> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sumin/2.png?format=original",
+            "song": "Bubble",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "SCBB_SM_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **STAYC SUMIN** Bubble",
+            "label": "STAYC SUMIN",
+            "preview": "<:grade_A:1171197331538980874> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sumin/3.png?format=original",
+            "song": "Bubble",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "SCBB_SM_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **STAYC SUMIN** Bubble",
+            "label": "STAYC SUMIN",
+            "preview": "<:grade_B:1171195683894722601> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sumin/4.png?format=original",
+            "song": "Bubble",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "SCBB_SM_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **STAYC SUMIN** Bubble",
+            "label": "STAYC SUMIN",
+            "preview": "<:grade_C:1171195686209978398> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/sumin/5.png?format=original",
+            "song": "Bubble",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "SCBB_IS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **STAYC ISA** Bubble",
+            "label": "STAYC ISA",
+            "preview": "<:grade_R:1171195690521743360> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/isa/1.png?format=original",
+            "song": "Bubble",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "SCBB_IS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **STAYC ISA** Bubble",
+            "label": "STAYC ISA",
+            "preview": "<:grade_S:1171197327185285201> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/isa/2.png?format=original",
+            "song": "Bubble",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "SCBB_IS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **STAYC ISA** Bubble",
+            "label": "STAYC ISA",
+            "preview": "<:grade_A:1171197331538980874> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/isa/3.png?format=original",
+            "song": "Bubble",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "SCBB_IS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **STAYC ISA** Bubble",
+            "label": "STAYC ISA",
+            "preview": "<:grade_B:1171195683894722601> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/isa/4.png?format=original",
+            "song": "Bubble",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "SCBB_IS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **STAYC ISA** Bubble",
+            "label": "STAYC ISA",
+            "preview": "<:grade_C:1171195686209978398> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/isa/5.png?format=original",
+            "song": "Bubble",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "SCBB_SE_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **STAYC SEEUN** Bubble",
+            "label": "STAYC SEEUN",
+            "preview": "<:grade_R:1171195690521743360> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/seeun/1.png?format=original",
+            "song": "Bubble",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "SCBB_SE_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **STAYC SEEUN** Bubble",
+            "label": "STAYC SEEUN",
+            "preview": "<:grade_S:1171197327185285201> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/seeun/2.png?format=original",
+            "song": "Bubble",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "SCBB_SE_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **STAYC SEEUN** Bubble",
+            "label": "STAYC SEEUN",
+            "preview": "<:grade_A:1171197331538980874> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/seeun/3.png?format=original",
+            "song": "Bubble",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "SCBB_SE_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **STAYC SEEUN** Bubble",
+            "label": "STAYC SEEUN",
+            "preview": "<:grade_B:1171195683894722601> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/seeun/4.png?format=original",
+            "song": "Bubble",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "SCBB_SE_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **STAYC SEEUN** Bubble",
+            "label": "STAYC SEEUN",
+            "preview": "<:grade_C:1171195686209978398> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/seeun/5.png?format=original",
+            "song": "Bubble",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "SCBB_YO_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **STAYC YOON** Bubble",
+            "label": "STAYC YOON",
+            "preview": "<:grade_R:1171195690521743360> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/yoon/1.png?format=original",
+            "song": "Bubble",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "SCBB_YO_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **STAYC YOON** Bubble",
+            "label": "STAYC YOON",
+            "preview": "<:grade_S:1171197327185285201> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/yoon/2.png?format=original",
+            "song": "Bubble",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "SCBB_YO_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **STAYC YOON** Bubble",
+            "label": "STAYC YOON",
+            "preview": "<:grade_A:1171197331538980874> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/yoon/3.png?format=original",
+            "song": "Bubble",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "SCBB_YO_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **STAYC YOON** Bubble",
+            "label": "STAYC YOON",
+            "preview": "<:grade_B:1171195683894722601> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/yoon/4.png?format=original",
+            "song": "Bubble",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "SCBB_YO_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **STAYC YOON** Bubble",
+            "label": "STAYC YOON",
+            "preview": "<:grade_C:1171195686209978398> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/yoon/5.png?format=original",
+            "song": "Bubble",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "SCBB_J_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **STAYC J** Bubble",
+            "label": "STAYC J",
+            "preview": "<:grade_R:1171195690521743360> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/j/1.png?format=original",
+            "song": "Bubble",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "SCBB_J_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **STAYC J** Bubble",
+            "label": "STAYC J",
+            "preview": "<:grade_S:1171197327185285201> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/j/2.png?format=original",
+            "song": "Bubble",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "SCBB_J_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **STAYC J** Bubble",
+            "label": "STAYC J",
+            "preview": "<:grade_A:1171197331538980874> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/j/3.png?format=original",
+            "song": "Bubble",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "SCBB_J_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **STAYC J** Bubble",
+            "label": "STAYC J",
+            "preview": "<:grade_B:1171195683894722601> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/j/4.png?format=original",
+            "song": "Bubble",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "SCBB_J_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **STAYC J** Bubble",
+            "label": "STAYC J",
+            "preview": "<:grade_C:1171195686209978398> Bubble",
+            "guess": "B _ _ b _ e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/stayc/bubble/j/5.png?format=original",
+            "song": "Bubble",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "BPSD_JS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BLACKPINK JISOO** Shut Down",
+            "label": "BLACKPINK JISOO",
+            "preview": "<:grade_R:1171195690521743360> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jisoo/1.png?format=original",
+            "song": "Shut Down",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BPSD_JS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BLACKPINK JISOO** Shut Down",
+            "label": "BLACKPINK JISOO",
+            "preview": "<:grade_S:1171197327185285201> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jisoo/2.png?format=original",
+            "song": "Shut Down",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BPSD_JS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BLACKPINK JISOO** Shut Down",
+            "label": "BLACKPINK JISOO",
+            "preview": "<:grade_A:1171197331538980874> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jisoo/3.png?format=original",
+            "song": "Shut Down",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BPSD_JS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BLACKPINK JISOO** Shut Down",
+            "label": "BLACKPINK JISOO",
+            "preview": "<:grade_B:1171195683894722601> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jisoo/4.png?format=original",
+            "song": "Shut Down",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BPSD_JS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BLACKPINK JISOO** Shut Down",
+            "label": "BLACKPINK JISOO",
+            "preview": "<:grade_C:1171195686209978398> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jisoo/5.png?format=original",
+            "song": "Shut Down",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "BPSD_JN_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BLACKPINK JENNIE** Shut Down",
+            "label": "BLACKPINK JENNIE",
+            "preview": "<:grade_R:1171195690521743360> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jennie/1.png?format=original",
+            "song": "Shut Down",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BPSD_JN_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BLACKPINK JENNIE** Shut Down",
+            "label": "BLACKPINK JENNIE",
+            "preview": "<:grade_S:1171197327185285201> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jennie/2.png?format=original",
+            "song": "Shut Down",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BPSD_JN_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BLACKPINK JENNIE** Shut Down",
+            "label": "BLACKPINK JENNIE",
+            "preview": "<:grade_A:1171197331538980874> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jennie/3.png?format=original",
+            "song": "Shut Down",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BPSD_JN_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BLACKPINK JENNIE** Shut Down",
+            "label": "BLACKPINK JENNIE",
+            "preview": "<:grade_B:1171195683894722601> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jennie/4.png?format=original",
+            "song": "Shut Down",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BPSD_JN_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BLACKPINK JENNIE** Shut Down",
+            "label": "BLACKPINK JENNIE",
+            "preview": "<:grade_C:1171195686209978398> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/jennie/5.png?format=original",
+            "song": "Shut Down",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "BPSD_RS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BLACKPINK ROSÉ** Shut Down",
+            "label": "BLACKPINK ROSÉ",
+            "preview": "<:grade_R:1171195690521743360> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/rose/1.png?format=original",
+            "song": "Shut Down",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BPSD_RS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BLACKPINK ROSÉ** Shut Down",
+            "label": "BLACKPINK ROSÉ",
+            "preview": "<:grade_S:1171197327185285201> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/rose/2.png?format=original",
+            "song": "Shut Down",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BPSD_RS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BLACKPINK ROSÉ** Shut Down",
+            "label": "BLACKPINK ROSÉ",
+            "preview": "<:grade_A:1171197331538980874> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/rose/3.png?format=original",
+            "song": "Shut Down",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BPSD_RS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BLACKPINK ROSÉ** Shut Down",
+            "label": "BLACKPINK ROSÉ",
+            "preview": "<:grade_B:1171195683894722601> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/rose/4.png?format=original",
+            "song": "Shut Down",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BPSD_RS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BLACKPINK ROSÉ** Shut Down",
+            "label": "BLACKPINK ROSÉ",
+            "preview": "<:grade_C:1171195686209978398> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/rose/5.png?format=original",
+            "song": "Shut Down",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+      "BPSD_LS_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **BLACKPINK LISA** Shut Down",
+            "label": "BLACKPINK LISA",
+            "preview": "<:grade_R:1171195690521743360> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/lisa/1.png?format=original",
+            "song": "Shut Down",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "BPSD_LS_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **BLACKPINK LISA** Shut Down",
+            "label": "BLACKPINK LISA",
+            "preview": "<:grade_S:1171197327185285201> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/lisa/2.png?format=original",
+            "song": "Shut Down",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "BPSD_LS_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **BLACKPINK LISA** Shut Down",
+            "label": "BLACKPINK LISA",
+            "preview": "<:grade_A:1171197331538980874> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/lisa/3.png?format=original",
+            "song": "Shut Down",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "BPSD_LS_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **BLACKPINK LISA** Shut Down",
+            "label": "BLACKPINK LISA",
+            "preview": "<:grade_B:1171195683894722601> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/lisa/4.png?format=original",
+            "song": "Shut Down",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "BPSD_LS_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **BLACKPINK LISA** Shut Down",
+            "label": "BLACKPINK LISA",
+            "preview": "<:grade_C:1171195686209978398> Shut Down",
+            "guess": "S _ _ t  D _ w _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/blackpink/shut_down/lisa/5.png?format=original",
+            "song": "Shut Down",
             "min": "100",
             "max": "200"
         }
