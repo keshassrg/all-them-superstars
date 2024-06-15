@@ -5852,6 +5852,616 @@
         }
     ],
 
+    "RVNM_IR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet IRENE** Nightmare",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_R:1171195690521743360> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/irene/1.png?format=original",
+            "song": "Nightmare",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVNM_IR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet IRENE** Nightmare",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_S:1171197327185285201> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/irene/2.png?format=original",
+            "song": "Nightmare",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVNM_IR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet IRENE** Nightmare",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_A:1171197331538980874> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/irene/3.png?format=original",
+            "song": "Nightmare",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVNM_IR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet IRENE** Nightmare",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_B:1171195683894722601> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/irene/4.png?format=original",
+            "song": "Nightmare",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVNM_IR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet IRENE** Nightmare",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_C:1171195686209978398> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/irene/5.png?format=original",
+            "song": "Nightmare",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVNM_SG_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet SEULGI** Nightmare",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_R:1171195690521743360> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/seulgi/1.png?format=original",
+            "song": "Nightmare",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVNM_SG_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet SEULGI** Nightmare",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_S:1171197327185285201> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/seulgi/2.png?format=original",
+            "song": "Nightmare",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVNM_SG_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet SEULGI** Nightmare",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_A:1171197331538980874> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/seulgi/3.png?format=original",
+            "song": "Nightmare",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVNM_SG_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet SEULGI** Nightmare",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_B:1171195683894722601> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/seulgi/4.png?format=original",
+            "song": "Nightmare",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVNM_SG_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet SEULGI** Nightmare",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_C:1171195686209978398> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/seulgi/5.png?format=original",
+            "song": "Nightmare",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVNM_WD_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet WENDY** Nightmare",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_R:1171195690521743360> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/wendy/1.png?format=original",
+            "song": "Nightmare",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVNM_WD_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet WENDY** Nightmare",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_S:1171197327185285201> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/wendy/2.png?format=original",
+            "song": "Nightmare",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVNM_WD_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet WENDY** Nightmare",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_A:1171197331538980874> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/wendy/3.png?format=original",
+            "song": "Nightmare",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVNM_WD_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet WENDY** Nightmare",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_B:1171195683894722601> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/wendy/4.png?format=original",
+            "song": "Nightmare",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVNM_WD_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet WENDY** Nightmare",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_C:1171195686209978398> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/wendy/5.png?format=original",
+            "song": "Nightmare",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVNM_JO_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet JOY** Nightmare",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_R:1171195690521743360> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/joy/1.png?format=original",
+            "song": "Nightmare",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVNM_JO_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet JOY** Nightmare",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_S:1171197327185285201> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/joy/2.png?format=original",
+            "song": "Nightmare",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVNM_JO_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet JOY** Nightmare",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_A:1171197331538980874> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/joy/3.png?format=original",
+            "song": "Nightmare",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVNM_JO_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet JOY** Nightmare",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_B:1171195683894722601> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/joy/4.png?format=original",
+            "song": "Nightmare",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVNM_JO_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet JOY** Nightmare",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_C:1171195686209978398> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/joy/5.png?format=original",
+            "song": "Nightmare",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVNM_YR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet YERI** Nightmare",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_R:1171195690521743360> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/yeri/1.png?format=original",
+            "song": "Nightmare",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVNM_YR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet YERI** Nightmare",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_S:1171197327185285201> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/yeri/2.png?format=original",
+            "song": "Nightmare",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVNM_YR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet YERI** Nightmare",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_A:1171197331538980874> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/yeri/3.png?format=original",
+            "song": "Nightmare",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVNM_YR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet YERI** Nightmare",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_B:1171195683894722601> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/yeri/4.png?format=original",
+            "song": "Nightmare",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVNM_YR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet YERI** Nightmare",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_C:1171195686209978398> Nightmare",
+            "guess": "N _ _ _ t _ a r _",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/nightmare/yeri/5.png?format=original",
+            "song": "Nightmare",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "RVTT_IR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet IRENE** Time To Love",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_R:1171195690521743360> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/irene/1.png?format=original",
+            "song": "Time To Love",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVTT_IR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet IRENE** Time To Love",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_S:1171197327185285201> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/irene/2.png?format=original",
+            "song": "Time To Love",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVTT_IR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet IRENE** Time To Love",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_A:1171197331538980874> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/irene/3.png?format=original",
+            "song": "Time To Love",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVTT_IR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet IRENE** Time To Love",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_B:1171195683894722601> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/irene/4.png?format=original",
+            "song": "Time To Love",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVTT_IR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet IRENE** Time To Love",
+            "label": "Red Velvet IRENE",
+            "preview": "<:grade_C:1171195686209978398> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/irene/5.png?format=original",
+            "song": "Time To Love",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVTT_SG_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet SEULGI** Time To Love",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_R:1171195690521743360> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/seulgi/1.png?format=original",
+            "song": "Time To Love",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVTT_SG_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet SEULGI** Time To Love",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_S:1171197327185285201> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/seulgi/2.png?format=original",
+            "song": "Time To Love",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVTT_SG_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet SEULGI** Time To Love",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_A:1171197331538980874> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/seulgi/3.png?format=original",
+            "song": "Time To Love",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVTT_SG_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet SEULGI** Time To Love",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_B:1171195683894722601> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/seulgi/4.png?format=original",
+            "song": "Time To Love",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVTT_SG_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet SEULGI** Time To Love",
+            "label": "Red Velvet SEULGI",
+            "preview": "<:grade_C:1171195686209978398> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/seulgi/5.png?format=original",
+            "song": "Time To Love",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVTT_WD_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet WENDY** Time To Love",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_R:1171195690521743360> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/wendy/1.png?format=original",
+            "song": "Time To Love",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVTT_WD_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet WENDY** Time To Love",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_S:1171197327185285201> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/wendy/2.png?format=original",
+            "song": "Time To Love",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVTT_WD_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet WENDY** Time To Love",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_A:1171197331538980874> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/wendy/3.png?format=original",
+            "song": "Time To Love",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVTT_WD_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet WENDY** Time To Love",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_B:1171195683894722601> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/wendy/4.png?format=original",
+            "song": "Time To Love",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVTT_WD_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet WENDY** Time To Love",
+            "label": "Red Velvet WENDY",
+            "preview": "<:grade_C:1171195686209978398> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/wendy/5.png?format=original",
+            "song": "Time To Love",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVTT_JO_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet JOY** Time To Love",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_R:1171195690521743360> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/joy/1.png?format=original",
+            "song": "Time To Love",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVTT_JO_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet JOY** Time To Love",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_S:1171197327185285201> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/joy/2.png?format=original",
+            "song": "Time To Love",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVTT_JO_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet JOY** Time To Love",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_A:1171197331538980874> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/joy/3.png?format=original",
+            "song": "Time To Love",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVTT_JO_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet JOY** Time To Love",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_B:1171195683894722601> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/joy/4.png?format=original",
+            "song": "Time To Love",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVTT_JO_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet JOY** Time To Love",
+            "label": "Red Velvet JOY",
+            "preview": "<:grade_C:1171195686209978398> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/joy/5.png?format=original",
+            "song": "Time To Love",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+"RVTT_YR_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Red Velvet YERI** Time To Love",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_R:1171195690521743360> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/yeri/1.png?format=original",
+            "song": "Time To Love",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "RVTT_YR_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Red Velvet YERI** Time To Love",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_S:1171197327185285201> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/yeri/2.png?format=original",
+            "song": "Time To Love",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "RVTT_YR_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Red Velvet YERI** Time To Love",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_A:1171197331538980874> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/yeri/3.png?format=original",
+            "song": "Time To Love",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "RVTT_YR_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Red Velvet YERI** Time To Love",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_B:1171195683894722601> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/yeri/4.png?format=original",
+            "song": "Time To Love",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "RVTT_YR_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Red Velvet YERI** Time To Love",
+            "label": "Red Velvet YERI",
+            "preview": "<:grade_C:1171195686209978398> Time To Love",
+            "guess": "T _ _ e  T _  _ _ v e",
+            "image": "https://ik.imagekit.io/atss/resources/images/card/red_velvet/time_to_love/yeri/5.png?format=original",
+            "song": "Time To Love",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
     "RVCK_IR_R": [
         {
             "name": "<:grade_R:1171195690521743360> **Red Velvet IRENE** Chill Kill",
