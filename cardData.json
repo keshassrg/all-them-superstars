@@ -4,9 +4,9 @@
 {
     "cardName": "<:grade_R:1171195690521743360> **BINI Aiah** Cherry On Top",
     "cardEmpty": "**BINI Aiah** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_aiah.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png",
     "cardCode": "BNCO_AI",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -20,9 +20,9 @@
 {
     "cardName": "<:grade_S:1171197327185285201> **BINI Aiah** Cherry On Top",
     "cardEmpty": "**BINI Aiah** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_aiah.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png",
     "cardCode": "BNCO_AI",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -36,9 +36,9 @@
 {
     "cardName": "<:grade_A:1171197331538980874> **BINI Aiah** Cherry On Top",
     "cardEmpty": "**BINI Aiah** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_aiah.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png",
     "cardCode": "BNCO_AI",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -52,9 +52,9 @@
 {
     "cardName": "<:grade_B:1171195683894722601> **BINI Aiah** Cherry On Top",
     "cardEmpty": "**BINI Aiah** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_aiah.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png",
     "cardCode": "BNCO_AI",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -68,9 +68,9 @@
 {
     "cardName": "<:grade_C:1171195686209978398> **BINI Aiah** Cherry On Top",
     "cardEmpty": "**BINI Aiah** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_aiah.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_aiah.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25&format=png",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_aiah.png",
     "cardCode": "BNCO_AI",
     "cardGuess": "<:grade_C:1171195686209978398> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -84,9 +84,9 @@
 {
     "cardName": "<:grade_R:1171195690521743360> **BINI Colet** Cherry On Top",
     "cardEmpty": "**BINI Colet** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_colet.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png",
     "cardCode": "BNCO_CL",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -100,9 +100,9 @@
 {
     "cardName": "<:grade_S:1171197327185285201> **BINI Colet** Cherry On Top",
     "cardEmpty": "**BINI Colet** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_colet.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png",
     "cardCode": "BNCO_CL",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -116,9 +116,9 @@
 {
     "cardName": "<:grade_A:1171197331538980874> **BINI Colet** Cherry On Top",
     "cardEmpty": "**BINI Colet** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_colet.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png",
     "cardCode": "BNCO_CL",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -132,9 +132,9 @@
 {
     "cardName": "<:grade_B:1171195683894722601> **BINI Colet** Cherry On Top",
     "cardEmpty": "**BINI Colet** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_colet.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png",
     "cardCode": "BNCO_CL",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -148,9 +148,9 @@
 {
     "cardName": "<:grade_C:1171195686209978398> **BINI Colet** Cherry On Top",
     "cardEmpty": "**BINI Colet** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_colet.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_colet.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25&format=png",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_colet.png",
     "cardCode": "BNCO_CL",
     "cardGuess": "<:grade_C:1171195686209978398> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -164,9 +164,9 @@
 {
     "cardName": "<:grade_R:1171195690521743360> **BINI Gwen** Cherry On Top",
     "cardEmpty": "**BINI Gwen** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_gwen.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png",
     "cardCode": "BNCO_GW",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -180,9 +180,9 @@
 {
     "cardName": "<:grade_S:1171197327185285201> **BINI Gwen** Cherry On Top",
     "cardEmpty": "**BINI Gwen** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_gwen.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png",
     "cardCode": "BNCO_GW",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -196,9 +196,9 @@
 {
     "cardName": "<:grade_A:1171197331538980874> **BINI Gwen** Cherry On Top",
     "cardEmpty": "**BINI Gwen** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_gwen.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png",
     "cardCode": "BNCO_GW",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -212,9 +212,9 @@
 {
     "cardName": "<:grade_B:1171195683894722601> **BINI Gwen** Cherry On Top",
     "cardEmpty": "**BINI Gwen** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_gwen.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png",
     "cardCode": "BNCO_GW",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -228,9 +228,9 @@
 {
     "cardName": "<:grade_C:1171195686209978398> **BINI Gwen** Cherry On Top",
     "cardEmpty": "**BINI Gwen** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_gwen.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_gwen.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25&format=png",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_gwen.png",
     "cardCode": "BNCO_GW",
     "cardGuess": "<:grade_C:1171195686209978398> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -244,9 +244,9 @@
 {
     "cardName": "<:grade_R:1171195690521743360> **BINI Maloi** Cherry On Top",
     "cardEmpty": "**BINI Maloi** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_maloi.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png",
     "cardCode": "BNCO_ML",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -260,9 +260,9 @@
 {
     "cardName": "<:grade_S:1171197327185285201> **BINI Maloi** Cherry On Top",
     "cardEmpty": "**BINI Maloi** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_maloi.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png",
     "cardCode": "BNCO_ML",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -276,9 +276,9 @@
 {
     "cardName": "<:grade_A:1171197331538980874> **BINI Maloi** Cherry On Top",
     "cardEmpty": "**BINI Maloi** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_maloi.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png",
     "cardCode": "BNCO_ML",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -292,9 +292,9 @@
 {
     "cardName": "<:grade_B:1171195683894722601> **BINI Maloi** Cherry On Top",
     "cardEmpty": "**BINI Maloi** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_maloi.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png",
     "cardCode": "BNCO_ML",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -308,9 +308,9 @@
 {
     "cardName": "<:grade_C:1171195686209978398> **BINI Maloi** Cherry On Top",
     "cardEmpty": "**BINI Maloi** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_maloi.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_maloi.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25&format=png",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_maloi.png",
     "cardCode": "BNCO_ML",
     "cardGuess": "<:grade_C:1171195686209978398> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -320,13 +320,13 @@
 }
   ],
 
-    "BNCO_JH_R": [
+        "BNCO_JH_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **BINI Jhoanna** Cherry On Top",
     "cardEmpty": "**BINI Jhoanna** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_jhoanna.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png",
     "cardCode": "BNCO_JH",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -340,9 +340,9 @@
 {
     "cardName": "<:grade_S:1171197327185285201> **BINI Jhoanna** Cherry On Top",
     "cardEmpty": "**BINI Jhoanna** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_jhoanna.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png",
     "cardCode": "BNCO_JH",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -356,9 +356,9 @@
 {
     "cardName": "<:grade_A:1171197331538980874> **BINI Jhoanna** Cherry On Top",
     "cardEmpty": "**BINI Jhoanna** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_jhoanna.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png",
     "cardCode": "BNCO_JH",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -372,9 +372,9 @@
 {
     "cardName": "<:grade_B:1171195683894722601> **BINI Jhoanna** Cherry On Top",
     "cardEmpty": "**BINI Jhoanna** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_jhoanna.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png",
     "cardCode": "BNCO_JH",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -388,9 +388,9 @@
 {
     "cardName": "<:grade_C:1171195686209978398> **BINI Jhoanna** Cherry On Top",
     "cardEmpty": "**BINI Jhoanna** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_jhoanna.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_jhoanna.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25&format=png",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_jhoanna.png",
     "cardCode": "BNCO_JH",
     "cardGuess": "<:grade_C:1171195686209978398> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -400,13 +400,13 @@
 }
   ],
 
-    "BNCO_MK_R": [
+        "BNCO_MK_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **BINI Mikha** Cherry On Top",
     "cardEmpty": "**BINI Mikha** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_mikha.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png",
     "cardCode": "BNCO_MK",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -420,9 +420,9 @@
 {
     "cardName": "<:grade_S:1171197327185285201> **BINI Mikha** Cherry On Top",
     "cardEmpty": "**BINI Mikha** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_mikha.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png",
     "cardCode": "BNCO_MK",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -436,9 +436,9 @@
 {
     "cardName": "<:grade_A:1171197331538980874> **BINI Mikha** Cherry On Top",
     "cardEmpty": "**BINI Mikha** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_mikha.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png",
     "cardCode": "BNCO_MK",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -452,9 +452,9 @@
 {
     "cardName": "<:grade_B:1171195683894722601> **BINI Mikha** Cherry On Top",
     "cardEmpty": "**BINI Mikha** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_mikha.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png",
     "cardCode": "BNCO_MK",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -468,9 +468,9 @@
 {
     "cardName": "<:grade_C:1171195686209978398> **BINI Mikha** Cherry On Top",
     "cardEmpty": "**BINI Mikha** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_mikha.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_mikha.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25&format=png",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_mikha.png",
     "cardCode": "BNCO_MK",
     "cardGuess": "<:grade_C:1171195686209978398> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -480,13 +480,13 @@
 }
   ],
 
-    "BNCO_SC_R": [
+        "BNCO_SC_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **BINI Stacey** Cherry On Top",
     "cardEmpty": "**BINI Stacey** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_stacey.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png",
     "cardCode": "BNCO_SC",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -500,9 +500,9 @@
 {
     "cardName": "<:grade_S:1171197327185285201> **BINI Stacey** Cherry On Top",
     "cardEmpty": "**BINI Stacey** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_stacey.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png",
     "cardCode": "BNCO_SC",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -516,9 +516,9 @@
 {
     "cardName": "<:grade_A:1171197331538980874> **BINI Stacey** Cherry On Top",
     "cardEmpty": "**BINI Stacey** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_stacey.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png",
     "cardCode": "BNCO_SC",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -532,9 +532,9 @@
 {
     "cardName": "<:grade_B:1171195683894722601> **BINI Stacey** Cherry On Top",
     "cardEmpty": "**BINI Stacey** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_stacey.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png",
     "cardCode": "BNCO_SC",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -548,9 +548,9 @@
 {
     "cardName": "<:grade_C:1171195686209978398> **BINI Stacey** Cherry On Top",
     "cardEmpty": "**BINI Stacey** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_stacey.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_stacey.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25&format=png",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_stacey.png",
     "cardCode": "BNCO_SC",
     "cardGuess": "<:grade_C:1171195686209978398> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -560,13 +560,13 @@
 }
   ],
 
-    "BNCO_SN_R": [
+        "BNCO_SN_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **BINI Sheena** Cherry On Top",
     "cardEmpty": "**BINI Sheena** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_r_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_sheena.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png",
     "cardCode": "BNCO_SN",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -580,9 +580,9 @@
 {
     "cardName": "<:grade_S:1171197327185285201> **BINI Sheena** Cherry On Top",
     "cardEmpty": "**BINI Sheena** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_s_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_sheena.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png",
     "cardCode": "BNCO_SN",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -596,9 +596,9 @@
 {
     "cardName": "<:grade_A:1171197331538980874> **BINI Sheena** Cherry On Top",
     "cardEmpty": "**BINI Sheena** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_a_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_sheena.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png",
     "cardCode": "BNCO_SN",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -612,9 +612,9 @@
 {
     "cardName": "<:grade_B:1171195683894722601> **BINI Sheena** Cherry On Top",
     "cardEmpty": "**BINI Sheena** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_b_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_sheena.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png",
     "cardCode": "BNCO_SN",
     "cardGuess": "<:grade_R:1171195690521743360> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -628,9 +628,9 @@
 {
     "cardName": "<:grade_C:1171195686209978398> **BINI Sheena** Cherry On Top",
     "cardEmpty": "**BINI Sheena** Cherry On Top",
-    "cardSmall": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Small.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.0.scale.width=90",
-    "cardLarge": "https://allthemsuperstars.sirv.com/resources/images/card_edge/basic/ced_basic_c_Large.png?watermark.0.image=%2Fresources%2Fimages%2Fcard%2Fbini%2Fcherry_on_top%2Fcot%2Fc_l_cherryontop_sheena.png&watermark.0.layer=back&watermark.1.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Femblem_bini.png&watermark.1.position.x=30%25&watermark.1.position.y=-38%25&watermark.1.scale.width=80&watermark.2.image=%2Fresources%2Fimages%2Ftheme%2Fbini%2Ftheme_s_cot_9kalOLQP.png&watermark.2.position.x=12%25&watermark.2.position.y=29%25&watermark.3.image=%2Fresources%2Fimages%2Fartist%2Fbini%2Fartistname_sheena.png&watermark.3.position.x=13%25&watermark.3.position.y=40%25&format=png",
-    "cardEmpty": "https://allthemsuperstars.sirv.com/resources/images/card/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?opacity=40",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_cot_9kalOLQP.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/cherry_on_top/cot/c_l_cherryontop_sheena.png",
     "cardCode": "BNCO_SN",
     "cardGuess": "<:grade_C:1171195686209978398> **Cherry On Top**",
     "cardSong": "Cherry On Top",
@@ -638,6 +638,648 @@
     "cardMin": 50,
     "cardMax": 100
 }
+  ],
+
+    "BNSS_AI_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **BINI Aiah** Salamin, Salamin",
+    "cardEmpty": "**BINI Aiah** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png",
+    "cardCode": "BNSS_AI",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "BNSS_AI_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **BINI Aiah** Salamin, Salamin",
+    "cardEmpty": "**BINI Aiah** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png",
+    "cardCode": "BNSS_AI",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "BNSS_AI_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **BINI Aiah** Salamin, Salamin",
+    "cardEmpty": "**BINI Aiah** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png",
+    "cardCode": "BNSS_AI",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "BNSS_AI_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **BINI Aiah** Salamin, Salamin",
+    "cardEmpty": "**BINI Aiah** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png",
+    "cardCode": "BNSS_AI",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "BNSS_AI_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **BINI Aiah** Salamin, Salamin",
+    "cardEmpty": "**BINI Aiah** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Aiah,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_aiah.png",
+    "cardCode": "BNSS_AI",
+    "cardGuess": "<:grade_C:1171195686209978398> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "BNSS_CL_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **BINI Colet** Salamin, Salamin",
+    "cardEmpty": "**BINI Colet** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png",
+    "cardCode": "BNSS_CL",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "BNSS_CL_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **BINI Colet** Salamin, Salamin",
+    "cardEmpty": "**BINI Colet** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png",
+    "cardCode": "BNSS_CL",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "BNSS_CL_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **BINI Colet** Salamin, Salamin",
+    "cardEmpty": "**BINI Colet** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png",
+    "cardCode": "BNSS_CL",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "BNSS_CL_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **BINI Colet** Salamin, Salamin",
+    "cardEmpty": "**BINI Colet** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png",
+    "cardCode": "BNSS_CL",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "BNSS_CL_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **BINI Colet** Salamin, Salamin",
+    "cardEmpty": "**BINI Colet** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Colet,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_colet.png",
+    "cardCode": "BNSS_CL",
+    "cardGuess": "<:grade_C:1171195686209978398> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "BNSS_GW_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **BINI Gwen** Salamin, Salamin",
+    "cardEmpty": "**BINI Gwen** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png",
+    "cardCode": "BNSS_GW",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "BNSS_GW_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **BINI Gwen** Salamin, Salamin",
+    "cardEmpty": "**BINI Gwen** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png",
+    "cardCode": "BNSS_GW",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "BNSS_GW_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **BINI Gwen** Salamin, Salamin",
+    "cardEmpty": "**BINI Gwen** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png",
+    "cardCode": "BNSS_GW",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "BNSS_GW_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **BINI Gwen** Salamin, Salamin",
+    "cardEmpty": "**BINI Gwen** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png",
+    "cardCode": "BNSS_GW",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "BNSS_GW_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **BINI Gwen** Salamin, Salamin",
+    "cardEmpty": "**BINI Gwen** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Gwen,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_gwen.png",
+    "cardCode": "BNSS_GW",
+    "cardGuess": "<:grade_C:1171195686209978398> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "BNSS_ML_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **BINI Maloi** Salamin, Salamin",
+    "cardEmpty": "**BINI Maloi** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png",
+    "cardCode": "BNSS_ML",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "BNSS_ML_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **BINI Maloi** Salamin, Salamin",
+    "cardEmpty": "**BINI Maloi** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png",
+    "cardCode": "BNSS_ML",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "BNSS_ML_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **BINI Maloi** Salamin, Salamin",
+    "cardEmpty": "**BINI Maloi** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png",
+    "cardCode": "BNSS_ML",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "BNSS_ML_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **BINI Maloi** Salamin, Salamin",
+    "cardEmpty": "**BINI Maloi** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png",
+    "cardCode": "BNSS_ML",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "BNSS_ML_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **BINI Maloi** Salamin, Salamin",
+    "cardEmpty": "**BINI Maloi** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Maloi,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_maloi.png",
+    "cardCode": "BNSS_ML",
+    "cardGuess": "<:grade_C:1171195686209978398> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+        "BNSS_JH_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **BINI Jhoanna** Salamin, Salamin",
+    "cardEmpty": "**BINI Jhoanna** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png",
+    "cardCode": "BNSS_JH",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "BNSS_JH_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **BINI Jhoanna** Salamin, Salamin",
+    "cardEmpty": "**BINI Jhoanna** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png",
+    "cardCode": "BNSS_JH",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "BNSS_JH_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **BINI Jhoanna** Salamin, Salamin",
+    "cardEmpty": "**BINI Jhoanna** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png",
+    "cardCode": "BNSS_JH",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "BNSS_JH_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **BINI Jhoanna** Salamin, Salamin",
+    "cardEmpty": "**BINI Jhoanna** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png",
+    "cardCode": "BNSS_JH",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "BNSS_JH_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **BINI Jhoanna** Salamin, Salamin",
+    "cardEmpty": "**BINI Jhoanna** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Jhoanna,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_jhoanna.png",
+    "cardCode": "BNSS_JH",
+    "cardGuess": "<:grade_C:1171195686209978398> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+        "BNSS_MK_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **BINI Mikha** Salamin, Salamin",
+    "cardEmpty": "**BINI Mikha** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png",
+    "cardCode": "BNSS_MK",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "BNSS_MK_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **BINI Mikha** Salamin, Salamin",
+    "cardEmpty": "**BINI Mikha** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png",
+    "cardCode": "BNSS_MK",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "BNSS_MK_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **BINI Mikha** Salamin, Salamin",
+    "cardEmpty": "**BINI Mikha** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png",
+    "cardCode": "BNSS_MK",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "BNSS_MK_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **BINI Mikha** Salamin, Salamin",
+    "cardEmpty": "**BINI Mikha** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png",
+    "cardCode": "BNSS_MK",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "BNSS_MK_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **BINI Mikha** Salamin, Salamin",
+    "cardEmpty": "**BINI Mikha** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Mikha,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_mikha.png",
+    "cardCode": "BNSS_MK",
+    "cardGuess": "<:grade_C:1171195686209978398> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+        "BNSS_SC_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **BINI Stacey** Salamin, Salamin",
+    "cardEmpty": "**BINI Stacey** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png",
+    "cardCode": "BNSS_SC",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "BNSS_SC_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **BINI Stacey** Salamin, Salamin",
+    "cardEmpty": "**BINI Stacey** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png",
+    "cardCode": "BNSS_SC",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "BNSS_SC_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **BINI Stacey** Salamin, Salamin",
+    "cardEmpty": "**BINI Stacey** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png",
+    "cardCode": "BNSS_SC",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "BNSS_SC_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **BINI Stacey** Salamin, Salamin",
+    "cardEmpty": "**BINI Stacey** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png",
+    "cardCode": "BNSS_SC",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "BNSS_SC_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **BINI Stacey** Salamin, Salamin",
+    "cardEmpty": "**BINI Stacey** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Stacey,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_stacey.png",
+    "cardCode": "BNSS_SC",
+    "cardGuess": "<:grade_C:1171195686209978398> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+        "BNSS_SN_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **BINI Sheena** Salamin, Salamin",
+    "cardEmpty": "**BINI Sheena** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png",
+    "cardCode": "BNSS_SN",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "BNSS_SN_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **BINI Sheena** Salamin, Salamin",
+    "cardEmpty": "**BINI Sheena** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png",
+    "cardCode": "BNSS_SN",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "BNSS_SN_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **BINI Sheena** Salamin, Salamin",
+    "cardEmpty": "**BINI Sheena** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png",
+    "cardCode": "BNSS_SN",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "BNSS_SN_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **BINI Sheena** Salamin, Salamin",
+    "cardEmpty": "**BINI Sheena** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png",
+    "cardCode": "BNSS_SN",
+    "cardGuess": "<:grade_R:1171195690521743360> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "BNSS_SN_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **BINI Sheena** Salamin, Salamin",
+    "cardEmpty": "**BINI Sheena** Salamin, Salamin",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Sheena,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N14,ly-275,l-end:l-image,i-resources@@images@@artist@@bini@@fix@@theme_s_salamin_salamin.png,lx-83,ly-242,l-end:l-image,i-resources@@images@@artist@@bini@@emblem_bini.png,lx-N10,ly-N260,l-end",
+    "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/bini/salamin_salamin/ss/c_l_saramin_saramin240725_sheena.png",
+    "cardCode": "BNSS_SN",
+    "cardGuess": "<:grade_C:1171195686209978398> **Salamin, Salamin**",
+    "cardSong": "Salamin, Salamin",
+    "cardGroup": "BINI",
+    "cardMin": 50,
+    "cardMax": 100
+}
   ]
-  
+
+    
+
 }
