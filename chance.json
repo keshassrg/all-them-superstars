@@ -1,7 +1,7 @@
 {
     "pool": [
         {
-            "card1": "BNCO_AI;BNCO_GW;BNCO_CL;BNCO_ML;BNCO_JH;BNCO_MK;BNCO_SC;BNCO_SN"
+            "card1": "BNSS_AI;BNSS_GW;BNSS_CL;BNSS_ML;BNSS_JH;BNSS_MK;BNSS_SC;BNSS_SH;BNSS_AI;BNSS_GW;BNSS_CL;BNSS_ML;BNSS_JH;BNSS_MK;BNSS_SC;BNSS_SH"
         }
     ],
     "main": [
