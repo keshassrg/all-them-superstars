@@ -7,7 +7,8 @@
           "INVU_ARTIST": "TAEYEON",
           "INVU_COVER": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/57/83/31578320-668c-39ac-9b69-20beba684835/03_INVU.jpg/600x600bb.jpg",
           "INVU_RP": "$random[2000;4000]",
-          "INVU_DIA": "$random[10;15]"
+          "INVU_DIA": "$random[10;15]",
+          "INVU_DURATION": "3:24"
             
         }
     ],
@@ -19,7 +20,8 @@
           "CHILLKILL_ARTIST": "Red Velvet",
           "CHILLKILL_COVER": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/0d/73/200d7369-8e85-be51-c201-4c5ae2a9e5bb/23UM1IM48362.rgb.jpg/600x600bb.jpg",
           "CHILLKILL_RP": "$random[2000;4000]",
-          "CHILLKILL_DIA": "$random[10;15]"
+          "CHILLKILL_DIA": "$random[10;15]",
+          "CHILLKILL_DURATION": "3:34"
             
         }
     ]
