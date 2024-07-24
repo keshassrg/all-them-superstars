@@ -2,13 +2,27 @@
     "img": [
         {
         "BP001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_blackpink_basic.png?tr=lo-true,w-1024,h-576",
-        "JS001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_jisoo_basic.png?tr=lo-true,w-1024,h-576?Updatedat=1239"
+        "JS001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_jisoo_basic.png?tr=lo-true,w-1024,h-576?Updatedat=1239",
+        "KO001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_kiss_of_life.png?tr=lo-true,w-1024,h-576?Updatedat=1239",
+        "TW001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_twice.png?tr=lo-true,w-1024,h-576?Updatedat=1239",
+        "OM001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_omg.png?tr=lo-true,w-1024,h-576?Updatedat=1239",
+        "LS001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_lesserafim.png?tr=lo-true,w-1024,h-576?Updatedat=1239",
+        "NJ001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_newjeans.png?tr=lo-true,w-1024,h-576?Updatedat=1239",
+        "IT001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_itzy.png?tr=lo-true,w-1024,h-576?Updatedat=1239",
+        "IB001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_itzy_born_to_be.png?tr=lo-true,w-1024,h-576?Updatedat=1239"
         }
     ],
       "txt": [
         {
-        "BP001": "`[Basic]` BLACKPINK Wallpaper",
-        "JS001": "`[Basic]` JISOO Wallpaper"
+        "BP001": "`[Basic]` **BLACKPINK** Wallpaper",
+        "JS001": "`[Basic]` **JISOO** Wallpaper",
+        "KO001": "`[Basic]` **KISS OF LIFE** Wallpaper",
+        "TW001": "`[Basic]` **TWICE** Wallpaper",
+        "OM001": "`[Basic]` **OH MY GIRL** Wallpaper",
+        "LS001": "`[Basic]` **LE SSERAFIM** Wallpaper",
+        "NJ001": "`[Basic]` **NewJeans** Wallpaper",
+        "IT001": "`[Basic]` **ITZY** Wallpaper",
+        "IB001": "`[Basic]` **ITZY (BORN TO BE)** Wallpaper"
         }
     ]
 }
