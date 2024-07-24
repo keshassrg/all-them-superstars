@@ -1,12 +1,14 @@
 {
     "img": [
         {
-        "BP001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_blackpink_basic.png?tr=lo-true,w-1024,h-576"
+        "BP001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_blackpink_basic.png?tr=lo-true,w-1024,h-576",
+        "JS001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_jisoo_basic.png?tr=lo-true,w-1024,h-576"
         }
     ],
       "txt": [
         {
-        "BP001": "**[Basic]** BLACKPINK Wallpaper"
+        "BP001": "**[Basic]** BLACKPINK Wallpaper",
+        "JS001": "**[Basic]** JISOO Wallpaper"
         }
     ]
 }
