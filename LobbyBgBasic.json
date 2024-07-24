@@ -9,7 +9,8 @@
         "LS001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_lesserafim.png?tr=lo-true,w-1024,h-576,z-1",
         "NJ001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_newjeans.png?tr=lo-true,w-1024,h-576,z-1",
         "IT001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_itzy.png?tr=lo-true,w-1024,h-576,z-1",
-        "IB001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_itzy_born_to_be.png?tr=lo-true,w-1024,h-576,z-1"
+        "IB001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_itzy_born_to_be.png?tr=lo-true,w-1024,h-576,z-1",
+        "AR001": "https://ik.imagekit.io/atss/resources/images/my_lobby/mylobby_bg_l_artms.png?tr=lo-true,w-1024,h-576,z-1"
         }
     ],
       "txt": [
@@ -22,7 +23,8 @@
         "LS001": "`[Basic]` **LE SSERAFIM** Wallpaper",
         "NJ001": "`[Basic]` **NewJeans** Wallpaper",
         "IT001": "`[Basic]` **ITZY** Wallpaper",
-        "IB001": "`[Basic]` **ITZY (BORN TO BE)** Wallpaper"
+        "IB001": "`[Basic]` **ITZY (BORN TO BE)** Wallpaper",
+        "AR001": "`[Basic]` **ARTMS** Wallpaper"
         }
     ]
 }
