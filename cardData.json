@@ -3039,14 +3039,14 @@
 }
   ],
 
-            "RIRZ_SC_R": [
+"RIBB_SC_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **RIIZE SUNGCHAN** Boom Boom Bass",
     "cardEmpty": "**RIIZE SUNGCHAN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SUNGCHAN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png",
-    "cardCode": "RIRZ_SC",
+    "cardCode": "RIBB_SC",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3055,14 +3055,14 @@
 }
   ],
 
-    "RIRZ_SC_S": [
+    "RIBB_SC_S": [
 {
     "cardName": "<:grade_S:1171197327185285201> **RIIZE SUNGCHAN** Boom Boom Bass",
     "cardEmpty": "**RIIZE SUNGCHAN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SUNGCHAN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png",
-    "cardCode": "RIRZ_SC",
+    "cardCode": "RIBB_SC",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3071,14 +3071,14 @@
 }
   ],
 
-    "RIRZ_SC_A": [
+    "RIBB_SC_A": [
 {
     "cardName": "<:grade_A:1171197331538980874> **RIIZE SUNGCHAN** Boom Boom Bass",
     "cardEmpty": "**RIIZE SUNGCHAN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SUNGCHAN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png",
-    "cardCode": "RIRZ_SC",
+    "cardCode": "RIBB_SC",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3087,14 +3087,14 @@
 }
   ],
 
-    "RIRZ_SC_B": [
+    "RIBB_SC_B": [
 {
     "cardName": "<:grade_B:1171195683894722601> **RIIZE SUNGCHAN** Boom Boom Bass",
     "cardEmpty": "**RIIZE SUNGCHAN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SUNGCHAN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png",
-    "cardCode": "RIRZ_SC",
+    "cardCode": "RIBB_SC",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3103,14 +3103,14 @@
 }
   ],
 
-    "RIRZ_SC_C": [
+    "RIBB_SC_C": [
 {
     "cardName": "<:grade_C:1171195686209978398> **RIIZE SUNGCHAN** Boom Boom Bass",
     "cardEmpty": "**RIIZE SUNGCHAN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SUNGCHAN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sungchan.png",
-    "cardCode": "RIRZ_SC",
+    "cardCode": "RIBB_SC",
     "cardGuess": "<:grade_C:1171195686209978398> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3119,14 +3119,14 @@
 }
   ],
 
-        "RIRZ_WB_R": [
+        "RIBB_WB_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **RIIZE WONBIN** Boom Boom Bass",
     "cardEmpty": "**RIIZE WONBIN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WONBIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3135,14 +3135,14 @@
 }
   ],
 
-    "RIRZ_WB_S": [
+    "RIBB_WB_S": [
 {
     "cardName": "<:grade_S:1171197327185285201> **RIIZE WONBIN** Boom Boom Bass",
     "cardEmpty": "**RIIZE WONBIN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WONBIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3151,14 +3151,14 @@
 }
   ],
 
-    "RIRZ_WB_A": [
+    "RIBB_WB_A": [
 {
     "cardName": "<:grade_A:1171197331538980874> **RIIZE WONBIN** Boom Boom Bass",
     "cardEmpty": "**RIIZE WONBIN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WONBIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3167,14 +3167,14 @@
 }
   ],
 
-    "RIRZ_WB_B": [
+    "RIBB_WB_B": [
 {
     "cardName": "<:grade_B:1171195683894722601> **RIIZE WONBIN** Boom Boom Bass",
     "cardEmpty": "**RIIZE WONBIN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-WONBIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3183,14 +3183,14 @@
 }
   ],
 
-    "RIRZ_WB_C": [
+    "RIBB_WB_C": [
 {
     "cardName": "<:grade_C:1171195686209978398> **RIIZE WONBIN** Boom Boom Bass",
     "cardEmpty": "**RIIZE WONBIN** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-WONBIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_wonbin.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_C:1171195686209978398> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3199,14 +3199,14 @@
 }
   ],
 
-        "RIRZ_WB_R": [
+        "RIBB_WB_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SOHEE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3215,14 +3215,14 @@
 }
   ],
 
-    "RIRZ_WB_S": [
+    "RIBB_WB_S": [
 {
     "cardName": "<:grade_S:1171197327185285201> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SOHEE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3231,14 +3231,14 @@
 }
   ],
 
-    "RIRZ_WB_A": [
+    "RIBB_WB_A": [
 {
     "cardName": "<:grade_A:1171197331538980874> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SOHEE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3247,14 +3247,14 @@
 }
   ],
 
-    "RIRZ_WB_B": [
+    "RIBB_WB_B": [
 {
     "cardName": "<:grade_B:1171195683894722601> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SOHEE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3263,14 +3263,14 @@
 }
   ],
 
-    "RIRZ_WB_C": [
+    "RIBB_WB_C": [
 {
     "cardName": "<:grade_C:1171195686209978398> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SOHEE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_sohee.png",
-    "cardCode": "RIRZ_WB",
+    "cardCode": "RIBB_WB",
     "cardGuess": "<:grade_C:1171195686209978398> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3279,14 +3279,14 @@
 }
   ],
 
-        "RIRZ_ES_R": [
+        "RIBB_ES_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **RIIZE EUNSEOK** Boom Boom Bass",
     "cardEmpty": "**RIIZE EUNSEOK** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-EUNSEOK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png",
-    "cardCode": "RIRZ_ES",
+    "cardCode": "RIBB_ES",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3295,14 +3295,14 @@
 }
   ],
 
-    "RIRZ_ES_S": [
+    "RIBB_ES_S": [
 {
     "cardName": "<:grade_S:1171197327185285201> **RIIZE EUNSEOK** Boom Boom Bass",
     "cardEmpty": "**RIIZE EUNSEOK** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-EUNSEOK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png",
-    "cardCode": "RIRZ_ES",
+    "cardCode": "RIBB_ES",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3311,14 +3311,14 @@
 }
   ],
 
-    "RIRZ_ES_A": [
+    "RIBB_ES_A": [
 {
     "cardName": "<:grade_A:1171197331538980874> **RIIZE EUNSEOK** Boom Boom Bass",
     "cardEmpty": "**RIIZE EUNSEOK** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-EUNSEOK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png",
-    "cardCode": "RIRZ_ES",
+    "cardCode": "RIBB_ES",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3327,14 +3327,14 @@
 }
   ],
 
-    "RIRZ_ES_B": [
+    "RIBB_ES_B": [
 {
     "cardName": "<:grade_B:1171195683894722601> **RIIZE EUNSEOK** Boom Boom Bass",
     "cardEmpty": "**RIIZE EUNSEOK** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-EUNSEOK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png",
-    "cardCode": "RIRZ_ES",
+    "cardCode": "RIBB_ES",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3343,14 +3343,14 @@
 }
   ],
 
-    "RIRZ_ES_C": [
+    "RIBB_ES_C": [
 {
     "cardName": "<:grade_C:1171195686209978398> **RIIZE EUNSEOK** Boom Boom Bass",
     "cardEmpty": "**RIIZE EUNSEOK** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-EUNSEOK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_eunseok.png",
-    "cardCode": "RIRZ_ES",
+    "cardCode": "RIBB_ES",
     "cardGuess": "<:grade_C:1171195686209978398> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3359,14 +3359,14 @@
 }
   ],
 
-        "RIRZ_AT_R": [
+        "RIBB_AT_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **RIIZE ANTON** Boom Boom Bass",
     "cardEmpty": "**RIIZE ANTON** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-ANTON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png",
-    "cardCode": "RIRZ_AT",
+    "cardCode": "RIBB_AT",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3375,14 +3375,14 @@
 }
   ],
 
-    "RIRZ_AT_S": [
+    "RIBB_AT_S": [
 {
     "cardName": "<:grade_S:1171197327185285201> **RIIZE ANTON** Boom Boom Bass",
     "cardEmpty": "**RIIZE ANTON** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-ANTON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png",
-    "cardCode": "RIRZ_AT",
+    "cardCode": "RIBB_AT",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3391,14 +3391,14 @@
 }
   ],
 
-    "RIRZ_AT_A": [
+    "RIBB_AT_A": [
 {
     "cardName": "<:grade_A:1171197331538980874> **RIIZE ANTON** Boom Boom Bass",
     "cardEmpty": "**RIIZE ANTON** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-ANTON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png",
-    "cardCode": "RIRZ_AT",
+    "cardCode": "RIBB_AT",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3407,14 +3407,14 @@
 }
   ],
 
-    "RIRZ_AT_B": [
+    "RIBB_AT_B": [
 {
     "cardName": "<:grade_B:1171195683894722601> **RIIZE ANTON** Boom Boom Bass",
     "cardEmpty": "**RIIZE ANTON** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-ANTON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png",
-    "cardCode": "RIRZ_AT",
+    "cardCode": "RIBB_AT",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3423,14 +3423,14 @@
 }
   ],
 
-    "RIRZ_AT_C": [
+    "RIBB_AT_C": [
 {
     "cardName": "<:grade_C:1171195686209978398> **RIIZE ANTON** Boom Boom Bass",
     "cardEmpty": "**RIIZE ANTON** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-ANTON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_anton.png",
-    "cardCode": "RIRZ_AT",
+    "cardCode": "RIBB_AT",
     "cardGuess": "<:grade_C:1171195686209978398> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3439,14 +3439,14 @@
 }
   ],
 
-        "RIRZ_ST_R": [
+        "RIBB_ST_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **RIIZE SHOTARO** Boom Boom Bass",
     "cardEmpty": "**RIIZE SHOTARO** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png",
-    "cardCode": "RIRZ_ST",
+    "cardCode": "RIBB_ST",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3455,14 +3455,14 @@
 }
   ],
 
-    "RIRZ_ST_S": [
+    "RIBB_ST_S": [
 {
     "cardName": "<:grade_S:1171197327185285201> **RIIZE SHOTARO** Boom Boom Bass",
     "cardEmpty": "**RIIZE SHOTARO** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png",
-    "cardCode": "RIRZ_ST",
+    "cardCode": "RIBB_ST",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3471,14 +3471,14 @@
 }
   ],
 
-    "RIRZ_ST_A": [
+    "RIBB_ST_A": [
 {
     "cardName": "<:grade_A:1171197331538980874> **RIIZE SHOTARO** Boom Boom Bass",
     "cardEmpty": "**RIIZE SHOTARO** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png",
-    "cardCode": "RIRZ_ST",
+    "cardCode": "RIBB_ST",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3487,14 +3487,14 @@
 }
   ],
 
-    "RIRZ_ST_B": [
+    "RIBB_ST_B": [
 {
     "cardName": "<:grade_B:1171195683894722601> **RIIZE SHOTARO** Boom Boom Bass",
     "cardEmpty": "**RIIZE SHOTARO** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png",
-    "cardCode": "RIRZ_ST",
+    "cardCode": "RIBB_ST",
     "cardGuess": "<:grade_R:1171195690521743360> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
@@ -3503,14 +3503,14 @@
 }
   ],
 
-    "RIRZ_ST_C": [
+    "RIBB_ST_C": [
 {
     "cardName": "<:grade_C:1171195686209978398> **RIIZE SHOTARO** Boom Boom Bass",
     "cardEmpty": "**RIIZE SHOTARO** Boom Boom Bass",
     "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
     "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_boom_boom_bass.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_riize.png,lx-N10,ly-N260,l-end",
     "cardEmpty": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/riize/boom_boom_bass/1rzbb/c_l_boom_boom_bass_shotaro.png",
-    "cardCode": "RIRZ_ST",
+    "cardCode": "RIBB_ST",
     "cardGuess": "<:grade_C:1171195686209978398> **Boom Boom Bass**",
     "cardSong": "Boom Boom Bass",
     "cardGroup": "RIIZE",
