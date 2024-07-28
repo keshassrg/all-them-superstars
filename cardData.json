@@ -3518,7 +3518,729 @@
     "cardMin": 50,
     "cardMax": 100
 }
+  ],
+
+    "TWOS_NY_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **TWICE NAYEON** ONE SPARK",
+    "cardEmpty": "**TWICE NAYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-NAYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png",
+    "cardCode": "TWOS_NY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "TWOS_NY_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **TWICE NAYEON** ONE SPARK",
+    "cardEmpty": "**TWICE NAYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-NAYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png",
+    "cardCode": "TWOS_NY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "TWOS_NY_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **TWICE NAYEON** ONE SPARK",
+    "cardEmpty": "**TWICE NAYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-NAYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png",
+    "cardCode": "TWOS_NY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "TWOS_NY_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **TWICE NAYEON** ONE SPARK",
+    "cardEmpty": "**TWICE NAYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-NAYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png",
+    "cardCode": "TWOS_NY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "TWOS_NY_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **TWICE NAYEON** ONE SPARK",
+    "cardEmpty": "**TWICE NAYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-NAYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_nayeon.png",
+    "cardCode": "TWOS_NY",
+    "cardGuess": "<:grade_C:1171195686209978398> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "TWOS_JY_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **TWICE JEONGYEON** ONE SPARK",
+    "cardEmpty": "**TWICE JEONGYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JEONGYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png",
+    "cardCode": "TWOS_JY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "TWOS_JY_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **TWICE JEONGYEON** ONE SPARK",
+    "cardEmpty": "**TWICE JEONGYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JEONGYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png",
+    "cardCode": "TWOS_JY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "TWOS_JY_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **TWICE JEONGYEON** ONE SPARK",
+    "cardEmpty": "**TWICE JEONGYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JEONGYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png",
+    "cardCode": "TWOS_JY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "TWOS_JY_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **TWICE JEONGYEON** ONE SPARK",
+    "cardEmpty": "**TWICE JEONGYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JEONGYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png",
+    "cardCode": "TWOS_JY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "TWOS_JY_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **TWICE JEONGYEON** ONE SPARK",
+    "cardEmpty": "**TWICE JEONGYEON** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JEONGYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jeongyeon.png",
+    "cardCode": "TWOS_JY",
+    "cardGuess": "<:grade_C:1171195686209978398> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "TWOS_MM_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **TWICE MOMO** ONE SPARK",
+    "cardEmpty": "**TWICE MOMO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-MOMO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png",
+    "cardCode": "TWOS_MM",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "TWOS_MM_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **TWICE MOMO** ONE SPARK",
+    "cardEmpty": "**TWICE MOMO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-MOMO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png",
+    "cardCode": "TWOS_MM",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "TWOS_MM_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **TWICE MOMO** ONE SPARK",
+    "cardEmpty": "**TWICE MOMO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-MOMO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png",
+    "cardCode": "TWOS_MM",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "TWOS_MM_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **TWICE MOMO** ONE SPARK",
+    "cardEmpty": "**TWICE MOMO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-MOMO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png",
+    "cardCode": "TWOS_MM",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "TWOS_MM_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **TWICE MOMO** ONE SPARK",
+    "cardEmpty": "**TWICE MOMO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-MOMO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_momo.png",
+    "cardCode": "TWOS_MM",
+    "cardGuess": "<:grade_C:1171195686209978398> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "TWOS_SN_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **TWICE SANA** ONE SPARK",
+    "cardEmpty": "**TWICE SANA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SANA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png",
+    "cardCode": "TWOS_SN",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "TWOS_SN_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **TWICE SANA** ONE SPARK",
+    "cardEmpty": "**TWICE SANA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SANA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png",
+    "cardCode": "TWOS_SN",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "TWOS_SN_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **TWICE SANA** ONE SPARK",
+    "cardEmpty": "**TWICE SANA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SANA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png",
+    "cardCode": "TWOS_SN",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "TWOS_SN_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **TWICE SANA** ONE SPARK",
+    "cardEmpty": "**TWICE SANA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SANA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png",
+    "cardCode": "TWOS_SN",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "TWOS_SN_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **TWICE SANA** ONE SPARK",
+    "cardEmpty": "**TWICE SANA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SANA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_sana.png",
+    "cardCode": "TWOS_SN",
+    "cardGuess": "<:grade_C:1171195686209978398> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "TWOS_JH_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **TWICE JIHYO** ONE SPARK",
+    "cardEmpty": "**TWICE JIHYO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JIHYO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png",
+    "cardCode": "TWOS_JH",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "TWOS_JH_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **TWICE JIHYO** ONE SPARK",
+    "cardEmpty": "**TWICE JIHYO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JIHYO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png",
+    "cardCode": "TWOS_JH",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "TWOS_JH_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **TWICE JIHYO** ONE SPARK",
+    "cardEmpty": "**TWICE JIHYO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JIHYO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png",
+    "cardCode": "TWOS_JH",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "TWOS_JH_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **TWICE JIHYO** ONE SPARK",
+    "cardEmpty": "**TWICE JIHYO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JIHYO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png",
+    "cardCode": "TWOS_JH",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "TWOS_JH_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **TWICE JIHYO** ONE SPARK",
+    "cardEmpty": "**TWICE JIHYO** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JIHYO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_jihyo.png",
+    "cardCode": "TWOS_JH",
+    "cardGuess": "<:grade_C:1171195686209978398> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "TWOS_MN_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **TWICE MINA** ONE SPARK",
+    "cardEmpty": "**TWICE MINA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-MINA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png",
+    "cardCode": "TWOS_MN",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "TWOS_MN_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **TWICE MINA** ONE SPARK",
+    "cardEmpty": "**TWICE MINA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-MINA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png",
+    "cardCode": "TWOS_MN",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "TWOS_MN_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **TWICE MINA** ONE SPARK",
+    "cardEmpty": "**TWICE MINA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-MINA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png",
+    "cardCode": "TWOS_MN",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "TWOS_MN_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **TWICE MINA** ONE SPARK",
+    "cardEmpty": "**TWICE MINA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-MINA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png",
+    "cardCode": "TWOS_MN",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "TWOS_MN_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **TWICE MINA** ONE SPARK",
+    "cardEmpty": "**TWICE MINA** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-MINA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_mina.png",
+    "cardCode": "TWOS_MN",
+    "cardGuess": "<:grade_C:1171195686209978398> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "TWOS_DH_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **TWICE DAHYUN** ONE SPARK",
+    "cardEmpty": "**TWICE DAHYUN** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-DAHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png",
+    "cardCode": "TWOS_DH",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "TWOS_DH_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **TWICE DAHYUN** ONE SPARK",
+    "cardEmpty": "**TWICE DAHYUN** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-DAHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png",
+    "cardCode": "TWOS_DH",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "TWOS_DH_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **TWICE DAHYUN** ONE SPARK",
+    "cardEmpty": "**TWICE DAHYUN** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-DAHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png",
+    "cardCode": "TWOS_DH",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "TWOS_DH_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **TWICE DAHYUN** ONE SPARK",
+    "cardEmpty": "**TWICE DAHYUN** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-DAHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png",
+    "cardCode": "TWOS_DH",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "TWOS_DH_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **TWICE DAHYUN** ONE SPARK",
+    "cardEmpty": "**TWICE DAHYUN** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-DAHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_dahyun.png",
+    "cardCode": "TWOS_DH",
+    "cardGuess": "<:grade_C:1171195686209978398> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "TWOS_CY_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **TWICE CHAEYOUNG** ONE SPARK",
+    "cardEmpty": "**TWICE CHAEYOUNG** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-CHAEYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png",
+    "cardCode": "TWOS_CY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "TWOS_CY_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **TWICE CHAEYOUNG** ONE SPARK",
+    "cardEmpty": "**TWICE CHAEYOUNG** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-CHAEYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png",
+    "cardCode": "TWOS_CY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "TWOS_CY_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **TWICE CHAEYOUNG** ONE SPARK",
+    "cardEmpty": "**TWICE CHAEYOUNG** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-CHAEYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png",
+    "cardCode": "TWOS_CY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "TWOS_CY_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **TWICE CHAEYOUNG** ONE SPARK",
+    "cardEmpty": "**TWICE CHAEYOUNG** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-CHAEYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png",
+    "cardCode": "TWOS_CY",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "TWOS_CY_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **TWICE CHAEYOUNG** ONE SPARK",
+    "cardEmpty": "**TWICE CHAEYOUNG** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-CHAEYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_chaeyoung.png",
+    "cardCode": "TWOS_CY",
+    "cardGuess": "<:grade_C:1171195686209978398> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "TWOS_TZ_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **TWICE TZUYU** ONE SPARK",
+    "cardEmpty": "**TWICE TZUYU** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-TZUYU,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png",
+    "cardCode": "TWOS_TZ",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "TWOS_TZ_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **TWICE TZUYU** ONE SPARK",
+    "cardEmpty": "**TWICE TZUYU** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-TZUYU,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png",
+    "cardCode": "TWOS_TZ",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "TWOS_TZ_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **TWICE TZUYU** ONE SPARK",
+    "cardEmpty": "**TWICE TZUYU** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-TZUYU,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png",
+    "cardCode": "TWOS_TZ",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "TWOS_TZ_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **TWICE TZUYU** ONE SPARK",
+    "cardEmpty": "**TWICE TZUYU** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-TZUYU,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png",
+    "cardCode": "TWOS_TZ",
+    "cardGuess": "<:grade_R:1171195690521743360> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "TWOS_TZ_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **TWICE TZUYU** ONE SPARK",
+    "cardEmpty": "**TWICE TZUYU** ONE SPARK",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-TZUYU,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_onespark.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_twice.png,lx-N10,ly-N260,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/twice/onespakr/c_l_onespark_tzuyu.png",
+    "cardCode": "TWOS_TZ",
+    "cardGuess": "<:grade_C:1171195686209978398> **ONE SPARK**",
+    "cardSong": "ONE SPARK",
+    "cardGroup": "TWICE",
+    "cardMin": 50,
+    "cardMax": 100
+}
   ]
+
+    
 
     
 
