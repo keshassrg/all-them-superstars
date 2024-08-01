@@ -2719,7 +2719,7 @@
 }
   ],
 
-        "RIRZ_WB_R": [
+        "RIRZ_SH_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **RIIZE SOHEE** RIIZING",
     "cardEmpty": "**RIIZE SOHEE** RIIZING",
@@ -2735,7 +2735,7 @@
 }
   ],
 
-    "RIRZ_WB_S": [
+    "RIRZ_SH_S": [
 {
     "cardName": "<:grade_S:1171197327185285201> **RIIZE SOHEE** RIIZING",
     "cardEmpty": "**RIIZE SOHEE** RIIZING",
@@ -2751,7 +2751,7 @@
 }
   ],
 
-    "RIRZ_WB_A": [
+    "RIRZ_SH_A": [
 {
     "cardName": "<:grade_A:1171197331538980874> **RIIZE SOHEE** RIIZING",
     "cardEmpty": "**RIIZE SOHEE** RIIZING",
@@ -2767,7 +2767,7 @@
 }
   ],
 
-    "RIRZ_WB_B": [
+    "RIRZ_SH_B": [
 {
     "cardName": "<:grade_B:1171195683894722601> **RIIZE SOHEE** RIIZING",
     "cardEmpty": "**RIIZE SOHEE** RIIZING",
@@ -2783,7 +2783,7 @@
 }
   ],
 
-    "RIRZ_WB_C": [
+    "RIRZ_SH_C": [
 {
     "cardName": "<:grade_C:1171195686209978398> **RIIZE SOHEE** RIIZING",
     "cardEmpty": "**RIIZE SOHEE** RIIZING",
@@ -3199,7 +3199,7 @@
 }
   ],
 
-        "RIBB_WB_R": [
+        "RIBB_SH_R": [
 {
     "cardName": "<:grade_R:1171195690521743360> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
@@ -3215,7 +3215,7 @@
 }
   ],
 
-    "RIBB_WB_S": [
+    "RIBB_SH_S": [
 {
     "cardName": "<:grade_S:1171197327185285201> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
@@ -3231,7 +3231,7 @@
 }
   ],
 
-    "RIBB_WB_A": [
+    "RIBB_SH_A": [
 {
     "cardName": "<:grade_A:1171197331538980874> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
@@ -3247,7 +3247,7 @@
 }
   ],
 
-    "RIBB_WB_B": [
+    "RIBB_SH_B": [
 {
     "cardName": "<:grade_B:1171195683894722601> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
@@ -3263,7 +3263,7 @@
 }
   ],
 
-    "RIBB_WB_C": [
+    "RIBB_SH_C": [
 {
     "cardName": "<:grade_C:1171195686209978398> **RIIZE SOHEE** Boom Boom Bass",
     "cardEmpty": "**RIIZE SOHEE** Boom Boom Bass",
