@@ -4237,12 +4237,2548 @@
     "cardMin": 50,
     "cardMax": 100
 }
-  ]
+  ],
 
+    "ARVA_HJ_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **ARTMS HeeJin** Virtual Angel",
+    "cardEmpty": "**ARTMS HeeJin** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-HeeJin,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_heejin.png",
+    "cardCode": "ARVA_HJ",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "ARVA_HJ_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **ARTMS HeeJin** Virtual Angel",
+    "cardEmpty": "**ARTMS HeeJin** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-HeeJin,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_heejin.png",
+    "cardCode": "ARVA_HJ",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "ARVA_HJ_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **ARTMS HeeJin** Virtual Angel",
+    "cardEmpty": "**ARTMS HeeJin** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-HeeJin,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_heejin.png",
+    "cardCode": "ARVA_HJ",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "ARVA_HJ_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **ARTMS HeeJin** Virtual Angel",
+    "cardEmpty": "**ARTMS HeeJin** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-HeeJin,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_heejin.png",
+    "cardCode": "ARVA_HJ",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "ARVA_HJ_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **ARTMS HeeJin** Virtual Angel",
+    "cardEmpty": "**ARTMS HeeJin** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_heejin.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-HeeJin,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_heejin.png",
+    "cardCode": "ARVA_HJ",
+    "cardGuess": "<:grade_C:1171195686209978398> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+
+    "ARVA_KL_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **ARTMS Kim Lip** Virtual Angel",
+    "cardEmpty": "**ARTMS Kim Lip** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Kim Lip,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_kimlip.png",
+    "cardCode": "ARVA_KL",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "ARVA_KL_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **ARTMS Kim Lip** Virtual Angel",
+    "cardEmpty": "**ARTMS Kim Lip** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Kim Lip,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_kimlip.png",
+    "cardCode": "ARVA_KL",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "ARVA_KL_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **ARTMS Kim Lip** Virtual Angel",
+    "cardEmpty": "**ARTMS Kim Lip** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Kim Lip,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_kimlip.png",
+    "cardCode": "ARVA_KL",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "ARVA_KL_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **ARTMS Kim Lip** Virtual Angel",
+    "cardEmpty": "**ARTMS Kim Lip** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Kim Lip,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_kimlip.png",
+    "cardCode": "ARVA_KL",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "ARVA_KL_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **ARTMS Kim Lip** Virtual Angel",
+    "cardEmpty": "**ARTMS Kim Lip** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_kimlip.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Kim Lip,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_kimlip.png",
+    "cardCode": "ARVA_KL",
+    "cardGuess": "<:grade_C:1171195686209978398> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "ARVA_JS_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **ARTMS JinSoul** Virtual Angel",
+    "cardEmpty": "**ARTMS JinSoul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JinSoul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png",
+    "cardCode": "ARVA_JS",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "ARVA_JS_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **ARTMS JinSoul** Virtual Angel",
+    "cardEmpty": "**ARTMS JinSoul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JinSoul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png",
+    "cardCode": "ARVA_JS",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "ARVA_JS_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **ARTMS JinSoul** Virtual Angel",
+    "cardEmpty": "**ARTMS JinSoul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JinSoul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png",
+    "cardCode": "ARVA_JS",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "ARVA_JS_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **ARTMS JinSoul** Virtual Angel",
+    "cardEmpty": "**ARTMS JinSoul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JinSoul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png",
+    "cardCode": "ARVA_JS",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "ARVA_JS_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **ARTMS JinSoul** Virtual Angel",
+    "cardEmpty": "**ARTMS JinSoul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JinSoul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_jinsoul.png",
+    "cardCode": "ARVA_JS",
+    "cardGuess": "<:grade_C:1171195686209978398> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "ARVA_HS_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **ARTMS HaSeul** Virtual Angel",
+    "cardEmpty": "**ARTMS HaSeul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-HaSeul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_haseul.png",
+    "cardCode": "ARVA_HS",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "ARVA_HS_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **ARTMS HaSeul** Virtual Angel",
+    "cardEmpty": "**ARTMS HaSeul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-HaSeul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_haseul.png",
+    "cardCode": "ARVA_HS",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "ARVA_HS_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **ARTMS HaSeul** Virtual Angel",
+    "cardEmpty": "**ARTMS HaSeul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-HaSeul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_haseul.png",
+    "cardCode": "ARVA_HS",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "ARVA_HS_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **ARTMS HaSeul** Virtual Angel",
+    "cardEmpty": "**ARTMS HaSeul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-HaSeul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_haseul.png",
+    "cardCode": "ARVA_HS",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "ARVA_HS_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **ARTMS HaSeul** Virtual Angel",
+    "cardEmpty": "**ARTMS HaSeul** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_haseul.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-HaSeul,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_haseul.png",
+    "cardCode": "ARVA_HS",
+    "cardGuess": "<:grade_C:1171195686209978398> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "ARVA_CH_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **ARTMS Choerry** Virtual Angel",
+    "cardEmpty": "**ARTMS Choerry** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-Choerry,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_choerry.png",
+    "cardCode": "ARVA_CH",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "ARVA_CH_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **ARTMS Choerry** Virtual Angel",
+    "cardEmpty": "**ARTMS Choerry** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-Choerry,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_choerry.png",
+    "cardCode": "ARVA_CH",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "ARVA_CH_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **ARTMS Choerry** Virtual Angel",
+    "cardEmpty": "**ARTMS Choerry** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-Choerry,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_choerry.png",
+    "cardCode": "ARVA_CH",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "ARVA_CH_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **ARTMS Choerry** Virtual Angel",
+    "cardEmpty": "**ARTMS Choerry** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-Choerry,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_choerry.png",
+    "cardCode": "ARVA_CH",
+    "cardGuess": "<:grade_R:1171195690521743360> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "ARVA_CH_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **ARTMS Choerry** Virtual Angel",
+    "cardEmpty": "**ARTMS Choerry** Virtual Angel",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/c_l_virtual_angel_choerry.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-Choerry,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_virtual_angel.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_artms.png,lx-N10,ly-N275,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/c_l_virtual_angel_choerry.png",
+    "cardCode": "ARVA_CH",
+    "cardGuess": "<:grade_C:1171195686209978398> **Virtual Angel**",
+    "cardSong": "Virtual Angel",
+    "cardGroup": "ARTMS",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "RVCM_IR_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **Red Velvet IRENE** Cosmic",
+    "cardEmpty": "**Red Velvet IRENE** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png",
+    "cardCode": "RVCM_IR",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "RVCM_IR_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **Red Velvet IRENE** Cosmic",
+    "cardEmpty": "**Red Velvet IRENE** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png",
+    "cardCode": "RVCM_IR",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "RVCM_IR_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **Red Velvet IRENE** Cosmic",
+    "cardEmpty": "**Red Velvet IRENE** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png",
+    "cardCode": "RVCM_IR",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "RVCM_IR_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **Red Velvet IRENE** Cosmic",
+    "cardEmpty": "**Red Velvet IRENE** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png",
+    "cardCode": "RVCM_IR",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "RVCM_IR_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **Red Velvet IRENE** Cosmic",
+    "cardEmpty": "**Red Velvet IRENE** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_irene.png",
+    "cardCode": "RVCM_IR",
+    "cardGuess": "<:grade_C:1171195686209978398> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "RVCM_SG_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **Red Velvet SEULGI** Cosmic",
+    "cardEmpty": "**Red Velvet SEULGI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png",
+    "cardCode": "RVCM_SG",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "RVCM_SG_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **Red Velvet SEULGI** Cosmic",
+    "cardEmpty": "**Red Velvet SEULGI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png",
+    "cardCode": "RVCM_SG",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "RVCM_SG_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **Red Velvet SEULGI** Cosmic",
+    "cardEmpty": "**Red Velvet SEULGI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png",
+    "cardCode": "RVCM_SG",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "RVCM_SG_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **Red Velvet SEULGI** Cosmic",
+    "cardEmpty": "**Red Velvet SEULGI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png",
+    "cardCode": "RVCM_SG",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "RVCM_SG_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **Red Velvet SEULGI** Cosmic",
+    "cardEmpty": "**Red Velvet SEULGI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_seulgi.png",
+    "cardCode": "RVCM_SG",
+    "cardGuess": "<:grade_C:1171195686209978398> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "RVCM_WD_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **Red Velvet WENDY** Cosmic",
+    "cardEmpty": "**Red Velvet WENDY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png",
+    "cardCode": "RVCM_WD",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "RVCM_WD_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **Red Velvet WENDY** Cosmic",
+    "cardEmpty": "**Red Velvet WENDY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png",
+    "cardCode": "RVCM_WD",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "RVCM_WD_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **Red Velvet WENDY** Cosmic",
+    "cardEmpty": "**Red Velvet WENDY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png",
+    "cardCode": "RVCM_WD",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "RVCM_WD_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **Red Velvet WENDY** Cosmic",
+    "cardEmpty": "**Red Velvet WENDY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png",
+    "cardCode": "RVCM_WD",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "RVCM_WD_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **Red Velvet WENDY** Cosmic",
+    "cardEmpty": "**Red Velvet WENDY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_wendy.png",
+    "cardCode": "RVCM_WD",
+    "cardGuess": "<:grade_C:1171195686209978398> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "RVCM_JO_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **Red Velvet JOY** Cosmic",
+    "cardEmpty": "**Red Velvet JOY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png",
+    "cardCode": "RVCM_JO",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "RVCM_JO_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **Red Velvet JOY** Cosmic",
+    "cardEmpty": "**Red Velvet JOY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png",
+    "cardCode": "RVCM_JO",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "RVCM_JO_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **Red Velvet JOY** Cosmic",
+    "cardEmpty": "**Red Velvet JOY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png",
+    "cardCode": "RVCM_JO",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "RVCM_JO_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **Red Velvet JOY** Cosmic",
+    "cardEmpty": "**Red Velvet JOY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png",
+    "cardCode": "RVCM_JO",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "RVCM_JO_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **Red Velvet JOY** Cosmic",
+    "cardEmpty": "**Red Velvet JOY** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_joy.png",
+    "cardCode": "RVCM_JO",
+    "cardGuess": "<:grade_C:1171195686209978398> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "RVCM_YR_R": [
+{
+    "cardName": "<:grade_R:1171195690521743360> **Red Velvet YERI** Cosmic",
+    "cardEmpty": "**Red Velvet YERI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png",
+    "cardCode": "RVCM_YR",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 2000,
+    "cardMax": 3000
+}
+  ],
+
+    "RVCM_YR_S": [
+{
+    "cardName": "<:grade_S:1171197327185285201> **Red Velvet YERI** Cosmic",
+    "cardEmpty": "**Red Velvet YERI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png",
+    "cardCode": "RVCM_YR",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 900,
+    "cardMax": 1200
+}
+  ],
+
+    "RVCM_YR_A": [
+{
+    "cardName": "<:grade_A:1171197331538980874> **Red Velvet YERI** Cosmic",
+    "cardEmpty": "**Red Velvet YERI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_smal.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png",
+    "cardCode": "RVCM_YR",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 300,
+    "cardMax": 600
+}
+  ],
+
+    "RVCM_YR_B": [
+{
+    "cardName": "<:grade_B:1171195683894722601> **Red Velvet YERI** Cosmic",
+    "cardEmpty": "**Red Velvet YERI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png",
+    "cardCode": "RVCM_YR",
+    "cardGuess": "<:grade_R:1171195690521743360> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 100,
+    "cardMax": 200
+}
+  ],
+
+    "RVCM_YR_C": [
+{
+    "cardName": "<:grade_C:1171195686209978398> **Red Velvet YERI** Cosmic",
+    "cardEmpty": "**Red Velvet YERI** Cosmic",
+    "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+    "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_cosmic.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+    "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_cosmic_yeri.png",
+    "cardCode": "RVCM_YR",
+    "cardGuess": "<:grade_C:1171195686209978398> **Cosmic**",
+    "cardSong": "Cosmic",
+    "cardGroup": "Red Velvet",
+    "cardMin": 50,
+    "cardMax": 100
+}
+  ],
+
+    "BMFV_RK_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **BABYMONSTER RUKA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RUKA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-RUKA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png",
+            "cardCode": "BMFV_RK",
+            "cardGuess": "<:grade_C:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "BMFV_RK_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **BABYMONSTER RUKA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RUKA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-RUKA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png",
+            "cardCode": "BMFV_RK",
+            "cardGuess": "<:grade_B:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "BMFV_RK_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **BABYMONSTER RUKA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RUKA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-RUKA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png",
+            "cardCode": "BMFV_RK",
+            "cardGuess": "<:grade_A:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "BMFV_RK_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **BABYMONSTER RUKA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RUKA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-RUKA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png",
+            "cardCode": "BMFV_RK",
+            "cardGuess": "<:grade_S:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "BMFV_RK_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **BABYMONSTER RUKA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RUKA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-RUKA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ruka.png",
+            "cardCode": "BMFV_RK",
+            "cardGuess": "<:grade_R:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "BMFV_AS_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **BABYMONSTER ASA** FOREVER",
+            "cardEmpty": "**BABYMONSTER ASA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-ASA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png",
+            "cardCode": "BMFV_AS",
+            "cardGuess": "<:grade_C:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "BMFV_AS_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **BABYMONSTER ASA** FOREVER",
+            "cardEmpty": "**BABYMONSTER ASA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-ASA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png",
+            "cardCode": "BMFV_AS",
+            "cardGuess": "<:grade_B:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "BMFV_AS_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **BABYMONSTER ASA** FOREVER",
+            "cardEmpty": "**BABYMONSTER ASA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-ASA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png",
+            "cardCode": "BMFV_AS",
+            "cardGuess": "<:grade_A:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "BMFV_AS_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **BABYMONSTER ASA** FOREVER",
+            "cardEmpty": "**BABYMONSTER ASA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-ASA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png",
+            "cardCode": "BMFV_AS",
+            "cardGuess": "<:grade_S:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "BMFV_AS_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **BABYMONSTER ASA** FOREVER",
+            "cardEmpty": "**BABYMONSTER ASA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-ASA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_asa.png",
+            "cardCode": "BMFV_AS",
+            "cardGuess": "<:grade_R:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "BMFV_PH_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **BABYMONSTER PHARITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER PHARITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-PHARITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png",
+            "cardCode": "BMFV_PH",
+            "cardGuess": "<:grade_C:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "BMFV_PH_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **BABYMONSTER PHARITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER PHARITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-PHARITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png",
+            "cardCode": "BMFV_PH",
+            "cardGuess": "<:grade_B:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "BMFV_PH_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **BABYMONSTER PHARITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER PHARITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-PHARITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png",
+            "cardCode": "BMFV_PH",
+            "cardGuess": "<:grade_A:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "BMFV_PH_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **BABYMONSTER PHARITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER PHARITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-PHARITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png",
+            "cardCode": "BMFV_PH",
+            "cardGuess": "<:grade_S:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "BMFV_PH_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **BABYMONSTER PHARITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER PHARITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-PHARITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_pharita.png",
+            "cardCode": "BMFV_PH",
+            "cardGuess": "<:grade_R:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "BMFV_AH_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **BABYMONSTER AHYEON** FOREVER",
+            "cardEmpty": "**BABYMONSTER AHYEON** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-AHYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png",
+            "cardCode": "BMFV_AH",
+            "cardGuess": "<:grade_C:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "BMFV_AH_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **BABYMONSTER AHYEON** FOREVER",
+            "cardEmpty": "**BABYMONSTER AHYEON** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-AHYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png",
+            "cardCode": "BMFV_AH",
+            "cardGuess": "<:grade_B:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "BMFV_AH_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **BABYMONSTER AHYEON** FOREVER",
+            "cardEmpty": "**BABYMONSTER AHYEON** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-AHYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png",
+            "cardCode": "BMFV_AH",
+            "cardGuess": "<:grade_A:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "BMFV_AH_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **BABYMONSTER AHYEON** FOREVER",
+            "cardEmpty": "**BABYMONSTER AHYEON** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-AHYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png",
+            "cardCode": "BMFV_AH",
+            "cardGuess": "<:grade_S:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "BMFV_AH_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **BABYMONSTER AHYEON** FOREVER",
+            "cardEmpty": "**BABYMONSTER AHYEON** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-AHYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_ahyeon.png",
+            "cardCode": "BMFV_AH",
+            "cardGuess": "<:grade_R:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "BMFV_RM_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **BABYMONSTER RAMI** FOREVER",
+            "cardEmpty": "**BABYMONSTER RAMI** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-RAMI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png",
+            "cardCode": "BMFV_RM",
+            "cardGuess": "<:grade_C:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "BMFV_RM_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **BABYMONSTER RAMI** FOREVER",
+            "cardEmpty": "**BABYMONSTER RAMI** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-RAMI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png",
+            "cardCode": "BMFV_RM",
+            "cardGuess": "<:grade_B:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "BMFV_RM_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **BABYMONSTER RAMI** FOREVER",
+            "cardEmpty": "**BABYMONSTER RAMI** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-RAMI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png",
+            "cardCode": "BMFV_RM",
+            "cardGuess": "<:grade_A:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "BMFV_RM_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **BABYMONSTER RAMI** FOREVER",
+            "cardEmpty": "**BABYMONSTER RAMI** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-RAMI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png",
+            "cardCode": "BMFV_RM",
+            "cardGuess": "<:grade_S:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "BMFV_RM_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **BABYMONSTER RAMI** FOREVER",
+            "cardEmpty": "**BABYMONSTER RAMI** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-RAMI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rami.png",
+            "cardCode": "BMFV_RM",
+            "cardGuess": "<:grade_R:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "BMFV_RR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **BABYMONSTER RORA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RORA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-RORA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png",
+            "cardCode": "BMFV_RR",
+            "cardGuess": "<:grade_C:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "BMFV_RR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **BABYMONSTER RORA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RORA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-RORA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png",
+            "cardCode": "BMFV_RR",
+            "cardGuess": "<:grade_B:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "BMFV_RR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **BABYMONSTER RORA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RORA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-RORA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png",
+            "cardCode": "BMFV_RR",
+            "cardGuess": "<:grade_A:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "BMFV_RR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **BABYMONSTER RORA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RORA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-RORA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png",
+            "cardCode": "BMFV_RR",
+            "cardGuess": "<:grade_S:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "BMFV_RR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **BABYMONSTER RORA** FOREVER",
+            "cardEmpty": "**BABYMONSTER RORA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-RORA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_rora.png",
+            "cardCode": "BMFV_RR",
+            "cardGuess": "<:grade_R:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "BMFV_CH_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **BABYMONSTER CHIQUITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER CHIQUITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-CHIQUITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png",
+            "cardCode": "BMFV_CH",
+            "cardGuess": "<:grade_C:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "BMFV_CH_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **BABYMONSTER CHIQUITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER CHIQUITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-CHIQUITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png",
+            "cardCode": "BMFV_CH",
+            "cardGuess": "<:grade_B:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "BMFV_CH_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **BABYMONSTER CHIQUITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER CHIQUITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-CHIQUITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png",
+            "cardCode": "BMFV_CH",
+            "cardGuess": "<:grade_A:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "BMFV_CH_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **BABYMONSTER CHIQUITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER CHIQUITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-CHIQUITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png",
+            "cardCode": "BMFV_CH",
+            "cardGuess": "<:grade_S:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "BMFV_CH_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **BABYMONSTER CHIQUITA** FOREVER",
+            "cardEmpty": "**BABYMONSTER CHIQUITA** FOREVER",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-CHIQUITA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_bm.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/babymonster/forever/fv/c_l_forever_chiquita.png",
+            "cardCode": "BMFV_CH",
+            "cardGuess": "<:grade_R:123456789012345678> **FOREVER**",
+            "cardSong": "FOREVER",
+            "cardGroup": "BABYMONSTER",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "RVCK_IR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet IRENE** Chill Kill",
+            "cardEmpty": "**Red Velvet IRENE** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png",
+            "cardCode": "RVCK_IR",
+            "cardGuess": "<:grade_C:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVCK_IR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet IRENE** Chill Kill",
+            "cardEmpty": "**Red Velvet IRENE** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png",
+            "cardCode": "RVCK_IR",
+            "cardGuess": "<:grade_B:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVCK_IR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet IRENE** Chill Kill",
+            "cardEmpty": "**Red Velvet IRENE** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png",
+            "cardCode": "RVCK_IR",
+            "cardGuess": "<:grade_A:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVCK_IR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet IRENE** Chill Kill",
+            "cardEmpty": "**Red Velvet IRENE** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png",
+            "cardCode": "RVCK_IR",
+            "cardGuess": "<:grade_S:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVCK_IR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet IRENE** Chill Kill",
+            "cardEmpty": "**Red Velvet IRENE** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_irene.png",
+            "cardCode": "RVCK_IR",
+            "cardGuess": "<:grade_R:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVCK_SG_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet SEULGI** Chill Kill",
+            "cardEmpty": "**Red Velvet SEULGI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png",
+            "cardCode": "RVCK_SG",
+            "cardGuess": "<:grade_C:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVCK_SG_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet SEULGI** Chill Kill",
+            "cardEmpty": "**Red Velvet SEULGI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png",
+            "cardCode": "RVCK_SG",
+            "cardGuess": "<:grade_B:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVCK_SG_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet SEULGI** Chill Kill",
+            "cardEmpty": "**Red Velvet SEULGI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png",
+            "cardCode": "RVCK_SG",
+            "cardGuess": "<:grade_A:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVCK_SG_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet SEULGI** Chill Kill",
+            "cardEmpty": "**Red Velvet SEULGI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png",
+            "cardCode": "RVCK_SG",
+            "cardGuess": "<:grade_S:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVCK_SG_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet SEULGI** Chill Kill",
+            "cardEmpty": "**Red Velvet SEULGI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_seulgi.png",
+            "cardCode": "RVCK_SG",
+            "cardGuess": "<:grade_R:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVCK_WD_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet WENDY** Chill Kill",
+            "cardEmpty": "**Red Velvet WENDY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png",
+            "cardCode": "RVCK_WD",
+            "cardGuess": "<:grade_C:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVCK_WD_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet WENDY** Chill Kill",
+            "cardEmpty": "**Red Velvet WENDY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png",
+            "cardCode": "RVCK_WD",
+            "cardGuess": "<:grade_B:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVCK_WD_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet WENDY** Chill Kill",
+            "cardEmpty": "**Red Velvet WENDY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png",
+            "cardCode": "RVCK_WD",
+            "cardGuess": "<:grade_A:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVCK_WD_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet WENDY** Chill Kill",
+            "cardEmpty": "**Red Velvet WENDY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png",
+            "cardCode": "RVCK_WD",
+            "cardGuess": "<:grade_S:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVCK_WD_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet WENDY** Chill Kill",
+            "cardEmpty": "**Red Velvet WENDY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_wendy.png",
+            "cardCode": "RVCK_WD",
+            "cardGuess": "<:grade_R:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVCK_JO_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet JOY** Chill Kill",
+            "cardEmpty": "**Red Velvet JOY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png",
+            "cardCode": "RVCK_JO",
+            "cardGuess": "<:grade_C:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVCK_JO_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet JOY** Chill Kill",
+            "cardEmpty": "**Red Velvet JOY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png",
+            "cardCode": "RVCK_JO",
+            "cardGuess": "<:grade_B:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVCK_JO_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet JOY** Chill Kill",
+            "cardEmpty": "**Red Velvet JOY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png",
+            "cardCode": "RVCK_JO",
+            "cardGuess": "<:grade_A:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVCK_JO_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet JOY** Chill Kill",
+            "cardEmpty": "**Red Velvet JOY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png",
+            "cardCode": "RVCK_JO",
+            "cardGuess": "<:grade_S:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVCK_JO_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet JOY** Chill Kill",
+            "cardEmpty": "**Red Velvet JOY** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_joy.png",
+            "cardCode": "RVCK_JO",
+            "cardGuess": "<:grade_R:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVCK_YR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet YERI** Chill Kill",
+            "cardEmpty": "**Red Velvet YERI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png",
+            "cardCode": "RVCK_YR",
+            "cardGuess": "<:grade_C:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVCK_YR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet YERI** Chill Kill",
+            "cardEmpty": "**Red Velvet YERI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png",
+            "cardCode": "RVCK_YR",
+            "cardGuess": "<:grade_B:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVCK_YR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet YERI** Chill Kill",
+            "cardEmpty": "**Red Velvet YERI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png",
+            "cardCode": "RVCK_YR",
+            "cardGuess": "<:grade_A:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVCK_YR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet YERI** Chill Kill",
+            "cardEmpty": "**Red Velvet YERI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png",
+            "cardCode": "RVCK_YR",
+            "cardGuess": "<:grade_S:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVCK_YR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet YERI** Chill Kill",
+            "cardEmpty": "**Red Velvet YERI** Chill Kill",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_chill_kill.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_chill_kill_yeri.png",
+            "cardCode": "RVCK_YR",
+            "cardGuess": "<:grade_R:123456789012345678> **Chill Kill**",
+            "cardSong": "Chill Kill",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVBL_IR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet IRENE** BLOOM",
+            "cardEmpty": "**Red Velvet IRENE** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png",
+            "cardCode": "RVBL_IR",
+            "cardGuess": "<:grade_C:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBL_IR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet IRENE** BLOOM",
+            "cardEmpty": "**Red Velvet IRENE** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png",
+            "cardCode": "RVBL_IR",
+            "cardGuess": "<:grade_B:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBL_IR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet IRENE** BLOOM",
+            "cardEmpty": "**Red Velvet IRENE** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png",
+            "cardCode": "RVBL_IR",
+            "cardGuess": "<:grade_A:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBL_IR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet IRENE** BLOOM",
+            "cardEmpty": "**Red Velvet IRENE** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png",
+            "cardCode": "RVBL_IR",
+            "cardGuess": "<:grade_S:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBL_IR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet IRENE** BLOOM",
+            "cardEmpty": "**Red Velvet IRENE** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_irene.png",
+            "cardCode": "RVBL_IR",
+            "cardGuess": "<:grade_R:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVBL_SG_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet SEULGI** BLOOM",
+            "cardEmpty": "**Red Velvet SEULGI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png",
+            "cardCode": "RVBL_SG",
+            "cardGuess": "<:grade_C:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBL_SG_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet SEULGI** BLOOM",
+            "cardEmpty": "**Red Velvet SEULGI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png",
+            "cardCode": "RVBL_SG",
+            "cardGuess": "<:grade_B:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBL_SG_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet SEULGI** BLOOM",
+            "cardEmpty": "**Red Velvet SEULGI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png",
+            "cardCode": "RVBL_SG",
+            "cardGuess": "<:grade_A:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBL_SG_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet SEULGI** BLOOM",
+            "cardEmpty": "**Red Velvet SEULGI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png",
+            "cardCode": "RVBL_SG",
+            "cardGuess": "<:grade_S:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBL_SG_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet SEULGI** BLOOM",
+            "cardEmpty": "**Red Velvet SEULGI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_seulgi.png",
+            "cardCode": "RVBL_SG",
+            "cardGuess": "<:grade_R:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVBL_WD_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet WENDY** BLOOM",
+            "cardEmpty": "**Red Velvet WENDY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png",
+            "cardCode": "RVBL_WD",
+            "cardGuess": "<:grade_C:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBL_WD_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet WENDY** BLOOM",
+            "cardEmpty": "**Red Velvet WENDY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png",
+            "cardCode": "RVBL_WD",
+            "cardGuess": "<:grade_B:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBL_WD_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet WENDY** BLOOM",
+            "cardEmpty": "**Red Velvet WENDY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png",
+            "cardCode": "RVBL_WD",
+            "cardGuess": "<:grade_A:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBL_WD_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet WENDY** BLOOM",
+            "cardEmpty": "**Red Velvet WENDY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png",
+            "cardCode": "RVBL_WD",
+            "cardGuess": "<:grade_S:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBL_WD_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet WENDY** BLOOM",
+            "cardEmpty": "**Red Velvet WENDY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_wendy.png",
+            "cardCode": "RVBL_WD",
+            "cardGuess": "<:grade_R:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVBL_JO_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet JOY** BLOOM",
+            "cardEmpty": "**Red Velvet JOY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png",
+            "cardCode": "RVBL_JO",
+            "cardGuess": "<:grade_C:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBL_JO_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet JOY** BLOOM",
+            "cardEmpty": "**Red Velvet JOY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png",
+            "cardCode": "RVBL_JO",
+            "cardGuess": "<:grade_B:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBL_JO_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet JOY** BLOOM",
+            "cardEmpty": "**Red Velvet JOY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png",
+            "cardCode": "RVBL_JO",
+            "cardGuess": "<:grade_A:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBL_JO_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet JOY** BLOOM",
+            "cardEmpty": "**Red Velvet JOY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png",
+            "cardCode": "RVBL_JO",
+            "cardGuess": "<:grade_S:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBL_JO_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet JOY** BLOOM",
+            "cardEmpty": "**Red Velvet JOY** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_joy.png",
+            "cardCode": "RVBL_JO",
+            "cardGuess": "<:grade_R:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVBL_YR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet YERI** BLOOM",
+            "cardEmpty": "**Red Velvet YERI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png",
+            "cardCode": "RVBL_YR",
+            "cardGuess": "<:grade_C:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBL_YR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet YERI** BLOOM",
+            "cardEmpty": "**Red Velvet YERI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png",
+            "cardCode": "RVBL_YR",
+            "cardGuess": "<:grade_B:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBL_YR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet YERI** BLOOM",
+            "cardEmpty": "**Red Velvet YERI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png",
+            "cardCode": "RVBL_YR",
+            "cardGuess": "<:grade_A:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBL_YR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet YERI** BLOOM",
+            "cardEmpty": "**Red Velvet YERI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png",
+            "cardCode": "RVBL_YR",
+            "cardGuess": "<:grade_S:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBL_YR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet YERI** BLOOM",
+            "cardEmpty": "**Red Velvet YERI** BLOOM",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bloom.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bloom_yeri.png",
+            "cardCode": "RVBL_YR",
+            "cardGuess": "<:grade_R:123456789012345678> **BLOOM**",
+            "cardSong": "BLOOM",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "LSRS_V_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **LISA Vocal** Rockstar",
+            "cardEmpty": "**LISA Vocal** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png",
+            "cardCode": "LSRS_V_C",
+            "cardGuess": "<:grade_C:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "LSRS_V_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **LISA Vocal** Rockstar",
+            "cardEmpty": "**LISA Vocal** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png",
+            "cardCode": "LSRS_V_B",
+            "cardGuess": "<:grade_B:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "LSRS_V_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **LISA Vocal** Rockstar",
+            "cardEmpty": "**LISA Vocal** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png",
+            "cardCode": "LSRS_V_A",
+            "cardGuess": "<:grade_A:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "LSRS_V_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **LISA Vocal** Rockstar",
+            "cardEmpty": "**LISA Vocal** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png",
+            "cardCode": "LSRS_V_S",
+            "cardGuess": "<:grade_S:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "LSRS_V_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **LISA Vocal** Rockstar",
+            "cardEmpty": "**LISA Vocal** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_v.png",
+            "cardCode": "LSRS_V_R",
+            "cardGuess": "<:grade_R:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "LSRS_D_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **LISA Dance** Rockstar",
+            "cardEmpty": "**LISA Dance** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png",
+            "cardCode": "LSRS_D_C",
+            "cardGuess": "<:grade_C:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "LSRS_D_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **LISA Dance** Rockstar",
+            "cardEmpty": "**LISA Dance** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png",
+            "cardCode": "LSRS_D_B",
+            "cardGuess": "<:grade_B:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "LSRS_D_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **LISA Dance** Rockstar",
+            "cardEmpty": "**LISA Dance** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png",
+            "cardCode": "LSRS_D_A",
+            "cardGuess": "<:grade_A:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "LSRS_D_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **LISA Dance** Rockstar",
+            "cardEmpty": "**LISA Dance** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png",
+            "cardCode": "LSRS_D_S",
+            "cardGuess": "<:grade_S:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "LSRS_D_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **LISA Dance** Rockstar",
+            "cardEmpty": "**LISA Dance** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_d.png",
+            "cardCode": "LSRS_D_R",
+            "cardGuess": "<:grade_R:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "LSRS_R_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **LISA Rhythm** Rockstar",
+            "cardEmpty": "**LISA Rhythm** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png",
+            "cardCode": "LSRS_R_C",
+            "cardGuess": "<:grade_C:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "LSRS_R_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **LISA Rhythm** Rockstar",
+            "cardEmpty": "**LISA Rhythm** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png",
+            "cardCode": "LSRS_R_B",
+            "cardGuess": "<:grade_B:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "LSRS_R_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **LISA Rhythm** Rockstar",
+            "cardEmpty": "**LISA Rhythm** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png",
+            "cardCode": "LSRS_R_A",
+            "cardGuess": "<:grade_A:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "LSRS_R_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **LISA Rhythm** Rockstar",
+            "cardEmpty": "**LISA Rhythm** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png",
+            "cardCode": "LSRS_R_S",
+            "cardGuess": "<:grade_S:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "LSRS_R_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **LISA Rhythm** Rockstar",
+            "cardEmpty": "**LISA Rhythm** Rockstar",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-LISA,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_rockstar.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_lisa.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/lisa/rcockstar/20240726/c_l_rockstar_r.png",
+            "cardCode": "LSRS_R_R",
+            "cardGuess": "<:grade_R:123456789012345678> **Rockstar**",
+            "cardSong": "Rockstar",
+            "cardGroup": "LISA",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    
+
+    
     
 
     
 
     
+
+    
+
+}
+"WDWY_V_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **WENDY Vocal** Wish You Hell",
+            "cardEmpty": "**WENDY Vocal** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png",
+            "cardCode": "WDWY_V_C",
+            "cardGuess": "<:grade_C:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "WDWY_V_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **WENDY Vocal** Wish You Hell",
+            "cardEmpty": "**WENDY Vocal** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png",
+            "cardCode": "WDWY_V_B",
+            "cardGuess": "<:grade_B:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "WDWY_V_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **WENDY Vocal** Wish You Hell",
+            "cardEmpty": "**WENDY Vocal** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png",
+            "cardCode": "WDWY_V_A",
+            "cardGuess": "<:grade_A:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "WDWY_V_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **WENDY Vocal** Wish You Hell",
+            "cardEmpty": "**WENDY Vocal** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png",
+            "cardCode": "WDWY_V_S",
+            "cardGuess": "<:grade_S:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "WDWY_V_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **WENDY Vocal** Wish You Hell",
+            "cardEmpty": "**WENDY Vocal** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N65,ly-274,l-end:l-text,i-Vocal,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_v.png",
+            "cardCode": "WDWY_V_R",
+            "cardGuess": "<:grade_R:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "WDWY_D_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **WENDY Dance** Wish You Hell",
+            "cardEmpty": "**WENDY Dance** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png",
+            "cardCode": "WDWY_D_C",
+            "cardGuess": "<:grade_C:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "WDWY_D_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **WENDY Dance** Wish You Hell",
+            "cardEmpty": "**WENDY Dance** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png",
+            "cardCode": "WDWY_D_B",
+            "cardGuess": "<:grade_B:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "WDWY_D_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **WENDY Dance** Wish You Hell",
+            "cardEmpty": "**WENDY Dance** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png",
+            "cardCode": "WDWY_D_A",
+            "cardGuess": "<:grade_A:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "WDWY_D_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **WENDY Dance** Wish You Hell",
+            "cardEmpty": "**WENDY Dance** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png",
+            "cardCode": "WDWY_D_S",
+            "cardGuess": "<:grade_S:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "WDWY_D_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **WENDY Dance** Wish You Hell",
+            "cardEmpty": "**WENDY Dance** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N72,ly-274,l-end:l-text,i-Dance,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_d.png",
+            "cardCode": "WDWY_D_R",
+            "cardGuess": "<:grade_R:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "WDWY_R_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **WENDY Rhythm** Wish You Hell",
+            "cardEmpty": "**WENDY Rhythm** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png",
+            "cardCode": "WDWY_R_C",
+            "cardGuess": "<:grade_C:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "WDWY_R_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **WENDY Rhythm** Wish You Hell",
+            "cardEmpty": "**WENDY Rhythm** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png",
+            "cardCode": "WDWY_R_B",
+            "cardGuess": "<:grade_B:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "WDWY_R_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **WENDY Rhythm** Wish You Hell",
+            "cardEmpty": "**WENDY Rhythm** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png",
+            "cardCode": "WDWY_R_A",
+            "cardGuess": "<:grade_A:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "WDWY_R_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **WENDY Rhythm** Wish You Hell",
+            "cardEmpty": "**WENDY Rhythm** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png",
+            "cardCode": "WDWY_R_S",
+            "cardGuess": "<:grade_S:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "WDWY_R_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **WENDY Rhythm** Wish You Hell",
+            "cardEmpty": "**WENDY Rhythm** Wish You Hell",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-left,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N85,ly-274,l-end:l-text,i-Rhythm,ia-right,ff-IF_Std_Lt.ttf,fs-19,co-white,lx-N15,ly-280,l-end:l-image,i-resources@@images@@theme@@theme_s_wish_you_hell.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_wendy.png,lx-N10,ly-N250,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/wendy/wishyou_hell/c_l_wish_you_hell_r.png",
+            "cardCode": "WDWY_R_R",
+            "cardGuess": "<:grade_R:123456789012345678> **Wish You Hell**",
+            "cardSong": "Wish You Hell",
+            "cardGroup": "WENDY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ]
 
 }
