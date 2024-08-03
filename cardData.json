@@ -8494,6 +8494,2036 @@
             "cardMin": 2000,
             "cardMax": 3000
         }
+    ],
+
+    "RVPU_IR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet IRENE** Power Up",
+            "cardEmpty": "**Red Velvet IRENE** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png",
+            "cardCode": "RVPU_IR",
+            "cardGuess": "<:grade_C:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVPU_IR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet IRENE** Power Up",
+            "cardEmpty": "**Red Velvet IRENE** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png",
+            "cardCode": "RVPU_IR",
+            "cardGuess": "<:grade_B:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVPU_IR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet IRENE** Power Up",
+            "cardEmpty": "**Red Velvet IRENE** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png",
+            "cardCode": "RVPU_IR",
+            "cardGuess": "<:grade_A:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVPU_IR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet IRENE** Power Up",
+            "cardEmpty": "**Red Velvet IRENE** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png",
+            "cardCode": "RVPU_IR",
+            "cardGuess": "<:grade_S:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVPU_IR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet IRENE** Power Up",
+            "cardEmpty": "**Red Velvet IRENE** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_irene.png",
+            "cardCode": "RVPU_IR",
+            "cardGuess": "<:grade_R:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVPU_SG_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet SEULGI** Power Up",
+            "cardEmpty": "**Red Velvet SEULGI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png",
+            "cardCode": "RVPU_SG",
+            "cardGuess": "<:grade_C:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVPU_SG_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet SEULGI** Power Up",
+            "cardEmpty": "**Red Velvet SEULGI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png",
+            "cardCode": "RVPU_SG",
+            "cardGuess": "<:grade_B:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVPU_SG_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet SEULGI** Power Up",
+            "cardEmpty": "**Red Velvet SEULGI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png",
+            "cardCode": "RVPU_SG",
+            "cardGuess": "<:grade_A:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVPU_SG_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet SEULGI** Power Up",
+            "cardEmpty": "**Red Velvet SEULGI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png",
+            "cardCode": "RVPU_SG",
+            "cardGuess": "<:grade_S:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVPU_SG_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet SEULGI** Power Up",
+            "cardEmpty": "**Red Velvet SEULGI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_seulgi.png",
+            "cardCode": "RVPU_SG",
+            "cardGuess": "<:grade_R:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVPU_WD_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet WENDY** Power Up",
+            "cardEmpty": "**Red Velvet WENDY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png",
+            "cardCode": "RVPU_WD",
+            "cardGuess": "<:grade_C:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVPU_WD_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet WENDY** Power Up",
+            "cardEmpty": "**Red Velvet WENDY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png",
+            "cardCode": "RVPU_WD",
+            "cardGuess": "<:grade_B:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVPU_WD_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet WENDY** Power Up",
+            "cardEmpty": "**Red Velvet WENDY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png",
+            "cardCode": "RVPU_WD",
+            "cardGuess": "<:grade_A:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVPU_WD_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet WENDY** Power Up",
+            "cardEmpty": "**Red Velvet WENDY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png",
+            "cardCode": "RVPU_WD",
+            "cardGuess": "<:grade_S:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVPU_WD_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet WENDY** Power Up",
+            "cardEmpty": "**Red Velvet WENDY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_wendy.png",
+            "cardCode": "RVPU_WD",
+            "cardGuess": "<:grade_R:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVPU_JO_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet JOY** Power Up",
+            "cardEmpty": "**Red Velvet JOY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png",
+            "cardCode": "RVPU_JO",
+            "cardGuess": "<:grade_C:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVPU_JO_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet JOY** Power Up",
+            "cardEmpty": "**Red Velvet JOY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png",
+            "cardCode": "RVPU_JO",
+            "cardGuess": "<:grade_B:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVPU_JO_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet JOY** Power Up",
+            "cardEmpty": "**Red Velvet JOY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png",
+            "cardCode": "RVPU_JO",
+            "cardGuess": "<:grade_A:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVPU_JO_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet JOY** Power Up",
+            "cardEmpty": "**Red Velvet JOY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png",
+            "cardCode": "RVPU_JO",
+            "cardGuess": "<:grade_S:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVPU_JO_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet JOY** Power Up",
+            "cardEmpty": "**Red Velvet JOY** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_joy.png",
+            "cardCode": "RVPU_JO",
+            "cardGuess": "<:grade_R:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVPU_YR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet YERI** Power Up",
+            "cardEmpty": "**Red Velvet YERI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png",
+            "cardCode": "RVPU_YR",
+            "cardGuess": "<:grade_C:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVPU_YR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet YERI** Power Up",
+            "cardEmpty": "**Red Velvet YERI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png",
+            "cardCode": "RVPU_YR",
+            "cardGuess": "<:grade_B:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVPU_YR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet YERI** Power Up",
+            "cardEmpty": "**Red Velvet YERI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png",
+            "cardCode": "RVPU_YR",
+            "cardGuess": "<:grade_A:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVPU_YR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet YERI** Power Up",
+            "cardEmpty": "**Red Velvet YERI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png",
+            "cardCode": "RVPU_YR",
+            "cardGuess": "<:grade_S:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVPU_YR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet YERI** Power Up",
+            "cardEmpty": "**Red Velvet YERI** Power Up",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_power_up.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_power_up_yeri.png",
+            "cardCode": "RVPU_YR",
+            "cardGuess": "<:grade_R:123456789012345678> **Power Up**",
+            "cardSong": "Power Up",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "RVBB_IR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet IRENE** Bad Boy",
+            "cardEmpty": "**Red Velvet IRENE** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png",
+            "cardCode": "RVBB_IR",
+            "cardGuess": "<:grade_C:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBB_IR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet IRENE** Bad Boy",
+            "cardEmpty": "**Red Velvet IRENE** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png",
+            "cardCode": "RVBB_IR",
+            "cardGuess": "<:grade_B:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBB_IR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet IRENE** Bad Boy",
+            "cardEmpty": "**Red Velvet IRENE** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png",
+            "cardCode": "RVBB_IR",
+            "cardGuess": "<:grade_A:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBB_IR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet IRENE** Bad Boy",
+            "cardEmpty": "**Red Velvet IRENE** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png",
+            "cardCode": "RVBB_IR",
+            "cardGuess": "<:grade_S:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBB_IR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet IRENE** Bad Boy",
+            "cardEmpty": "**Red Velvet IRENE** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_irene.png",
+            "cardCode": "RVBB_IR",
+            "cardGuess": "<:grade_R:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVBB_SG_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet SEULGI** Bad Boy",
+            "cardEmpty": "**Red Velvet SEULGI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png",
+            "cardCode": "RVBB_SG",
+            "cardGuess": "<:grade_C:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBB_SG_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet SEULGI** Bad Boy",
+            "cardEmpty": "**Red Velvet SEULGI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png",
+            "cardCode": "RVBB_SG",
+            "cardGuess": "<:grade_B:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBB_SG_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet SEULGI** Bad Boy",
+            "cardEmpty": "**Red Velvet SEULGI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png",
+            "cardCode": "RVBB_SG",
+            "cardGuess": "<:grade_A:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBB_SG_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet SEULGI** Bad Boy",
+            "cardEmpty": "**Red Velvet SEULGI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png",
+            "cardCode": "RVBB_SG",
+            "cardGuess": "<:grade_S:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBB_SG_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet SEULGI** Bad Boy",
+            "cardEmpty": "**Red Velvet SEULGI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_seulgi.png",
+            "cardCode": "RVBB_SG",
+            "cardGuess": "<:grade_R:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVBB_WD_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet WENDY** Bad Boy",
+            "cardEmpty": "**Red Velvet WENDY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png",
+            "cardCode": "RVBB_WD",
+            "cardGuess": "<:grade_C:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBB_WD_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet WENDY** Bad Boy",
+            "cardEmpty": "**Red Velvet WENDY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png",
+            "cardCode": "RVBB_WD",
+            "cardGuess": "<:grade_B:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBB_WD_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet WENDY** Bad Boy",
+            "cardEmpty": "**Red Velvet WENDY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png",
+            "cardCode": "RVBB_WD",
+            "cardGuess": "<:grade_A:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBB_WD_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet WENDY** Bad Boy",
+            "cardEmpty": "**Red Velvet WENDY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png",
+            "cardCode": "RVBB_WD",
+            "cardGuess": "<:grade_S:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBB_WD_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet WENDY** Bad Boy",
+            "cardEmpty": "**Red Velvet WENDY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_wendy.png",
+            "cardCode": "RVBB_WD",
+            "cardGuess": "<:grade_R:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVBB_JO_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet JOY** Bad Boy",
+            "cardEmpty": "**Red Velvet JOY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png",
+            "cardCode": "RVBB_JO",
+            "cardGuess": "<:grade_C:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBB_JO_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet JOY** Bad Boy",
+            "cardEmpty": "**Red Velvet JOY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png",
+            "cardCode": "RVBB_JO",
+            "cardGuess": "<:grade_B:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBB_JO_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet JOY** Bad Boy",
+            "cardEmpty": "**Red Velvet JOY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png",
+            "cardCode": "RVBB_JO",
+            "cardGuess": "<:grade_A:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBB_JO_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet JOY** Bad Boy",
+            "cardEmpty": "**Red Velvet JOY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png",
+            "cardCode": "RVBB_JO",
+            "cardGuess": "<:grade_S:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBB_JO_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet JOY** Bad Boy",
+            "cardEmpty": "**Red Velvet JOY** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_joy.png",
+            "cardCode": "RVBB_JO",
+            "cardGuess": "<:grade_R:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVBB_YR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet YERI** Bad Boy",
+            "cardEmpty": "**Red Velvet YERI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png",
+            "cardCode": "RVBB_YR",
+            "cardGuess": "<:grade_C:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVBB_YR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet YERI** Bad Boy",
+            "cardEmpty": "**Red Velvet YERI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png",
+            "cardCode": "RVBB_YR",
+            "cardGuess": "<:grade_B:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVBB_YR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet YERI** Bad Boy",
+            "cardEmpty": "**Red Velvet YERI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png",
+            "cardCode": "RVBB_YR",
+            "cardGuess": "<:grade_A:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVBB_YR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet YERI** Bad Boy",
+            "cardEmpty": "**Red Velvet YERI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png",
+            "cardCode": "RVBB_YR",
+            "cardGuess": "<:grade_S:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVBB_YR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet YERI** Bad Boy",
+            "cardEmpty": "**Red Velvet YERI** Bad Boy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_bad_boy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_bad_boy_yeri.png",
+            "cardCode": "RVBB_YR",
+            "cardGuess": "<:grade_R:123456789012345678> **Bad Boy**",
+            "cardSong": "Bad Boy",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "RVRF_IR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet IRENE** Remember Forever",
+            "cardEmpty": "**Red Velvet IRENE** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png",
+            "cardCode": "RVRF_IR",
+            "cardGuess": "<:grade_C:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVRF_IR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet IRENE** Remember Forever",
+            "cardEmpty": "**Red Velvet IRENE** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png",
+            "cardCode": "RVRF_IR",
+            "cardGuess": "<:grade_B:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVRF_IR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet IRENE** Remember Forever",
+            "cardEmpty": "**Red Velvet IRENE** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png",
+            "cardCode": "RVRF_IR",
+            "cardGuess": "<:grade_A:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVRF_IR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet IRENE** Remember Forever",
+            "cardEmpty": "**Red Velvet IRENE** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png",
+            "cardCode": "RVRF_IR",
+            "cardGuess": "<:grade_S:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVRF_IR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet IRENE** Remember Forever",
+            "cardEmpty": "**Red Velvet IRENE** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-IRENE,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_irene.png",
+            "cardCode": "RVRF_IR",
+            "cardGuess": "<:grade_R:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVRF_SG_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet SEULGI** Remember Forever",
+            "cardEmpty": "**Red Velvet SEULGI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png",
+            "cardCode": "RVRF_SG",
+            "cardGuess": "<:grade_C:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVRF_SG_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet SEULGI** Remember Forever",
+            "cardEmpty": "**Red Velvet SEULGI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png",
+            "cardCode": "RVRF_SG",
+            "cardGuess": "<:grade_B:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVRF_SG_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet SEULGI** Remember Forever",
+            "cardEmpty": "**Red Velvet SEULGI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png",
+            "cardCode": "RVRF_SG",
+            "cardGuess": "<:grade_A:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVRF_SG_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet SEULGI** Remember Forever",
+            "cardEmpty": "**Red Velvet SEULGI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png",
+            "cardCode": "RVRF_SG",
+            "cardGuess": "<:grade_S:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVRF_SG_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet SEULGI** Remember Forever",
+            "cardEmpty": "**Red Velvet SEULGI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SEULGI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_seulgi.png",
+            "cardCode": "RVRF_SG",
+            "cardGuess": "<:grade_R:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVRF_WD_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet WENDY** Remember Forever",
+            "cardEmpty": "**Red Velvet WENDY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png",
+            "cardCode": "RVRF_WD",
+            "cardGuess": "<:grade_C:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVRF_WD_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet WENDY** Remember Forever",
+            "cardEmpty": "**Red Velvet WENDY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png",
+            "cardCode": "RVRF_WD",
+            "cardGuess": "<:grade_B:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVRF_WD_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet WENDY** Remember Forever",
+            "cardEmpty": "**Red Velvet WENDY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png",
+            "cardCode": "RVRF_WD",
+            "cardGuess": "<:grade_A:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVRF_WD_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet WENDY** Remember Forever",
+            "cardEmpty": "**Red Velvet WENDY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png",
+            "cardCode": "RVRF_WD",
+            "cardGuess": "<:grade_S:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVRF_WD_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet WENDY** Remember Forever",
+            "cardEmpty": "**Red Velvet WENDY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WENDY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_wendy.png",
+            "cardCode": "RVRF_WD",
+            "cardGuess": "<:grade_R:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVRF_JO_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet JOY** Remember Forever",
+            "cardEmpty": "**Red Velvet JOY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png",
+            "cardCode": "RVRF_JO",
+            "cardGuess": "<:grade_C:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVRF_JO_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet JOY** Remember Forever",
+            "cardEmpty": "**Red Velvet JOY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png",
+            "cardCode": "RVRF_JO",
+            "cardGuess": "<:grade_B:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVRF_JO_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet JOY** Remember Forever",
+            "cardEmpty": "**Red Velvet JOY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png",
+            "cardCode": "RVRF_JO",
+            "cardGuess": "<:grade_A:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVRF_JO_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet JOY** Remember Forever",
+            "cardEmpty": "**Red Velvet JOY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png",
+            "cardCode": "RVRF_JO",
+            "cardGuess": "<:grade_S:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVRF_JO_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet JOY** Remember Forever",
+            "cardEmpty": "**Red Velvet JOY** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JOY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_joy.png",
+            "cardCode": "RVRF_JO",
+            "cardGuess": "<:grade_R:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "RVRF_YR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Red Velvet YERI** Remember Forever",
+            "cardEmpty": "**Red Velvet YERI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png",
+            "cardCode": "RVRF_YR",
+            "cardGuess": "<:grade_C:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "RVRF_YR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Red Velvet YERI** Remember Forever",
+            "cardEmpty": "**Red Velvet YERI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png",
+            "cardCode": "RVRF_YR",
+            "cardGuess": "<:grade_B:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "RVRF_YR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Red Velvet YERI** Remember Forever",
+            "cardEmpty": "**Red Velvet YERI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png",
+            "cardCode": "RVRF_YR",
+            "cardGuess": "<:grade_A:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "RVRF_YR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Red Velvet YERI** Remember Forever",
+            "cardEmpty": "**Red Velvet YERI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png",
+            "cardCode": "RVRF_YR",
+            "cardGuess": "<:grade_S:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "RVRF_YR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Red Velvet YERI** Remember Forever",
+            "cardEmpty": "**Red Velvet YERI** Remember Forever",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YERI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_forever.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_rv.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/red_velvet/c_l_remember_forever_yeri.png",
+            "cardCode": "RVRF_YR",
+            "cardGuess": "<:grade_R:123456789012345678> **Remember Forever**",
+            "cardSong": "Remember Forever",
+            "cardGroup": "Red Velvet",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "NCMA_TY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U TAEYONG** Make A Wish",
+            "cardEmpty": "**NCT U TAEYONG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png",
+            "cardCode": "NCMA_TY",
+            "cardGuess": "<:grade_C:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCMA_TY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U TAEYONG** Make A Wish",
+            "cardEmpty": "**NCT U TAEYONG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png",
+            "cardCode": "NCMA_TY",
+            "cardGuess": "<:grade_B:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCMA_TY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U TAEYONG** Make A Wish",
+            "cardEmpty": "**NCT U TAEYONG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png",
+            "cardCode": "NCMA_TY",
+            "cardGuess": "<:grade_A:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCMA_TY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U TAEYONG** Make A Wish",
+            "cardEmpty": "**NCT U TAEYONG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png",
+            "cardCode": "NCMA_TY",
+            "cardGuess": "<:grade_S:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCMA_TY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U TAEYONG** Make A Wish",
+            "cardEmpty": "**NCT U TAEYONG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_taeyong.png",
+            "cardCode": "NCMA_TY",
+            "cardGuess": "<:grade_R:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCMA_XJ_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U XIAOJUN** Make A Wish",
+            "cardEmpty": "**NCT U XIAOJUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-XIAOJUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png",
+            "cardCode": "NCMA_XJ",
+            "cardGuess": "<:grade_C:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCMA_XJ_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U XIAOJUN** Make A Wish",
+            "cardEmpty": "**NCT U XIAOJUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-XIAOJUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png",
+            "cardCode": "NCMA_XJ",
+            "cardGuess": "<:grade_B:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCMA_XJ_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U XIAOJUN** Make A Wish",
+            "cardEmpty": "**NCT U XIAOJUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-XIAOJUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png",
+            "cardCode": "NCMA_XJ",
+            "cardGuess": "<:grade_A:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCMA_XJ_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U XIAOJUN** Make A Wish",
+            "cardEmpty": "**NCT U XIAOJUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-XIAOJUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png",
+            "cardCode": "NCMA_XJ",
+            "cardGuess": "<:grade_S:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCMA_XJ_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U XIAOJUN** Make A Wish",
+            "cardEmpty": "**NCT U XIAOJUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-XIAOJUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_xiaojun.png",
+            "cardCode": "NCMA_XJ",
+            "cardGuess": "<:grade_R:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCMA_JH_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U JAEHYUN** Make A Wish",
+            "cardEmpty": "**NCT U JAEHYUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png",
+            "cardCode": "NCMA_JH",
+            "cardGuess": "<:grade_C:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCMA_JH_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U JAEHYUN** Make A Wish",
+            "cardEmpty": "**NCT U JAEHYUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png",
+            "cardCode": "NCMA_JH",
+            "cardGuess": "<:grade_B:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCMA_JH_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U JAEHYUN** Make A Wish",
+            "cardEmpty": "**NCT U JAEHYUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png",
+            "cardCode": "NCMA_JH",
+            "cardGuess": "<:grade_A:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCMA_JH_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U JAEHYUN** Make A Wish",
+            "cardEmpty": "**NCT U JAEHYUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png",
+            "cardCode": "NCMA_JH",
+            "cardGuess": "<:grade_S:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCMA_JH_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U JAEHYUN** Make A Wish",
+            "cardEmpty": "**NCT U JAEHYUN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaehyun.png",
+            "cardCode": "NCMA_JH",
+            "cardGuess": "<:grade_R:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCMA_DY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U DOYOUNG** Make A Wish",
+            "cardEmpty": "**NCT U DOYOUNG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png",
+            "cardCode": "NCMA_DY",
+            "cardGuess": "<:grade_C:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCMA_DY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U DOYOUNG** Make A Wish",
+            "cardEmpty": "**NCT U DOYOUNG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png",
+            "cardCode": "NCMA_DY",
+            "cardGuess": "<:grade_B:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCMA_DY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U DOYOUNG** Make A Wish",
+            "cardEmpty": "**NCT U DOYOUNG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png",
+            "cardCode": "NCMA_DY",
+            "cardGuess": "<:grade_A:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCMA_DY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U DOYOUNG** Make A Wish",
+            "cardEmpty": "**NCT U DOYOUNG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png",
+            "cardCode": "NCMA_DY",
+            "cardGuess": "<:grade_S:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCMA_DY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U DOYOUNG** Make A Wish",
+            "cardEmpty": "**NCT U DOYOUNG** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_doyoung.png",
+            "cardCode": "NCMA_DY",
+            "cardGuess": "<:grade_R:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCMA_JM_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U JAEMIN** Make A Wish",
+            "cardEmpty": "**NCT U JAEMIN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JAEMIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png",
+            "cardCode": "NCMA_JM",
+            "cardGuess": "<:grade_C:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCMA_JM_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U JAEMIN** Make A Wish",
+            "cardEmpty": "**NCT U JAEMIN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JAEMIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png",
+            "cardCode": "NCMA_JM",
+            "cardGuess": "<:grade_B:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCMA_JM_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U JAEMIN** Make A Wish",
+            "cardEmpty": "**NCT U JAEMIN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JAEMIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png",
+            "cardCode": "NCMA_JM",
+            "cardGuess": "<:grade_A:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCMA_JM_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U JAEMIN** Make A Wish",
+            "cardEmpty": "**NCT U JAEMIN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JAEMIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png",
+            "cardCode": "NCMA_JM",
+            "cardGuess": "<:grade_S:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCMA_JM_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U JAEMIN** Make A Wish",
+            "cardEmpty": "**NCT U JAEMIN** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JAEMIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_jaemin.png",
+            "cardCode": "NCMA_JM",
+            "cardGuess": "<:grade_R:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCMA_ST_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U SHOTARO** Make A Wish",
+            "cardEmpty": "**NCT U SHOTARO** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png",
+            "cardCode": "NCMA_ST",
+            "cardGuess": "<:grade_C:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCMA_ST_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U SHOTARO** Make A Wish",
+            "cardEmpty": "**NCT U SHOTARO** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png",
+            "cardCode": "NCMA_ST",
+            "cardGuess": "<:grade_B:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCMA_ST_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U SHOTARO** Make A Wish",
+            "cardEmpty": "**NCT U SHOTARO** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png",
+            "cardCode": "NCMA_ST",
+            "cardGuess": "<:grade_A:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCMA_ST_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U SHOTARO** Make A Wish",
+            "cardEmpty": "**NCT U SHOTARO** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png",
+            "cardCode": "NCMA_ST",
+            "cardGuess": "<:grade_S:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCMA_ST_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U SHOTARO** Make A Wish",
+            "cardEmpty": "**NCT U SHOTARO** Make A Wish",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SHOTARO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_make_a_wish.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_make_a_wish.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_make_a_wish_shotaro.png",
+            "cardCode": "NCMA_ST",
+            "cardGuess": "<:grade_R:123456789012345678> **Make A Wish**",
+            "cardSong": "Make A Wish",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "NCVC_JH_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U JAEHYUN** Volcano",
+            "cardEmpty": "**NCT U JAEHYUN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png",
+            "cardCode": "NCVC_JH",
+            "cardGuess": "<:grade_C:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCVC_JH_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U JAEHYUN** Volcano",
+            "cardEmpty": "**NCT U JAEHYUN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png",
+            "cardCode": "NCVC_JH",
+            "cardGuess": "<:grade_B:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCVC_JH_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U JAEHYUN** Volcano",
+            "cardEmpty": "**NCT U JAEHYUN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png",
+            "cardCode": "NCVC_JH",
+            "cardGuess": "<:grade_A:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCVC_JH_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U JAEHYUN** Volcano",
+            "cardEmpty": "**NCT U JAEHYUN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png",
+            "cardCode": "NCVC_JH",
+            "cardGuess": "<:grade_S:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCVC_JH_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U JAEHYUN** Volcano",
+            "cardEmpty": "**NCT U JAEHYUN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JAEHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jaehyun.png",
+            "cardCode": "NCVC_JH",
+            "cardGuess": "<:grade_R:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCVC_MA_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U MARK** Volcano",
+            "cardEmpty": "**NCT U MARK** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-MARK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_mark.png",
+            "cardCode": "NCVC_MA",
+            "cardGuess": "<:grade_C:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCVC_MA_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U MARK** Volcano",
+            "cardEmpty": "**NCT U MARK** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-MARK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_mark.png",
+            "cardCode": "NCVC_MA",
+            "cardGuess": "<:grade_B:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCVC_MA_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U MARK** Volcano",
+            "cardEmpty": "**NCT U MARK** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-MARK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_mark.png",
+            "cardCode": "NCVC_MA",
+            "cardGuess": "<:grade_A:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCVC_MA_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U MARK** Volcano",
+            "cardEmpty": "**NCT U MARK** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-MARK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_mark.png",
+            "cardCode": "NCVC_MA",
+            "cardGuess": "<:grade_S:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCVC_MA_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U MARK** Volcano",
+            "cardEmpty": "**NCT U MARK** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_mark.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-MARK,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_mark.png",
+            "cardCode": "NCVC_MA",
+            "cardGuess": "<:grade_R:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCVC_TY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U TAEYONG** Volcano",
+            "cardEmpty": "**NCT U TAEYONG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png",
+            "cardCode": "NCVC_TY",
+            "cardGuess": "<:grade_C:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCVC_TY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U TAEYONG** Volcano",
+            "cardEmpty": "**NCT U TAEYONG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png",
+            "cardCode": "NCVC_TY",
+            "cardGuess": "<:grade_B:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCVC_TY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U TAEYONG** Volcano",
+            "cardEmpty": "**NCT U TAEYONG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png",
+            "cardCode": "NCVC_TY",
+            "cardGuess": "<:grade_A:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCVC_TY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U TAEYONG** Volcano",
+            "cardEmpty": "**NCT U TAEYONG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png",
+            "cardCode": "NCVC_TY",
+            "cardGuess": "<:grade_S:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCVC_TY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U TAEYONG** Volcano",
+            "cardEmpty": "**NCT U TAEYONG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-TAEYONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_taeyong.png",
+            "cardCode": "NCVC_TY",
+            "cardGuess": "<:grade_R:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCVC_WW_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U WINWIN** Volcano",
+            "cardEmpty": "**NCT U WINWIN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-WINWIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png",
+            "cardCode": "NCVC_WW",
+            "cardGuess": "<:grade_C:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCVC_WW_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U WINWIN** Volcano",
+            "cardEmpty": "**NCT U WINWIN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-WINWIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png",
+            "cardCode": "NCVC_WW",
+            "cardGuess": "<:grade_B:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCVC_WW_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U WINWIN** Volcano",
+            "cardEmpty": "**NCT U WINWIN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-WINWIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png",
+            "cardCode": "NCVC_WW",
+            "cardGuess": "<:grade_A:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCVC_WW_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U WINWIN** Volcano",
+            "cardEmpty": "**NCT U WINWIN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-WINWIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png",
+            "cardCode": "NCVC_WW",
+            "cardGuess": "<:grade_S:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCVC_WW_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U WINWIN** Volcano",
+            "cardEmpty": "**NCT U WINWIN** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-WINWIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_winwin.png",
+            "cardCode": "NCVC_WW",
+            "cardGuess": "<:grade_R:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCVC_JW_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U JUNGWOO** Volcano",
+            "cardEmpty": "**NCT U JUNGWOO** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-JUNGWOO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png",
+            "cardCode": "NCVC_JW",
+            "cardGuess": "<:grade_C:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCVC_JW_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U JUNGWOO** Volcano",
+            "cardEmpty": "**NCT U JUNGWOO** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-JUNGWOO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png",
+            "cardCode": "NCVC_JW",
+            "cardGuess": "<:grade_B:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCVC_JW_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U JUNGWOO** Volcano",
+            "cardEmpty": "**NCT U JUNGWOO** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-JUNGWOO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png",
+            "cardCode": "NCVC_JW",
+            "cardGuess": "<:grade_A:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCVC_JW_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U JUNGWOO** Volcano",
+            "cardEmpty": "**NCT U JUNGWOO** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-JUNGWOO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png",
+            "cardCode": "NCVC_JW",
+            "cardGuess": "<:grade_S:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCVC_JW_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U JUNGWOO** Volcano",
+            "cardEmpty": "**NCT U JUNGWOO** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-JUNGWOO,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_jungwoo.png",
+            "cardCode": "NCVC_JW",
+            "cardGuess": "<:grade_R:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "NCVC_DY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **NCT U DOYOUNG** Volcano",
+            "cardEmpty": "**NCT U DOYOUNG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png",
+            "cardCode": "NCVC_DY",
+            "cardGuess": "<:grade_C:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "NCVC_DY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **NCT U DOYOUNG** Volcano",
+            "cardEmpty": "**NCT U DOYOUNG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png",
+            "cardCode": "NCVC_DY",
+            "cardGuess": "<:grade_B:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "NCVC_DY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **NCT U DOYOUNG** Volcano",
+            "cardEmpty": "**NCT U DOYOUNG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png",
+            "cardCode": "NCVC_DY",
+            "cardGuess": "<:grade_A:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "NCVC_DY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **NCT U DOYOUNG** Volcano",
+            "cardEmpty": "**NCT U DOYOUNG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png",
+            "cardCode": "NCVC_DY",
+            "cardGuess": "<:grade_S:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "NCVC_DY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **NCT U DOYOUNG** Volcano",
+            "cardEmpty": "**NCT U DOYOUNG** Volcano",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-DOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_volcano.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_volcano.png,lx-N10,ly-N275,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/nct_u/c_l_volcano_doyoung.png",
+            "cardCode": "NCVC_DY",
+            "cardGuess": "<:grade_R:123456789012345678> **Volcano**",
+            "cardSong": "Volcano",
+            "cardGroup": "NCT U",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
     ]
 
 }
