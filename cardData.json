@@ -6767,6 +6767,1733 @@
             "cardMin": 2000,
             "cardMax": 3000
         }
+    ],
+
+    "GGMM_TY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Girls' Generation TAEYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TAEYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-TAEYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png",
+            "cardCode": "GGMM_TY",
+            "cardGuess": "<:grade_C:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "GGMM_TY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Girls' Generation TAEYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TAEYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-TAEYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png",
+            "cardCode": "GGMM_TY",
+            "cardGuess": "<:grade_B:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "GGMM_TY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Girls' Generation TAEYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TAEYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-TAEYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png",
+            "cardCode": "GGMM_TY",
+            "cardGuess": "<:grade_A:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "GGMM_TY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Girls' Generation TAEYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TAEYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-TAEYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png",
+            "cardCode": "GGMM_TY",
+            "cardGuess": "<:grade_S:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "GGMM_TY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Girls' Generation TAEYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TAEYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-TAEYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_taeyeon.png",
+            "cardCode": "GGMM_TY",
+            "cardGuess": "<:grade_R:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "GGMM_HY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Girls' Generation HYOYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation HYOYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-HYOYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png",
+            "cardCode": "GGMM_HY",
+            "cardGuess": "<:grade_C:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "GGMM_HY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Girls' Generation HYOYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation HYOYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-HYOYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png",
+            "cardCode": "GGMM_HY",
+            "cardGuess": "<:grade_B:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "GGMM_HY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Girls' Generation HYOYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation HYOYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-HYOYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png",
+            "cardCode": "GGMM_HY",
+            "cardGuess": "<:grade_A:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "GGMM_HY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Girls' Generation HYOYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation HYOYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-HYOYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png",
+            "cardCode": "GGMM_HY",
+            "cardGuess": "<:grade_S:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "GGMM_HY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Girls' Generation HYOYEON** Mr. Mr",
+            "cardEmpty": "**Girls' Generation HYOYEON** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-HYOYEON,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_hyoyeon.png",
+            "cardCode": "GGMM_HY",
+            "cardGuess": "<:grade_R:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "GGMM_TF_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Girls' Generation TIFFANY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TIFFANY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-TIFFANY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png",
+            "cardCode": "GGMM_TF",
+            "cardGuess": "<:grade_C:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "GGMM_TF_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Girls' Generation TIFFANY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TIFFANY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-TIFFANY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png",
+            "cardCode": "GGMM_TF",
+            "cardGuess": "<:grade_B:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "GGMM_TF_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Girls' Generation TIFFANY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TIFFANY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-TIFFANY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png",
+            "cardCode": "GGMM_TF",
+            "cardGuess": "<:grade_A:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "GGMM_TF_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Girls' Generation TIFFANY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TIFFANY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-TIFFANY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png",
+            "cardCode": "GGMM_TF",
+            "cardGuess": "<:grade_S:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "GGMM_TF_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Girls' Generation TIFFANY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation TIFFANY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-TIFFANY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_tiffany.png",
+            "cardCode": "GGMM_TF",
+            "cardGuess": "<:grade_R:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "GGMM_SN_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Girls' Generation SUNNY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SUNNY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SUNNY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png",
+            "cardCode": "GGMM_SN",
+            "cardGuess": "<:grade_C:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "GGMM_SN_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Girls' Generation SUNNY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SUNNY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SUNNY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png",
+            "cardCode": "GGMM_SN",
+            "cardGuess": "<:grade_B:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "GGMM_SN_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Girls' Generation SUNNY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SUNNY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SUNNY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png",
+            "cardCode": "GGMM_SN",
+            "cardGuess": "<:grade_A:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "GGMM_SN_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Girls' Generation SUNNY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SUNNY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SUNNY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png",
+            "cardCode": "GGMM_SN",
+            "cardGuess": "<:grade_S:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "GGMM_SN_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Girls' Generation SUNNY** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SUNNY** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SUNNY,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sunny.png",
+            "cardCode": "GGMM_SN",
+            "cardGuess": "<:grade_R:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "GGMM_SH_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Girls' Generation SEOHYUN** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SEOHYUN** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SEOHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png",
+            "cardCode": "GGMM_SH",
+            "cardGuess": "<:grade_C:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "GGMM_SH_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Girls' Generation SEOHYUN** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SEOHYUN** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SEOHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png",
+            "cardCode": "GGMM_SH",
+            "cardGuess": "<:grade_B:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "GGMM_SH_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Girls' Generation SEOHYUN** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SEOHYUN** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SEOHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png",
+            "cardCode": "GGMM_SH",
+            "cardGuess": "<:grade_A:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "GGMM_SH_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Girls' Generation SEOHYUN** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SEOHYUN** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SEOHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png",
+            "cardCode": "GGMM_SH",
+            "cardGuess": "<:grade_S:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "GGMM_SH_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Girls' Generation SEOHYUN** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SEOHYUN** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SEOHYUN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_seohyun.png",
+            "cardCode": "GGMM_SH",
+            "cardGuess": "<:grade_R:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "GGMM_YN_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Girls' Generation YOONA** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YOONA** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YOONA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png",
+            "cardCode": "GGMM_YN",
+            "cardGuess": "<:grade_C:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "GGMM_YN_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Girls' Generation YOONA** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YOONA** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YOONA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png",
+            "cardCode": "GGMM_YN",
+            "cardGuess": "<:grade_B:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "GGMM_YN_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Girls' Generation YOONA** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YOONA** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YOONA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png",
+            "cardCode": "GGMM_YN",
+            "cardGuess": "<:grade_A:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "GGMM_YN_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Girls' Generation YOONA** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YOONA** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YOONA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png",
+            "cardCode": "GGMM_YN",
+            "cardGuess": "<:grade_S:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "GGMM_YN_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Girls' Generation YOONA** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YOONA** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YOONA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yoona.png",
+            "cardCode": "GGMM_YN",
+            "cardGuess": "<:grade_R:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "GGMM_YR_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Girls' Generation YURI** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YURI** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YURI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png",
+            "cardCode": "GGMM_YR",
+            "cardGuess": "<:grade_C:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "GGMM_YR_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Girls' Generation YURI** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YURI** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YURI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png",
+            "cardCode": "GGMM_YR",
+            "cardGuess": "<:grade_B:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "GGMM_YR_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Girls' Generation YURI** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YURI** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YURI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png",
+            "cardCode": "GGMM_YR",
+            "cardGuess": "<:grade_A:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "GGMM_YR_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Girls' Generation YURI** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YURI** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YURI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png",
+            "cardCode": "GGMM_YR",
+            "cardGuess": "<:grade_S:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "GGMM_YR_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Girls' Generation YURI** Mr. Mr",
+            "cardEmpty": "**Girls' Generation YURI** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YURI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_yuri.png",
+            "cardCode": "GGMM_YR",
+            "cardGuess": "<:grade_R:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "GGMM_SY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-SOOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png",
+            "cardCode": "GGMM_SY",
+            "cardGuess": "<:grade_C:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "GGMM_SY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-SOOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png",
+            "cardCode": "GGMM_SY",
+            "cardGuess": "<:grade_B:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "GGMM_SY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-SOOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png",
+            "cardCode": "GGMM_SY",
+            "cardGuess": "<:grade_A:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "GGMM_SY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-SOOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png",
+            "cardCode": "GGMM_SY",
+            "cardGuess": "<:grade_S:123456789012345678> **Mr. Mr**",
+            "cardSong": "Mr. Mr",
+            "cardGroup": "Girls' Generation",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "GGMM_SY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardEmpty": "**Girls' Generation SOOYOUNG** Mr. Mr",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-SOOYOUNG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_mr_mr.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_snsd.png,lx-N10,ly-N270,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/girls_generation/c_l_mr_mr_sooyoung.png",
+            "cardCode": "GGMM_SY",
+            "cardGuess": "<:grade_R:123456789012345678> **Mr. Mr",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "ITNS_YJ_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY YEJI** Not Shy",
+            "cardEmpty": "**ITZY YEJI** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png",
+            "cardCode": "ITNS_YJ",
+            "cardGuess": "<:grade_C:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITNS_YJ_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY YEJI** Not Shy",
+            "cardEmpty": "**ITZY YEJI** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png",
+            "cardCode": "ITNS_YJ",
+            "cardGuess": "<:grade_B:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITNS_YJ_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY YEJI** Not Shy",
+            "cardEmpty": "**ITZY YEJI** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png",
+            "cardCode": "ITNS_YJ",
+            "cardGuess": "<:grade_A:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITNS_YJ_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY YEJI** Not Shy",
+            "cardEmpty": "**ITZY YEJI** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png",
+            "cardCode": "ITNS_YJ",
+            "cardGuess": "<:grade_S:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITNS_YJ_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY YEJI** Not Shy",
+            "cardEmpty": "**ITZY YEJI** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yeji.png",
+            "cardCode": "ITNS_YJ",
+            "cardGuess": "<:grade_R:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITNS_LI_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY LIA** Not Shy",
+            "cardEmpty": "**ITZY LIA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_lia.png",
+            "cardCode": "ITNS_LI",
+            "cardGuess": "<:grade_C:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITNS_LI_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY LIA** Not Shy",
+            "cardEmpty": "**ITZY LIA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_lia.png",
+            "cardCode": "ITNS_LI",
+            "cardGuess": "<:grade_B:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITNS_LI_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY LIA** Not Shy",
+            "cardEmpty": "**ITZY LIA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_lia.png",
+            "cardCode": "ITNS_LI",
+            "cardGuess": "<:grade_A:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITNS_LI_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY LIA** Not Shy",
+            "cardEmpty": "**ITZY LIA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_lia.png",
+            "cardCode": "ITNS_LI",
+            "cardGuess": "<:grade_S:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITNS_LI_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY LIA** Not Shy",
+            "cardEmpty": "**ITZY LIA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_lia.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_lia.png",
+            "cardCode": "ITNS_LI",
+            "cardGuess": "<:grade_R:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITNS_RJ_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY RYUJIN** Not Shy",
+            "cardEmpty": "**ITZY RYUJIN** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png",
+            "cardCode": "ITNS_RJ",
+            "cardGuess": "<:grade_C:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITNS_RJ_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY RYUJIN** Not Shy",
+            "cardEmpty": "**ITZY RYUJIN** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png",
+            "cardCode": "ITNS_RJ",
+            "cardGuess": "<:grade_B:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITNS_RJ_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY RYUJIN** Not Shy",
+            "cardEmpty": "**ITZY RYUJIN** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png",
+            "cardCode": "ITNS_RJ",
+            "cardGuess": "<:grade_A:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITNS_RJ_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY RYUJIN** Not Shy",
+            "cardEmpty": "**ITZY RYUJIN** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png",
+            "cardCode": "ITNS_RJ",
+            "cardGuess": "<:grade_S:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITNS_RJ_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY RYUJIN** Not Shy",
+            "cardEmpty": "**ITZY RYUJIN** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_ryujin.png",
+            "cardCode": "ITNS_RJ",
+            "cardGuess": "<:grade_R:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITNS_CY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY CHAERYEONG** Not Shy",
+            "cardEmpty": "**ITZY CHAERYEONG** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png",
+            "cardCode": "ITNS_CY",
+            "cardGuess": "<:grade_C:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITNS_CY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY CHAERYEONG** Not Shy",
+            "cardEmpty": "**ITZY CHAERYEONG** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png",
+            "cardCode": "ITNS_CY",
+            "cardGuess": "<:grade_B:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITNS_CY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY CHAERYEONG** Not Shy",
+            "cardEmpty": "**ITZY CHAERYEONG** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png",
+            "cardCode": "ITNS_CY",
+            "cardGuess": "<:grade_A:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITNS_CY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY CHAERYEONG** Not Shy",
+            "cardEmpty": "**ITZY CHAERYEONG** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png",
+            "cardCode": "ITNS_CY",
+            "cardGuess": "<:grade_S:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITNS_CY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY CHAERYEONG** Not Shy",
+            "cardEmpty": "**ITZY CHAERYEONG** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_chaeryeong.png",
+            "cardCode": "ITNS_CY",
+            "cardGuess": "<:grade_R:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITNS_YN_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY YUNA** Not Shy",
+            "cardEmpty": "**ITZY YUNA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png",
+            "cardCode": "ITNS_YN",
+            "cardGuess": "<:grade_C:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITNS_YN_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY YUNA** Not Shy",
+            "cardEmpty": "**ITZY YUNA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png",
+            "cardCode": "ITNS_YN",
+            "cardGuess": "<:grade_B:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITNS_YN_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY YUNA** Not Shy",
+            "cardEmpty": "**ITZY YUNA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png",
+            "cardCode": "ITNS_YN",
+            "cardGuess": "<:grade_A:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITNS_YN_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY YUNA** Not Shy",
+            "cardEmpty": "**ITZY YUNA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png",
+            "cardCode": "ITNS_YN",
+            "cardGuess": "<:grade_S:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITNS_YN_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY YUNA** Not Shy",
+            "cardEmpty": "**ITZY YUNA** Not Shy",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_not_shy.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_not_shy_yuna.png",
+            "cardCode": "ITNS_YN",
+            "cardGuess": "<:grade_R:123456789012345678> **Not Shy**",
+            "cardSong": "Not Shy",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "ITLC_YJ_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY YEJI** LOCO",
+            "cardEmpty": "**ITZY YEJI** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yeji.png",
+            "cardCode": "ITLC_YJ",
+            "cardGuess": "<:grade_C:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITLC_YJ_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY YEJI** LOCO",
+            "cardEmpty": "**ITZY YEJI** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yeji.png",
+            "cardCode": "ITLC_YJ",
+            "cardGuess": "<:grade_B:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITLC_YJ_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY YEJI** LOCO",
+            "cardEmpty": "**ITZY YEJI** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yeji.png",
+            "cardCode": "ITLC_YJ",
+            "cardGuess": "<:grade_A:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITLC_YJ_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY YEJI** LOCO",
+            "cardEmpty": "**ITZY YEJI** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yeji.png",
+            "cardCode": "ITLC_YJ",
+            "cardGuess": "<:grade_S:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITLC_YJ_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY YEJI** LOCO",
+            "cardEmpty": "**ITZY YEJI** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yeji.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yeji.png",
+            "cardCode": "ITLC_YJ",
+            "cardGuess": "<:grade_R:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITLC_LI_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY LIA** LOCO",
+            "cardEmpty": "**ITZY LIA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_lia.png",
+            "cardCode": "ITLC_LI",
+            "cardGuess": "<:grade_C:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITLC_LI_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY LIA** LOCO",
+            "cardEmpty": "**ITZY LIA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_lia.png",
+            "cardCode": "ITLC_LI",
+            "cardGuess": "<:grade_B:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITLC_LI_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY LIA** LOCO",
+            "cardEmpty": "**ITZY LIA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_lia.png",
+            "cardCode": "ITLC_LI",
+            "cardGuess": "<:grade_A:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITLC_LI_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY LIA** LOCO",
+            "cardEmpty": "**ITZY LIA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_lia.png",
+            "cardCode": "ITLC_LI",
+            "cardGuess": "<:grade_S:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITLC_LI_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY LIA** LOCO",
+            "cardEmpty": "**ITZY LIA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_lia.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_lia.png",
+            "cardCode": "ITLC_LI",
+            "cardGuess": "<:grade_R:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITLC_RJ_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY RYUJIN** LOCO",
+            "cardEmpty": "**ITZY RYUJIN** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_ryujin.png",
+            "cardCode": "ITLC_RJ",
+            "cardGuess": "<:grade_C:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITLC_RJ_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY RYUJIN** LOCO",
+            "cardEmpty": "**ITZY RYUJIN** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_ryujin.png",
+            "cardCode": "ITLC_RJ",
+            "cardGuess": "<:grade_B:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITLC_RJ_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY RYUJIN** LOCO",
+            "cardEmpty": "**ITZY RYUJIN** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_ryujin.png",
+            "cardCode": "ITLC_RJ",
+            "cardGuess": "<:grade_A:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITLC_RJ_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY RYUJIN** LOCO",
+            "cardEmpty": "**ITZY RYUJIN** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_ryujin.png",
+            "cardCode": "ITLC_RJ",
+            "cardGuess": "<:grade_S:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITLC_RJ_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY RYUJIN** LOCO",
+            "cardEmpty": "**ITZY RYUJIN** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_ryujin.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_ryujin.png",
+            "cardCode": "ITLC_RJ",
+            "cardGuess": "<:grade_R:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITLC_CY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY CHAERYEONG** LOCO",
+            "cardEmpty": "**ITZY CHAERYEONG** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png",
+            "cardCode": "ITLC_CY",
+            "cardGuess": "<:grade_C:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITLC_CY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY CHAERYEONG** LOCO",
+            "cardEmpty": "**ITZY CHAERYEONG** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png",
+            "cardCode": "ITLC_CY",
+            "cardGuess": "<:grade_B:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITLC_CY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY CHAERYEONG** LOCO",
+            "cardEmpty": "**ITZY CHAERYEONG** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png",
+            "cardCode": "ITLC_CY",
+            "cardGuess": "<:grade_A:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITLC_CY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY CHAERYEONG** LOCO",
+            "cardEmpty": "**ITZY CHAERYEONG** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png",
+            "cardCode": "ITLC_CY",
+            "cardGuess": "<:grade_S:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITLC_CY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY CHAERYEONG** LOCO",
+            "cardEmpty": "**ITZY CHAERYEONG** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_chaeryeong.png",
+            "cardCode": "ITLC_CY",
+            "cardGuess": "<:grade_R:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITLC_YN_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY YUNA** LOCO",
+            "cardEmpty": "**ITZY YUNA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yuna.png",
+            "cardCode": "ITLC_YN",
+            "cardGuess": "<:grade_C:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITLC_YN_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY YUNA** LOCO",
+            "cardEmpty": "**ITZY YUNA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yuna.png",
+            "cardCode": "ITLC_YN",
+            "cardGuess": "<:grade_B:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITLC_YN_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY YUNA** LOCO",
+            "cardEmpty": "**ITZY YUNA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yuna.png",
+            "cardCode": "ITLC_YN",
+            "cardGuess": "<:grade_A:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITLC_YN_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY YUNA** LOCO",
+            "cardEmpty": "**ITZY YUNA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yuna.png",
+            "cardCode": "ITLC_YN",
+            "cardGuess": "<:grade_S:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITLC_YN_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY YUNA** LOCO",
+            "cardEmpty": "**ITZY YUNA** LOCO",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_loco_yuna.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_loco.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_loco_yuna.png",
+            "cardCode": "ITLC_YN",
+            "cardGuess": "<:grade_R:123456789012345678> **LOCO**",
+            "cardSong": "LOCO",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+
+    "ITWB_YJ_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY YEJI** WANNABE",
+            "cardEmpty": "**ITZY YEJI** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png",
+            "cardCode": "ITWB_YJ",
+            "cardGuess": "<:grade_C:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITWB_YJ_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY YEJI** WANNABE",
+            "cardEmpty": "**ITZY YEJI** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png",
+            "cardCode": "ITWB_YJ",
+            "cardGuess": "<:grade_B:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITWB_YJ_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY YEJI** WANNABE",
+            "cardEmpty": "**ITZY YEJI** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png",
+            "cardCode": "ITWB_YJ",
+            "cardGuess": "<:grade_A:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITWB_YJ_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY YEJI** WANNABE",
+            "cardEmpty": "**ITZY YEJI** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png",
+            "cardCode": "ITWB_YJ",
+            "cardGuess": "<:grade_S:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITWB_YJ_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY YEJI** WANNABE",
+            "cardEmpty": "**ITZY YEJI** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YEJI,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yeji.png",
+            "cardCode": "ITWB_YJ",
+            "cardGuess": "<:grade_R:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITWB_LI_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY LIA** WANNABE",
+            "cardEmpty": "**ITZY LIA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_lia.png",
+            "cardCode": "ITWB_LI",
+            "cardGuess": "<:grade_C:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITWB_LI_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY LIA** WANNABE",
+            "cardEmpty": "**ITZY LIA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_lia.png",
+            "cardCode": "ITWB_LI",
+            "cardGuess": "<:grade_B:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITWB_LI_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY LIA** WANNABE",
+            "cardEmpty": "**ITZY LIA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_lia.png",
+            "cardCode": "ITWB_LI",
+            "cardGuess": "<:grade_A:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITWB_LI_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY LIA** WANNABE",
+            "cardEmpty": "**ITZY LIA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_lia.png",
+            "cardCode": "ITWB_LI",
+            "cardGuess": "<:grade_S:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITWB_LI_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY LIA** WANNABE",
+            "cardEmpty": "**ITZY LIA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_lia.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-LIA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_lia.png",
+            "cardCode": "ITWB_LI",
+            "cardGuess": "<:grade_R:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITWB_RJ_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY RYUJIN** WANNABE",
+            "cardEmpty": "**ITZY RYUJIN** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png",
+            "cardCode": "ITWB_RJ",
+            "cardGuess": "<:grade_C:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITWB_RJ_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY RYUJIN** WANNABE",
+            "cardEmpty": "**ITZY RYUJIN** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png",
+            "cardCode": "ITWB_RJ",
+            "cardGuess": "<:grade_B:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITWB_RJ_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY RYUJIN** WANNABE",
+            "cardEmpty": "**ITZY RYUJIN** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png",
+            "cardCode": "ITWB_RJ",
+            "cardGuess": "<:grade_A:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITWB_RJ_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY RYUJIN** WANNABE",
+            "cardEmpty": "**ITZY RYUJIN** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png",
+            "cardCode": "ITWB_RJ",
+            "cardGuess": "<:grade_S:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITWB_RJ_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY RYUJIN** WANNABE",
+            "cardEmpty": "**ITZY RYUJIN** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-RYUJIN,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_ryujin.png",
+            "cardCode": "ITWB_RJ",
+            "cardGuess": "<:grade_R:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITWB_CY_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY CHAERYEONG** WANNABE",
+            "cardEmpty": "**ITZY CHAERYEONG** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png",
+            "cardCode": "ITWB_CY",
+            "cardGuess": "<:grade_C:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITWB_CY_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY CHAERYEONG** WANNABE",
+            "cardEmpty": "**ITZY CHAERYEONG** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png",
+            "cardCode": "ITWB_CY",
+            "cardGuess": "<:grade_B:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITWB_CY_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY CHAERYEONG** WANNABE",
+            "cardEmpty": "**ITZY CHAERYEONG** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png",
+            "cardCode": "ITWB_CY",
+            "cardGuess": "<:grade_A:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITWB_CY_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY CHAERYEONG** WANNABE",
+            "cardEmpty": "**ITZY CHAERYEONG** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png",
+            "cardCode": "ITWB_CY",
+            "cardGuess": "<:grade_S:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITWB_CY_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY CHAERYEONG** WANNABE",
+            "cardEmpty": "**ITZY CHAERYEONG** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-CHAERYEONG,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_chaeryeong.png",
+            "cardCode": "ITWB_CY",
+            "cardGuess": "<:grade_R:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
+    ],
+    "ITWB_YN_C": [
+        {
+            "cardName": "<:grade_C:123456789012345678> **ITZY YUNA** WANNABE",
+            "cardEmpty": "**ITZY YUNA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@c_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true:l-image,i-c_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png",
+            "cardCode": "ITWB_YN",
+            "cardGuess": "<:grade_C:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 50,
+            "cardMax": 100
+        }
+    ],
+    "ITWB_YN_B": [
+        {
+            "cardName": "<:grade_B:123456789012345678> **ITZY YUNA** WANNABE",
+            "cardEmpty": "**ITZY YUNA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@b_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true:l-image,i-b_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png",
+            "cardCode": "ITWB_YN",
+            "cardGuess": "<:grade_B:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 200,
+            "cardMax": 200
+        }
+    ],
+    "ITWB_YN_A": [
+        {
+            "cardName": "<:grade_A:123456789012345678> **ITZY YUNA** WANNABE",
+            "cardEmpty": "**ITZY YUNA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@a_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true:l-image,i-a_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png",
+            "cardCode": "ITWB_YN",
+            "cardGuess": "<:grade_A:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 600,
+            "cardMax": 600
+        }
+    ],
+    "ITWB_YN_S": [
+        {
+            "cardName": "<:grade_S:123456789012345678> **ITZY YUNA** WANNABE",
+            "cardEmpty": "**ITZY YUNA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@s_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true:l-image,i-s_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png",
+            "cardCode": "ITWB_YN",
+            "cardGuess": "<:grade_S:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 1000,
+            "cardMax": 1200
+        }
+    ],
+    "ITWB_YN_R": [
+        {
+            "cardName": "<:grade_R:123456789012345678> **ITZY YUNA** WANNABE",
+            "cardEmpty": "**ITZY YUNA** WANNABE",
+            "cardSmall": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true,w-94,h-126:l-image,i-resources@@images@@card_edge@@r_small.png,l-end",
+            "cardLarge": "https://ik.imagekit.io/atss/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png?tr=lo-true:l-image,i-r_card.png,lx-138,ly-222,l-end:l-text,i-YUNA,ia-center,ff-IF_Std_Bd.ttf,fs-29,co-white,lx-N15,ly-273,l-end:l-image,i-resources@@images@@theme@@theme_s_wannabe.png,lx-N15,ly-242,l-end:l-image,i-resources@@images@@emblem@@emblem_itzy.png,lx-N10,ly-N260,l-end",
+            "cardEmptyImg": "https://ik.imagekit.io/atss/tr:lo-true,o-40/resources/images/card/card_l/itzy/c_l_wannabe_yuna.png",
+            "cardCode": "ITWB_YN",
+            "cardGuess": "<:grade_R:123456789012345678> **WANNABE**",
+            "cardSong": "WANNABE",
+            "cardGroup": "ITZY",
+            "cardMin": 2000,
+            "cardMax": 3000
+        }
     ]
 
 }
